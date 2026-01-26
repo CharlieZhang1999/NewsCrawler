@@ -1,0 +1,49 @@
+name: Crawl Semiconductor News
+
+on:
+  schedule:
+    # Runs at 8am EST (13:00 UTC) every day
+    # Note: During EDT (daylight saving), this will run at 9am EDT
+    # To adjust for EDT, change to "0 12 * * *" (12:00 UTC = 8am EDT)
+    - cron: "0 13 * * *"
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  crawl-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run crawler
+        run: |
+          python scripts/crawl_semiconductor_news.py
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Commit and push changes
+        run: |
+          git add -A
+          if ! git diff --staged --quiet; then
+            git commit -m "Automated update: Semiconductor news crawl [$(date +'%Y-%m-%d %H:%M:%S UTC')]"
+            git push
+          else
+            echo "No changes to commit"
+          fi
