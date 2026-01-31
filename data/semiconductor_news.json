@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-30T13:57:44.047900",
-  "total_articles": 45,
+  "last_updated": "2026-01-31T13:42:33.662242",
+  "total_articles": 48,
   "new_articles_today": 3,
   "articles": [
     {
@@ -317,6 +317,27 @@
       "source": "CNBC",
       "crawled_at": "2026-01-30T13:57:44.045147",
       "published_time": "Thu, Jan 29th 2026"
+    },
+    {
+      "title": "Buzz about Broadcom’s custom chips is testing, but not breaking Nvidia's dominance",
+      "url": "https://www.cnbc.com/2026/01/30/popularity-of-broadcoms-custom-chips-is-testing-but-not-breaking-nvidias-dominance-.html",
+      "source": "CNBC",
+      "crawled_at": "2026-01-31T13:42:33.094056",
+      "published_time": "Fri, Jan 30th 2026"
+    },
+    {
+      "title": "Sandisk stock soars 6% after blowout earnings report shows strong AI demand",
+      "url": "https://www.cnbc.com/2026/01/30/sandisk-stock-earnings-ai-memory-demand.html",
+      "source": "CNBC",
+      "crawled_at": "2026-01-31T13:42:33.094265",
+      "published_time": "Fri, Jan 30th 2026"
+    },
+    {
+      "title": "Former Google engineer found guilty of espionage and theft of AI tech",
+      "url": "https://www.cnbc.com/2026/01/30/former-google-engineer-found-guilty-of-espionage-and-theft-of-ai-tech.html",
+      "source": "CNBC",
+      "crawled_at": "2026-01-31T13:42:33.658012",
+      "published_time": "Fri, Jan 30th 2026"
     }
   ]
 }
