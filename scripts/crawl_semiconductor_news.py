@@ -230,8 +230,9 @@ def save_articles(articles, output_file='data/semiconductor_news.json'):
     # Add new articles that don't already exist
     new_articles = [article for article in articles if article.get('url', '') not in existing_urls]
     
-    # Combine existing and new articles
-    all_articles = existing_articles + new_articles
+    # Combine articles with new ones first (latest to oldest)
+    # New articles are prepended to maintain chronological order (newest first)
+    all_articles = new_articles + existing_articles
     
     # Save to file
     output_data = {

@@ -1,114 +1,59 @@
-# Semiconductor News Daily Summary - AI-Powered
+# Semiconductor News Daily Summary
 
-This repository contains a GitHub Actions workflow that automatically generates AI-powered daily summaries of semiconductor news from CNBC.
+This repository contains a GitHub Actions workflow that automatically crawls semiconductor news from CNBC and sends you a beautiful HTML email with all the latest articles.
 
 ## How It Works
 
 The workflow runs daily at **8am EST** and:
-1. Fetches the latest articles from [CNBC Semiconductors](https://www.cnbc.com/semiconductors/)
-2. Uses AI (OpenAI GPT-4 or Anthropic Claude) to analyze and summarize the news
-3. Generates a comprehensive markdown summary with:
-   - Links to all news articles
-   - Key tech trends (2-3 major themes)
-   - Major announcements
-   - Industry impact analysis
-4. Commits the summary to the `summaries/` folder
-5. Pushes to GitHub (which triggers email notifications if enabled)
+1. Fetches ALL latest articles from [CNBC Semiconductors](https://www.cnbc.com/semiconductors/)
+2. Saves articles as JSON in `data/semiconductor_news.json`
+3. Generates a beautiful HTML email with:
+   - All articles with clickable titles
+   - Timestamps for each article
+   - Statistics (total articles, new articles today)
+   - Professional newsletter-style formatting
+4. Sends the email to `qiuyangzhangcharlie@gmail.com`
+5. Commits the JSON data to GitHub
 
 ## Setup Instructions
 
-### 1. Get an AI API Key
+### 1. Setup Gmail for Sending Emails
 
-You need an API key from either:
+Follow the detailed guide: **[GMAIL_SETUP.md](GMAIL_SETUP.md)**
 
-#### Option A: OpenAI (Recommended)
-1. Go to [OpenAI Platform](https://platform.openai.com/)
-2. Create an account or sign in
-3. Navigate to API Keys
-4. Create a new API key
-5. Copy the key (starts with `sk-...`)
+Quick summary:
+1. Enable 2-Factor Authentication on your Gmail account
+2. Generate a Gmail App Password
+3. Add two secrets to GitHub repository:
+   - `GMAIL_SENDER`: Your Gmail address
+   - `GMAIL_APP_PASSWORD`: The 16-character app password
 
-#### Option B: Anthropic Claude
-1. Go to [Anthropic Console](https://console.anthropic.com/)
-2. Create an account or sign in
-3. Navigate to API Keys
-4. Create a new API key
-5. Copy the key
-
-### 2. Add API Key to GitHub Secrets
-
-1. Go to your repository **Settings** → **Secrets and variables** → **Actions**
-2. Click **New repository secret**
-3. Add one of these secrets:
-   - For OpenAI: Name: `OPENAI_API_KEY`, Value: your API key
-   - For Claude: Name: `ANTHROPIC_API_KEY`, Value: your API key
-
-### 3. Configure GitHub Permissions
+### 2. Configure GitHub Permissions
 
 1. Go to repository **Settings** → **Actions** → **General**
 2. Under **Workflow permissions**, select **Read and write permissions**
 3. Check **Allow GitHub Actions to create and approve pull requests**
 
-### 4. (Optional) Switch to Claude
+## Email Format
 
-If you want to use Anthropic Claude instead of OpenAI:
+You'll receive a beautiful HTML email that includes:
 
-1. Open `.github/workflows/crawl_semiconductor_news.yml`
-2. In the `env:` section, uncomment these lines:
-   ```yaml
-   ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-   AI_API_TYPE: anthropic
-   ```
-3. Comment out the OpenAI lines
+- 📊 **Statistics Dashboard** - Total articles and new articles count
+- 📰 **All Articles Listed** - Every article with title, link, and timestamp
+- 🆕 **"NEW TODAY" Badges** - Highlights articles found in the current run
+- 🎨 **Professional Design** - Modern, responsive HTML layout
+- 📱 **Mobile-Friendly** - Looks great on phones, tablets, and desktop
 
-## Email Notifications
-
-To receive email notifications when summaries are generated:
-
-### Option A: GitHub Email Notifications
-1. Go to your GitHub **Settings** → **Notifications**
-2. Enable email notifications for **Commits**
-3. Make sure you're watching this repository (Watch → All Activity)
-
-### Option B: Watch the Repository
-1. Click **Watch** at the top of the repository
-2. Select **All Activity**
-3. You'll get emails for every commit
+The email will be sent to: **qiuyangzhangcharlie@gmail.com**
 
 ## Manual Trigger
 
-You can manually generate a summary anytime:
+You can manually trigger the workflow anytime:
 1. Go to the **Actions** tab
 2. Select **Daily Semiconductor News Summary** workflow
 3. Click **Run workflow**
 4. Click the green **Run workflow** button
-
-## Summary Format
-
-Each daily summary includes:
-
-```markdown
-# Semiconductor News Summary - YYYY-MM-DD
-
-## LINKS TO THE NEWS
-- List of all articles with titles and links
-
-## KEY TECH TRENDS
-- 2-3 major themes identified from the news
-
-## MAJOR ANNOUNCEMENTS
-- Significant product launches, acquisitions, company news
-
-## INDUSTRY IMPACT
-- Analysis of how these developments affect the tech ecosystem
-
-## All Articles
-- Complete list of all articles found
-```
-
-Summaries are saved in the `summaries/` folder with filenames like:
-- `semiconductor_news_2026-01-29.md`
-- `semiconductor_news_2026-01-30.md`
+5. Check your email inbox!
 
 ## Schedule
 
@@ -122,34 +67,27 @@ To adjust timing, modify the cron expression in `.github/workflows/crawl_semicon
 
 ## Cost Considerations
 
-### OpenAI API Costs
-- GPT-4: ~$0.01-0.03 per summary (based on ~500-1000 tokens)
-- GPT-3.5-Turbo: ~$0.001 per summary (cheaper alternative)
-
-To use GPT-3.5-Turbo instead, edit `scripts/generate_daily_summary.py`:
-```python
-model="gpt-3.5-turbo"  # instead of "gpt-4"
-```
-
-### Anthropic API Costs
-- Claude 3.5 Sonnet: ~$0.015 per summary
-
-Monthly cost estimate: **$0.30-$0.90** (assuming daily runs)
+**Free!** ✨ This setup is completely free:
+- GitHub Actions: Free for public repositories
+- Gmail SMTP: Free for personal use
+- Web scraping: No API costs
 
 ## Troubleshooting
 
-### Workflow fails with "No API key found"
-- Make sure you've added `OPENAI_API_KEY` or `ANTHROPIC_API_KEY` to GitHub Secrets
-- Check that the secret name matches exactly (case-sensitive)
+### Email not received
+- Check spam/junk folder
+- Verify Gmail secrets are set correctly (see GMAIL_SETUP.md)
+- Check GitHub Actions logs for error messages
 
-### No commit/push happens
-- Check that GitHub Actions has write permissions (see Setup step 3)
-- Look at the workflow logs in the Actions tab for error messages
+### Workflow fails
+- Ensure GitHub Actions has write permissions
+- Check that all secrets are added correctly
+- Look at the Actions tab logs for specific errors
 
-### Summary quality issues
-- GPT-4 generally provides better analysis than GPT-3.5-Turbo
-- Claude 3.5 Sonnet is comparable to GPT-4
-- You can adjust the prompt in `scripts/generate_daily_summary.py`
+### No articles found
+- CNBC may have changed their HTML structure
+- Check if the website is accessible
+- Look at the logs to see what was scraped
 
 ## Local Testing
 
@@ -159,17 +97,18 @@ To test locally:
 # Install dependencies
 pip install -r requirements.txt
 
-# Set your API key
-export OPENAI_API_KEY="your-key-here"
-# OR
-export ANTHROPIC_API_KEY="your-key-here"
-export AI_API_TYPE="anthropic"
+# Set Gmail credentials
+export GMAIL_SENDER="youremail@gmail.com"
+export GMAIL_APP_PASSWORD="your-16-char-app-password"
 
-# Run the script
-python scripts/generate_daily_summary.py
+# Run the crawler
+python scripts/crawl_semiconductor_news.py
+
+# Send test email
+python scripts/send_email.py
 ```
 
-The summary will be saved to `summaries/semiconductor_news_YYYY-MM-DD.md`
+The data will be saved to `data/semiconductor_news.json` and an email will be sent.
 
 ## Files Structure
 
@@ -178,10 +117,11 @@ The summary will be saved to `summaries/semiconductor_news_YYYY-MM-DD.md`
 ├── .github/workflows/
 │   └── crawl_semiconductor_news.yml  # GitHub Actions workflow
 ├── scripts/
-│   ├── generate_daily_summary.py      # Main AI summary generator
-│   └── crawl_semiconductor_news.py    # (old scraper, kept for reference)
-├── summaries/                          # Generated summaries stored here
-│   └── semiconductor_news_*.md
+│   ├── crawl_semiconductor_news.py    # Web scraper for CNBC
+│   └── send_email.py                  # HTML email sender
+├── data/
+│   └── semiconductor_news.json        # Crawled articles (JSON)
 ├── requirements.txt                    # Python dependencies
-└── README.md                           # This file
+├── README.md                           # This file
+└── GMAIL_SETUP.md                     # Gmail setup guide
 ```
