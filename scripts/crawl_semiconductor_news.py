@@ -211,34 +211,15 @@ def save_articles(articles, output_file='data/semiconductor_news.json'):
     # Create data directory if it doesn't exist
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
     
-    # Load existing articles if file exists
-    existing_articles = []
-    if os.path.exists(output_file):
-        try:
-            with open(output_file, 'r', encoding='utf-8') as f:
-                existing_data = json.load(f)
-                if isinstance(existing_data, list):
-                    existing_articles = existing_data
-                elif isinstance(existing_data, dict) and 'articles' in existing_data:
-                    existing_articles = existing_data['articles']
-        except (json.JSONDecodeError, FileNotFoundError):
-            pass
-    
-    # Create a set of existing URLs to avoid duplicates
-    existing_urls = {article.get('url', '') for article in existing_articles}
-    
     # Add new articles that don't already exist
-    new_articles = [article for article in articles if article.get('url', '') not in existing_urls]
+    all_articles = [article for article in articles]
     
-    # Combine articles with new ones first (latest to oldest)
-    # New articles are prepended to maintain chronological order (newest first)
-    all_articles = new_articles + existing_articles
     
     # Save to file
     output_data = {
         'last_updated': datetime.utcnow().isoformat(),
         'total_articles': len(all_articles),
-        'new_articles_today': len(new_articles),
+        'articles_today': len(all_articles),
         'articles': all_articles
     }
     
@@ -246,7 +227,7 @@ def save_articles(articles, output_file='data/semiconductor_news.json'):
         json.dump(output_data, f, indent=2, ensure_ascii=False)
     
     print(f"\nSaved {len(new_articles)} new articles. Total articles: {len(all_articles)}")
-    return len(new_articles)
+    return len(all_articles)
 
 
 def main():
