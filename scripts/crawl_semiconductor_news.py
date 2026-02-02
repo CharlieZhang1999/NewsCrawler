@@ -226,7 +226,7 @@ def save_articles(articles, output_file='data/semiconductor_news.json'):
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(output_data, f, indent=2, ensure_ascii=False)
     
-    print(f"\nSaved {len(new_articles)} new articles. Total articles: {len(all_articles)}")
+    print(f"\nSaved {len(all_articles)} new articles. Total articles: {len(all_articles)}")
     return len(all_articles)
 
 
