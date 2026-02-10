@@ -160,7 +160,7 @@ def get_cnbc_semiconductor_news():
                         title_lower = title.lower() if title else ''
                         url_lower = full_url.lower()
                         
-                        keywords = ['semiconductor', 'chip', 'technology', 'tech', 'nvidia', 'amd', 'intel', 'tsmc']
+                        keywords = ['semiconductor', 'chip', 'technology', 'tech', 'nvidia', 'amd', 'intel', 'tsmc', 'asml', 'broadcom', 'qualcomm', 'cadence']
                         should_keep = any(
                             (keyword in url_lower) or (keyword in title_lower) or (keyword in container_text)
                             for keyword in keywords
