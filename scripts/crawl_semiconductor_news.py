@@ -29,6 +29,7 @@ def get_cnbc_semiconductor_news():
     # General URLs: filter by keywords
     general_urls = [
         "https://www.cnbc.com/technology/",
+        "https://www.cnbc.com/health-and-science/",
     ]
     
     headers = {
@@ -120,7 +121,9 @@ def get_cnbc_semiconductor_news():
             
             # Find all Card-titleContainer elements (each contains an article)
             card_containers = soup.find_all(class_='Card-titleContainer')
+            print(f"  Found {len(card_containers)} cards on page")
             
+            filtered_count = 0
             for container in card_containers:
                 try:
                     # Find the link with class "Card-title" inside the container
@@ -156,17 +159,28 @@ def get_cnbc_semiconductor_news():
                         time_text = time_elem.get_text(strip=True) if time_elem else None
                         
                         # Filter by keywords for general sections
+                        # Check title and container text for semiconductor-specific terms
+                        # Don't check URL to avoid matching everything on /technology/
                         container_text = container.get_text().lower()
                         title_lower = title.lower() if title else ''
-                        url_lower = full_url.lower()
                         
-                        keywords = ['semiconductor', 'chip', 'technology', 'tech', 'nvidia', 'amd', 'intel', 'tsmc', 'asml', 'broadcom', 'qualcomm', 'cadence']
+                        # Specific semiconductor-related keywords
+                        keywords = [
+                            'semiconductor', 'chip', 'chips', 'chipmaker',
+                            'nvidia', 'amd', 'intel', 'tsmc', 'asml', 
+                            'broadcom', 'qualcomm', 'micron', 'samsung', 'cadence'
+                            'memory', 'ai chip', 'gpu', 'cpu', 'processor', 'asic',
+                            'foundry', 'fab', 'wafer', '5nm', '3nm', '7nm', 'neuralink', 'brain','neuroscience','depression','lilly'
+                        ]
+                        
+                        # Only check title and content, not URL
                         should_keep = any(
-                            (keyword in url_lower) or (keyword in title_lower) or (keyword in container_text)
+                            (keyword in title_lower) or (keyword in container_text)
                             for keyword in keywords
                         )
                         
                         if should_keep:
+                            filtered_count += 1
                             found_links.add(full_url)
                             
                             article_data = {
@@ -180,10 +194,13 @@ def get_cnbc_semiconductor_news():
                                 article_data['published_time'] = time_text
                             
                             articles.append(article_data)
+                            filtered_count += 1
                         
                 except Exception as e:
                     print(f"Error processing card container: {e}")
                     continue
+            
+            print(f"  ✓ Kept {filtered_count} semiconductor or neuroscience related articles from general section\n")
             
         except requests.RequestException as e:
             print(f"Error fetching {url}: {e}")
