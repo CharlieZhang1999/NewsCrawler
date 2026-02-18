@@ -168,9 +168,10 @@ def get_cnbc_semiconductor_news():
                         keywords = [
                             'semiconductor', 'chip', 'chips', 'chipmaker',
                             'nvidia', 'amd', 'intel', 'tsmc', 'asml', 
-                            'broadcom', 'qualcomm', 'micron', 'samsung', 'cadence'
+                            'broadcom', 'qualcomm', 'micron', 'samsung', 'cadence',
                             'memory', 'ai chip', 'gpu', 'cpu', 'processor', 'asic',
-                            'foundry', 'fab', 'wafer', '5nm', '3nm', '7nm', 'neuralink', 'brain','neuroscience','depression','lilly'
+                            'foundry', 'fab', 'wafer', '5nm', '3nm', '7nm', 
+                            'neuralink', 'brain', 'neuroscience', 'depression', 'lilly'
                         ]
                         
                         # Only check title and content, not URL

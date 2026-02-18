@@ -1,13 +1,21 @@
 # Semiconductor News Daily Summary
 
-This repository contains a GitHub Actions workflow that automatically crawls semiconductor news from CNBC and sends you a beautiful HTML email with all the latest articles.
+This repository contains a GitHub Actions workflow that automatically crawls semiconductor news from **multiple sources** and sends you a beautiful HTML email with all the latest articles.
+
+## News Sources
+
+- 📰 **CNBC Semiconductors** - Dedicated semiconductor section
+- 📰 **CNBC Technology** - Filtered for semiconductor keywords
+- 📰 **CNBC Health & Science** - Filtered for neuroscience/brain-related news
+- 🔍 **Google News** - Semiconductor topic aggregation
 
 ## How It Works
 
 The workflow runs daily at **8am EST** and:
-1. Fetches ALL latest articles from [CNBC Semiconductors](https://www.cnbc.com/semiconductors/)
-2. Saves articles as JSON in `data/semiconductor_news.json`
-3. Generates a beautiful HTML email with:
+1. Crawls all news sources using dedicated crawlers
+2. Combines and deduplicates articles from all sources
+3. Saves to `data/combined_semiconductor_news.json`
+4. Generates a beautiful HTML email with:
    - All articles with clickable titles
    - Timestamps for each article
    - Statistics (total articles, new articles today)
@@ -101,27 +109,51 @@ pip install -r requirements.txt
 export GMAIL_SENDER="youremail@gmail.com"
 export GMAIL_APP_PASSWORD="your-16-char-app-password"
 
-# Run the crawler
-python scripts/crawl_semiconductor_news.py
+# Test individual crawlers
+python scripts/crawl_semiconductor_news.py  # CNBC only
+python scripts/crawl_google_news.py         # Google News only
+
+# Or run all crawlers at once
+python scripts/crawl_all_sources.py
 
 # Send test email
 python scripts/send_email.py
 ```
 
-The data will be saved to `data/semiconductor_news.json` and an email will be sent.
+The combined data will be saved to `data/combined_semiconductor_news.json` and an email will be sent.
+
+## Important Notes
+
+### Google News Crawler
+Google News is JavaScript-heavy and may not capture all articles with basic scraping. See **[GOOGLE_NEWS_NOTES.md](GOOGLE_NEWS_NOTES.md)** for:
+- Why Google News is challenging to scrape
+- Alternative solutions (RSS feeds, Selenium)
+- How to improve the crawler
+
+### Keyword Filtering
+The CNBC Technology and Health sections use keyword filtering to find relevant articles:
+- **Semiconductor keywords**: chip, semiconductor, nvidia, intel, tsmc, etc.
+- **Neuroscience keywords**: brain, neuroscience, neuralink, depression, etc.
+
+Edit `scripts/crawl_semiconductor_news.py` to customize keywords.
 
 ## Files Structure
 
 ```
 .
 ├── .github/workflows/
-│   └── crawl_semiconductor_news.yml  # GitHub Actions workflow
+│   └── crawl_semiconductor_news.yml   # GitHub Actions workflow
 ├── scripts/
-│   ├── crawl_semiconductor_news.py    # Web scraper for CNBC
+│   ├── crawl_semiconductor_news.py    # CNBC crawler
+│   ├── crawl_google_news.py           # Google News crawler
+│   ├── crawl_all_sources.py           # Master crawler (runs all)
 │   └── send_email.py                  # HTML email sender
 ├── data/
-│   └── semiconductor_news.json        # Crawled articles (JSON)
+│   ├── semiconductor_news.json        # CNBC articles
+│   ├── google_news_semiconductor.json # Google News articles
+│   └── combined_semiconductor_news.json # All sources combined
 ├── requirements.txt                    # Python dependencies
 ├── README.md                           # This file
-└── GMAIL_SETUP.md                     # Gmail setup guide
+├── GMAIL_SETUP.md                     # Gmail setup guide
+└── GOOGLE_NEWS_NOTES.md               # Google News scraping notes
 ```

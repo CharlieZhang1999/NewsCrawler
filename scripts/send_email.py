@@ -12,12 +12,18 @@ from email.mime.multipart import MIMEMultipart
 from datetime import datetime
 
 
-def load_articles(json_file='data/semiconductor_news.json'):
+def load_articles(json_file='data/combined_semiconductor_news.json'):
     """
     Load articles from JSON file.
+    Uses combined data from all sources by default.
     """
+    # Try combined file first, fallback to CNBC only
     if not os.path.exists(json_file):
-        print(f"Error: {json_file} not found")
+        print(f"Warning: {json_file} not found, trying CNBC only...")
+        json_file = 'data/semiconductor_news.json'
+        
+    if not os.path.exists(json_file):
+        print(f"Error: No data files found")
         return None
     
     try:
@@ -269,7 +275,7 @@ def generate_html_email(data):
         </div>
         
         <div class="footer">
-            <p><strong>Source:</strong> <a href="https://www.cnbc.com/semiconductors/" target="_blank">CNBC Semiconductors</a></p>
+            <p><strong>Sources:</strong> CNBC Semiconductors • Google News • Health & Science</p>
             <p>Automated by GitHub Actions • Generated at {formatted_date}</p>
             <p style="margin-top: 15px; font-size: 11px; color: #adb5bd;">
                 You're receiving this because you subscribed to daily semiconductor news updates.
