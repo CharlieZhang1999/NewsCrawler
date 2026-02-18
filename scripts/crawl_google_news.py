@@ -2,6 +2,13 @@
 """
 Google News Semiconductor Crawler
 Crawls Google News semiconductor topic page and saves articles to JSON.
+
+Google News HTML Structure:
+- Article links: <a href="./read/...">Title</a>
+- Timestamps: <time class="hvbAAd" datetime="2026-02-17T05:34:00Z">2 days ago</time>
+  * datetime attribute contains ISO format timestamp
+  * text content shows human-readable relative time
+- Both are typically in the same parent container
 """
 
 import json
@@ -29,6 +36,11 @@ def get_google_news_articles():
     """
     Crawl Google News semiconductor topic page.
     Returns a list of article dictionaries.
+    
+    Note: Google News uses this structure for timestamps:
+    <time class="hvbAAd" datetime="2026-02-17T05:34:00Z">2 days ago</time>
+    - datetime attribute: ISO format timestamp
+    - text content: Human-readable relative time
     """
     articles = []
     
@@ -83,6 +95,7 @@ def get_google_news_articles():
                         continue
                     
                     seen_titles.add(title)
+                    print(f"\n  📰 Processing: {title[:60]}...")
                     
                     # Try to find the source and time nearby
                     # Look in parent elements
@@ -91,19 +104,69 @@ def get_google_news_articles():
                     
                     parent = link.parent
                     if parent:
-                        # Try to find source (usually in a nearby element)
-                        for sibling in parent.find_all(['span', 'div', 'time']):
-                            text = sibling.get_text(strip=True)
-                            # Time patterns: "X hours ago", "X days ago", etc.
-                            if 'ago' in text.lower() or 'hour' in text.lower() or 'day' in text.lower():
-                                time_text = text
-                            # Source is usually a publication name
-                            elif text and len(text) < 50 and not time_text:
-                                # Common publication name patterns
-                                if any(word in text for word in ['Times', 'Post', 'News', 'Journal', 'Daily', 
-                                                                  'Business', 'Financial', 'Economic', 'Wire',
-                                                                  'Reuters', 'Bloomberg', 'CNN', 'BBC', 'CNBC']):
-                                    source = text
+                        # The <time> element might be in parent, grandparent, or great-grandparent
+                        # Structure: <time class="hvbAAd" datetime="2026-02-17T05:34:00Z">2 days ago</time>
+                        
+                        # Build list of ancestors to search (go up 5 levels)
+                        search_elements = []
+                        current = parent
+                        for _ in range(5):  # Search up to 5 levels up
+                            if current:
+                                search_elements.append(current)
+                                current = current.parent
+                            else:
+                                break
+                        
+                        # Search each ancestor for <time> element
+                        for search_elem in search_elements:
+                            time_elem = search_elem.find('time')
+                            if time_elem:
+                                # Prefer datetime attribute (ISO format like "2026-02-17T05:34:00Z")
+                                datetime_attr = time_elem.get('datetime')
+                                if datetime_attr:
+                                    time_text = datetime_attr
+                                    print(f"  ⏰ Found time at level {search_elements.index(search_elem)}: {datetime_attr}")
+                                    break
+                                else:
+                                    # Fall back to text content (like "2 days ago")
+                                    text = time_elem.get_text(strip=True)
+                                    if text:
+                                        time_text = text
+                                        print(f"  ⏰ Found time text at level {search_elements.index(search_elem)}: {text}")
+                                        break
+                        
+                        # If still not found, do a broader search in the parent container
+                        if not time_text and parent.parent:
+                            all_times = parent.parent.find_all('time')
+                            if all_times:
+                                print(f"  🔍 Found {len(all_times)} <time> elements in broader search")
+                                for t in all_times:
+                                    dt = t.get('datetime')
+                                    if dt:
+                                        time_text = dt
+                                        print(f"  ⏰ Using datetime: {dt}")
+                                        break
+                                    txt = t.get_text(strip=True)
+                                    if txt and not time_text:
+                                        time_text = txt
+                                        print(f"  ⏰ Using text: {txt}")
+                        
+                        # Look for source in the same parent or nearby
+                        for search_elem in [parent, parent.parent] if parent.parent else [parent]:
+                            if source:
+                                break
+                            for elem in search_elem.find_all(['span', 'div', 'a'], recursive=False):
+                                text = elem.get_text(strip=True)
+                                # Source is usually a publication name
+                                if not source and text and len(text) < 50 and len(text) > 2:
+                                    # Common publication name patterns
+                                    if any(word in text for word in ['Times', 'Post', 'News', 'Journal', 'Daily', 
+                                                                      'Business', 'Financial', 'Economic', 'Wire',
+                                                                      'Reuters', 'Bloomberg', 'CNN', 'BBC', 'CNBC',
+                                                                      'Forbes', 'WSJ', 'Guardian', 'Today', 'Wire',
+                                                                      'Herald', 'Tribune', 'Gazette']):
+                                        source = text
+                                        break
                     
                     # Build full URL
                     if href.startswith('./'):
@@ -113,15 +176,17 @@ def get_google_news_articles():
                     else:
                         full_url = href
                     
+                    # Show warning if no time found
+                    if not time_text:
+                        print(f"  ⚠️  No timestamp found for this article")
+                    
                     article_data = {
                         'title': title,
                         'url': full_url,
                         'source': source or 'Google News',
+                        'published_at': time_text if time_text else 'Recently',
                         'crawled_at': datetime.utcnow().isoformat()
                     }
-                    
-                    if time_text:
-                        article_data['published_time'] = time_text
                     
                     articles.append(article_data)
         
@@ -140,6 +205,8 @@ def get_google_news_articles():
                     if not title or len(title) < 10:
                         continue
                     
+                    print(f"\n  📰 Processing article element: {title[:60]}...")
+                    
                     # Build full URL
                     if href.startswith('./'):
                         full_url = urljoin(url, href.replace('./', '/'))
@@ -154,23 +221,50 @@ def get_google_news_articles():
                     if source_elem:
                         source = source_elem.get_text(strip=True)
                     
-                    # Find time
+                    # If no source found, try other patterns
+                    if not source:
+                        for elem in article.find_all(['span', 'div']):
+                            text = elem.get_text(strip=True)
+                            if text and len(text) < 50 and any(word in text for word in ['Times', 'Post', 'News', 'Journal', 'Daily', 
+                                                                  'Business', 'Financial', 'Economic', 'Wire',
+                                                                  'Reuters', 'Bloomberg', 'CNN', 'BBC', 'CNBC',
+                                                                  'Forbes', 'WSJ', 'Guardian', 'Today']):
+                                source = text
+                                break
+                    
+                    # Find time - Google News uses <time> tag with datetime attribute
+                    # Structure: <time class="hvbAAd" datetime="2026-02-17T05:34:00Z">2 days ago</time>
                     time_text = None
-                    time_elem = article.find('time')
-                    if time_elem:
-                        time_text = time_elem.get_text(strip=True)
-                        if not time_text:
-                            time_text = time_elem.get('datetime')
+                    
+                    # Search all <time> elements in the article container
+                    all_times = article.find_all('time')
+                    if all_times:
+                        print(f"  🔍 Found {len(all_times)} <time> elements in article")
+                        for time_elem in all_times:
+                            # Prefer datetime attribute (ISO format like "2026-02-17T05:34:00Z")
+                            datetime_attr = time_elem.get('datetime')
+                            if datetime_attr:
+                                time_text = datetime_attr
+                                print(f"  ⏰ Using datetime: {datetime_attr}")
+                                break
+                            # Fall back to text content (like "2 days ago")
+                            text = time_elem.get_text(strip=True)
+                            if text:
+                                time_text = text
+                                print(f"  ⏰ Using text: {text}")
+                                break
+                    
+                    # Show warning if no time found
+                    if not time_text:
+                        print(f"  ⚠️  No timestamp found for this article")
                     
                     article_data = {
                         'title': title,
                         'url': full_url,
                         'source': source or 'Google News',
+                        'published_at': time_text if time_text else 'Recently',
                         'crawled_at': datetime.utcnow().isoformat()
                     }
-                    
-                    if time_text:
-                        article_data['published_time'] = time_text
                     
                     articles.append(article_data)
                     
