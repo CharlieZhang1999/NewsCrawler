@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-04-02T14:21:51.564751",
-  "total_articles": 117,
+  "last_updated": "2026-04-03T14:02:38.507832",
+  "total_articles": 116,
   "sources": {
     "data/semiconductor_news.json": {
-      "total": 47,
+      "total": 46,
       "new_today": 0
     },
     "Google News - Semiconductor Topic": {
@@ -14,332 +14,325 @@
   "duplicates_removed": 0,
   "articles": [
     {
-      "title": "Intel shares jump 9% after buying back Ireland chip fab in sign of renewed strength",
+      "title": "Chinese chip firms hit record high revenue driven by the AI boom and U.S. curbs",
+      "url": "https://www.cnbc.com/2026/04/03/chinese-chip-firms-record-revenue-ai-boom-us-curbs.html",
+      "source": "CNBC",
+      "crawled_at": "2026-04-03T14:02:37.088473",
+      "published_time": "Fri, Apr 3rd 2026"
+    },
+    {
+      "title": "Specialized ETFs tend to come to market when good news is already priced in, says BTIG's Krinsky",
+      "url": "https://www.cnbc.com/video/2026/04/02/specialized-etfs-tend-to-come-to-market-when-good-news-is-already-priced-in-says-btigs-krinsky.html",
+      "source": "CNBC",
+      "crawled_at": "2026-04-03T14:02:37.088654",
+      "published_time": "Thu, Apr 2nd 2026"
+    },
+    {
+      "title": "Intel jumps 9% after buying back Ireland chip fab in sign of renewed strength",
       "url": "https://www.cnbc.com/2026/04/01/intel-stock-ireland-stake-chip-factory.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.140988",
+      "crawled_at": "2026-04-03T14:02:37.088815",
       "published_time": "Wed, Apr 1st 2026"
     },
     {
       "title": "Intel to buy back Apollo stake in Ireland factory for $14.2 billion",
       "url": "https://www.cnbc.com/video/2026/04/01/intel-to-buy-back-apollo-stake-in-ireland-factory-for-14-point-2-billion.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.141176",
+      "crawled_at": "2026-04-03T14:02:37.088981",
       "published_time": "Wed, Apr 1st 2026"
     },
     {
       "title": "Huawei has made a significant comeback since U.S. sanctions: Paul Triolo",
       "url": "https://www.cnbc.com/video/2026/04/01/huawei-has-made-a-comeback-since-the-us-imposed-sanctions-paul-triolo.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.141341",
+      "crawled_at": "2026-04-03T14:02:37.089135",
       "published_time": "Wed, Apr 1st 2026"
     },
     {
       "title": "Shares of China AI 'tiger' Zhipu surge 35% after revenue doubles in first earnings report",
       "url": "https://www.cnbc.com/2026/04/01/china-ai-tiger-zhipu-shares-surge-revenue-growth-first-earnings-report.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.141532",
+      "crawled_at": "2026-04-03T14:02:37.089313",
       "published_time": "Wed, Apr 1st 2026"
     },
     {
       "title": "Nvidia's web of AI investments",
       "url": "https://www.cnbc.com/video/2026/03/31/nvidias-web-of-ai-investments.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.141685",
+      "crawled_at": "2026-04-03T14:02:37.089427",
       "published_time": "Tue, Mar 31st 2026"
     },
     {
       "title": "Nvidia's Jensen Huang on $2 billion Marvell investment: AI inflection point has arrived",
       "url": "https://www.cnbc.com/video/2026/03/31/nvidia-ceo-jensen-huang-on-2-billion-marvell-investment-the-ai-inflection-point-has-arrived.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.141852",
+      "crawled_at": "2026-04-03T14:02:37.089532",
       "published_time": "Tue, Mar 31st 2026"
     },
     {
       "title": "Marvell pops 13% as Nvidia takes $2 billion stake, continuing run of similar bets",
       "url": "https://www.cnbc.com/2026/03/31/marvell-nvidia-stock-stake.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.142008",
+      "crawled_at": "2026-04-03T14:02:37.089635",
       "published_time": "Tue, Mar 31st 2026"
     },
     {
       "title": "'Fast Money' traders talk the reversal in chip-makers and what it signals about the AI trade",
       "url": "https://www.cnbc.com/video/2026/03/30/fast-money-traders-talk-the-reversal-in-chip-makers-and-what-it-signals-about-the-ai-trade.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.142115",
+      "crawled_at": "2026-04-03T14:02:37.089741",
       "published_time": "Mon, Mar 30th 2026"
     },
     {
       "title": "Russia poised to benefit from the helium supply crunch amid Iran war",
       "url": "https://www.cnbc.com/2026/03/27/russia-helium-supply-crunch-iran-war.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.142219",
+      "crawled_at": "2026-04-03T14:02:37.089850",
       "published_time": "Fri, Mar 27th 2026"
     },
     {
       "title": "ByteDance, Alibaba planning to order Huawei's new AI chip: Reuters",
       "url": "https://www.cnbc.com/2026/03/27/bytedance-alibaba-planning-to-order-huaweis-new-ai-chip-reuters.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.142321",
+      "crawled_at": "2026-04-03T14:02:37.089956",
       "published_time": "Fri, Mar 27th 2026"
     },
     {
       "title": "Every pause in the Iran war looks like 'selling time' for chip stocks: CIO",
       "url": "https://www.cnbc.com/video/2026/03/27/every-pause-in-the-iran-war-looks-like-selling-time-for-chip-stocks.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.142429",
+      "crawled_at": "2026-04-03T14:02:37.090059",
       "published_time": "Fri, Mar 27th 2026"
     },
     {
       "title": "Apple expands U.S. manufacturing pledge, pulling in a third portfolio name",
       "url": "https://www.cnbc.com/2026/03/26/apple-expands-us-manufacturing-pledge-pulling-in-a-third-portfolio-name.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.142613",
+      "crawled_at": "2026-04-03T14:02:37.090193",
       "published_time": "Thu, Mar 26th 2026"
     },
     {
       "title": "A Google AI breakthrough is pressuring memory chip stocks from Samsung to Micron",
       "url": "https://www.cnbc.com/2026/03/26/google-ai-turboquant-memory-chip-stocks-samsung-micron.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.142718",
+      "crawled_at": "2026-04-03T14:02:37.090319",
       "published_time": "Thu, Mar 26th 2026"
     },
     {
       "title": "Moor Insight's Patrick Moorhead on Arm chip launch: 'This is a fundamental business shift'",
       "url": "https://www.cnbc.com/video/2026/03/25/moor-insights-patrick-moorhead-on-arm-chip-launch-this-is-a-fundamental-business-shift.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.142822",
+      "crawled_at": "2026-04-03T14:02:37.090427",
       "published_time": "Wed, Mar 25th 2026"
     },
     {
       "title": "Arm jumps 16% as company expects revenue windfall from new chip",
       "url": "https://www.cnbc.com/2026/03/25/arm-stock-chip-revenue-agi-cpu.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.142924",
+      "crawled_at": "2026-04-03T14:02:37.090531",
       "published_time": "Wed, Mar 25th 2026"
     },
     {
       "title": "SK Hynix files for U.S. listing as it rides 'unprecedented growth' in memory market",
       "url": "https://www.cnbc.com/2026/03/25/sk-hynix-confidential-us-listing-adr-ai-memory.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.143024",
+      "crawled_at": "2026-04-03T14:02:37.090640",
       "published_time": "Wed, Mar 25th 2026"
     },
     {
       "title": "Arm pops 6% as CEO Haas issues $15 billion revenue expectation for new chip",
       "url": "https://www.cnbc.com/2026/03/24/arm-stock-pops-haas-chip-cpu.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.143142",
+      "crawled_at": "2026-04-03T14:02:37.090745",
       "published_time": "Wed, Mar 25th 2026"
     },
     {
       "title": "Arm releases first in-house chip, with Meta as debut customer",
       "url": "https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.143246",
+      "crawled_at": "2026-04-03T14:02:37.090848",
       "published_time": "Tue, Mar 24th 2026"
     },
     {
       "title": "Inside Arm’s $71 million chip lab where its making its first ever CPU",
       "url": "https://www.cnbc.com/video/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.143350",
+      "crawled_at": "2026-04-03T14:02:37.090950",
       "published_time": "Tue, Mar 24th 2026"
     },
     {
       "title": "Alibaba reveals new AI chip designed for 'agents'",
       "url": "https://www.cnbc.com/2026/03/24/alibaba-ai-chip-cpu-agents.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.143489",
+      "crawled_at": "2026-04-03T14:02:37.091053",
       "published_time": "Tue, Mar 24th 2026"
     },
     {
       "title": "Chip supply chains in Europe disrupted by Iran war",
       "url": "https://www.cnbc.com/video/2026/03/24/chip-supply-chains-in-europe-disrupted-by-iran-war.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.143600",
+      "crawled_at": "2026-04-03T14:02:37.091155",
       "published_time": "Tue, Mar 24th 2026"
     },
     {
       "title": "Synopsys shares rise as activist Elliott builds multibillion-dollar stake in chip design firm",
       "url": "https://www.cnbc.com/video/2026/03/23/synopsys-shares-rise-as-activist-elliott-builds-multibillion-dollar-stake-in-chip-design-firm.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.143701",
+      "crawled_at": "2026-04-03T14:02:37.091259",
       "published_time": "Mon, Mar 23rd 2026"
     },
     {
       "title": "Morgan Stanley's Joseph Moore breaks down Micron's Q2 results",
       "url": "https://www.cnbc.com/video/2026/03/20/morgan-stanleys-joseph-moore-breaks-down-microns-q2-results.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.143801",
+      "crawled_at": "2026-04-03T14:02:37.091390",
       "published_time": "Fri, Mar 20th 2026"
     },
     {
       "title": "The Tech Download: Agentic tools take center stage at Nvidia's 'Super Bowl of AI'",
       "url": "https://www.cnbc.com/2026/03/20/nvidia-gtc-2026-agentic-ai-chips-tech-download.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.143901",
+      "crawled_at": "2026-04-03T14:02:37.091495",
       "published_time": "Fri, Mar 20th 2026"
     },
     {
       "title": "Column: Jensen Huang doesn’t need a new chip. He needs a new moat.",
       "url": "https://www.cnbc.com/2026/03/19/column-jensen-huang-doesnt-need-a-new-chip-he-needs-a-new-moat.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.144011",
+      "crawled_at": "2026-04-03T14:02:37.091597",
       "published_time": "Thu, Mar 19th 2026"
     },
     {
       "title": "Micron falls 3% after blockbuster earnings. Here's what analysts say",
       "url": "https://www.cnbc.com/2026/03/19/micron-falls-blockbuster-earnings-chips-ai.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.144114",
+      "crawled_at": "2026-04-03T14:02:37.091700",
       "published_time": "Thu, Mar 19th 2026"
     },
     {
       "title": "OpenClaw demand in China is driving up the price of used MacBooks",
       "url": "https://www.cnbc.com/2026/03/19/openclaw-demand-in-china-is-driving-up-the-price-of-secondhand-macbooks.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.144216",
+      "crawled_at": "2026-04-03T14:02:37.091808",
       "published_time": "Thu, Mar 19th 2026"
     },
     {
       "title": "Asia tech stocks sink as oil spike and Qatar attacks threaten chip supply chain",
       "url": "https://www.cnbc.com/2026/03/19/tech-stocks-qatar-attack-semiconductor-supply-chain-lng-helium.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.144316",
+      "crawled_at": "2026-04-03T14:02:37.091911",
       "published_time": "Thu, Mar 19th 2026"
     },
     {
       "title": "Micron CEO says AI is turning memory into a strategic chokepoint",
       "url": "https://www.cnbc.com/video/2026/03/18/micron-ceo-says-ai-is-turning-memory-into-a-strategic-chokepoint.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.144416",
+      "crawled_at": "2026-04-03T14:02:37.092013",
       "published_time": "Wed, Mar 18th 2026"
     },
     {
       "title": "Micron blows past estimates as revenue nearly triples",
       "url": "https://www.cnbc.com/video/2026/03/18/micron-blows-past-estimates-as-revenue-nearly-triples.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.144546",
+      "crawled_at": "2026-04-03T14:02:37.092114",
       "published_time": "Wed, Mar 18th 2026"
     },
     {
       "title": "'Fast Money' traders react to Micron's earnings and guidance as stock slides after initial pop",
       "url": "https://www.cnbc.com/video/2026/03/18/fast-money-traders-react-to-microns-earnings-and-guidance-as-stock-slides-after-initial-pop.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.144647",
+      "crawled_at": "2026-04-03T14:02:37.092214",
       "published_time": "Wed, Mar 18th 2026"
     },
     {
       "title": "Micron shares pop on Q2 beat",
       "url": "https://www.cnbc.com/video/2026/03/18/micron-shares-pop-on-q2-beat.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.144746",
+      "crawled_at": "2026-04-03T14:02:37.092344",
       "published_time": "Wed, Mar 18th 2026"
     },
     {
       "title": "Micron revenue almost triples, tops estimates as demand for memory soars",
       "url": "https://www.cnbc.com/2026/03/18/micron-mu-q2-earnings-report-2026.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.144844",
+      "crawled_at": "2026-04-03T14:02:37.092451",
       "published_time": "Thu, Mar 19th 2026"
-    },
-    {
-      "title": "Nvidia preparing Groq chips that can be sold in Chinese market, sources say",
-      "url": "https://www.cnbc.com/2026/03/18/nvidia-preparing-groq-chips-that-can-be-sold-in-chinese-market-sources-say.html",
-      "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.144949",
-      "published_time": "Tue, Mar 17th 2026"
-    },
-    {
-      "title": "Biggest takeaways from Nvidia GTC 2026",
-      "url": "https://www.cnbc.com/video/2026/03/17/nvidia-gtc-2026-biggest-takeaways.html",
-      "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.145051",
-      "published_time": "Tue, Mar 17th 2026"
     },
     {
       "title": "Iran threatens Nvidia, Apple and other tech giants with attacks",
       "url": "https://www.cnbc.com/2026/04/01/iran-irgc-nvidia-appple-attack-threat.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.315163",
+      "crawled_at": "2026-04-03T14:02:37.229578",
       "published_time": "Wed, Apr 1st 2026"
-    },
-    {
-      "title": "Micron stock sinks 10%, further cratering in post-earnings sell-off",
-      "url": "https://www.cnbc.com/2026/03/30/micron-stock-earnings-sell-off-memory-shortage.html",
-      "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.317540",
-      "published_time": "Mon, Mar 30th 2026"
     },
     {
       "title": "Novo Nordisk says Wegovy pill outperforms Lilly’s oral GLP-1 in cross-trial comparison",
       "url": "https://www.cnbc.com/2026/04/02/novo-nordisk-wegovy-pill-eli-lilly-glp1-stock-nvo-lly-foundayo.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.466199",
-      "published_time": "2 hours ago"
+      "crawled_at": "2026-04-03T14:02:37.373754",
+      "published_time": "Thu, Apr 2nd 2026"
     },
     {
       "title": "Eli Lilly opposes White House push to codify most favored nation drug pricing",
       "url": "https://www.cnbc.com/2026/04/01/eli-lilly-opposes-trump-mfn-drug-pricing-law-ceo-ricks-says.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.466336",
+      "crawled_at": "2026-04-03T14:02:37.373882",
       "published_time": "Wed, Apr 1st 2026"
     },
     {
       "title": "FDA approves Eli Lilly's GLP-1 pill, opening next phase for weight loss drugs",
       "url": "https://www.cnbc.com/2026/04/01/eli-lilly-glp-1-pill-foundayo-approved-for-obesity.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.466481",
+      "crawled_at": "2026-04-03T14:02:37.373999",
       "published_time": "Wed, Apr 1st 2026"
     },
     {
       "title": "Stocks soar on hopes of war resolution — plus, Lilly takes a swing in sleep disorders",
       "url": "https://www.cnbc.com/2026/03/31/stocks-soar-on-hopes-of-iran-war-resolution-plus-lilly-takes-a-big-swing-in-sleep-disorders.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.466633",
+      "crawled_at": "2026-04-03T14:02:37.374146",
       "published_time": "Tue, Mar 31st 2026"
     },
     {
       "title": "Lilly to spend up to $7.8 billion to acquire Centessa, sleep disorder drugmaker",
       "url": "https://www.cnbc.com/2026/03/31/eli-lilly-to-acquire-centessa-and-sleep-disorder-drugs.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.466749",
+      "crawled_at": "2026-04-03T14:02:37.374266",
       "published_time": "Tue, Mar 31st 2026"
     },
     {
       "title": "Novo Nordisk launches Wegovy subscriptions as it tries to catch up with Eli Lilly",
       "url": "https://www.cnbc.com/2026/03/31/novo-nordisk-wegovy-subscription-glp-1-obesity-drugs.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.466869",
+      "crawled_at": "2026-04-03T14:02:37.374414",
       "published_time": "Tue, Mar 31st 2026"
     },
     {
       "title": "Eli Lilly reaches deal to bring AI-developed drugs to global market",
       "url": "https://www.cnbc.com/2026/03/29/eli-lilly-reaches-deal-to-bring-ai-developed-drugs-to-global-market.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.466988",
+      "crawled_at": "2026-04-03T14:02:37.374534",
       "published_time": "Mon, Mar 30th 2026"
     },
     {
       "title": "Eli Lilly’s obesity drug retatrutide clears first late-stage diabetes trial",
       "url": "https://www.cnbc.com/2026/03/19/eli-lillys-obesity-drug-retatrutide-clears-late-stage-diabetes-trial.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.468028",
+      "crawled_at": "2026-04-03T14:02:37.375553",
       "published_time": "Thu, Mar 19th 2026"
     },
     {
       "title": "Eli Lilly shares slide after a bearish Wall Street analyst call — here's our view",
       "url": "https://www.cnbc.com/2026/03/17/eli-lilly-shares-slide-after-a-bearish-analyst-call-heres-our-view.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.468410",
+      "crawled_at": "2026-04-03T14:02:37.375922",
       "published_time": "Tue, Mar 17th 2026"
     },
     {
       "title": "Eli Lilly launches program to boost employer coverage of obesity drugs in U.S.",
       "url": "https://www.cnbc.com/2026/03/05/eli-lilly-launches-program-to-boost-employer-coverage-of-obesity-drugs.html",
       "source": "CNBC",
-      "crawled_at": "2026-04-02T14:21:50.469585",
+      "crawled_at": "2026-04-03T14:02:37.377064",
       "published_time": "Thu, Mar 5th 2026"
     },
     {
@@ -347,490 +340,490 @@
       "url": "https://news.google.com/read/CBMipgFBVV95cUxQcEpiU2U5X3luVTNjZVozU2NldG1QRFgxR2pEYy0wQ3ltNGJjYWF5eDA0VFRxemxCWG9XOEZOOVlvb0dzTEltVzh2WEl3TmU2ak5uWlA3ZU9EZEZuZDJVcGU3LTROTDB2YnNlRTVmYURua1BpZFNzclRGWXQ3M1dHWkMxczVWTlFWLU54RVpScm1QeUdOTUdKbGFpR29JRE1YVjZVbEpR?hl=en-US&gl=US&ceid=US%3Aen",
       "source": "NBC NewsMore",
       "published_at": "2026-04-02T12:30:41Z",
-      "crawled_at": "2026-04-02T14:21:51.518264"
+      "crawled_at": "2026-04-03T14:02:38.460455"
     },
     {
       "title": "TSMC plans 3-nanometre chip production launch in Japan in 2028",
       "url": "https://news.google.com/read/CBMivwFBVV95cUxPWVRDZzhMWE5Iem9zWlNQcDl4UFhsWENsV1VBS3dYWVh1MVFiem44NHc0ZnE0UHpIN2RZMGtxX09EcDc5aUhZMEZKdHNPVy1OS2tyc0o3RmpHVEU1Yk53RlQ4dlFuMUMxcVBVN2Izc3dxTDVtMTd5dC1CaWJYb2FXekJBXzFMM21iSDhGSG53MHVERWxnQVlnSUlvVXZTcEpCbU93WHotcUs3c3lXUkF1dnJ3N1BjLW5raE1ld0JrQQ?hl=en-US&gl=US&ceid=US%3Aen",
       "source": "ReutersMore",
       "published_at": "2026-04-01T03:11:00Z",
-      "crawled_at": "2026-04-02T14:21:51.518570"
+      "crawled_at": "2026-04-03T14:02:38.460709"
     },
     {
       "title": "The charts show semiconductor stocks are vulnerable to a big pullback, says Katie Stockton",
       "url": "https://news.google.com/read/CBMixAFBVV95cUxQakZ5ZmRjRDJmbkpRSDhtc1lwVkRYWjEzdkNIemRxZDktOGN2TDdxTXM1Z2d4NWFyY09yUEhUT2ozdjRKbk5sRUt2UVFRcm80eENSRlJEQWpMVXBQOXdtNF9mQUdUYndhaEdvOEY4SVVUWW9XeHg2QTdkVEdqd0xGLWVwRm5TWGl5VF80WXhpSU5wZFJJUHJKdDRyc1Z0SzZFb0ZITHVHRUdLMkJuSlE4bG45ZWQ2U2puX1JtdXVBTjlmc0tH?hl=en-US&gl=US&ceid=US%3Aen",
       "source": "CNBCMore",
       "published_at": "2026-03-30T18:00:01Z",
-      "crawled_at": "2026-04-02T14:21:51.518733"
-    },
-    {
-      "title": "Global helium scare rattles semiconductor industry",
-      "url": "https://news.google.com/read/CBMiqwFBVV95cUxQTURZVUtYOVVmTUpKX0ZvaGNPZkZmQlc3NTZHY2pYSjNoR3N2T2VwUkctQ0dvRks1eUFwTl9oT2RnTF9sc0dvVUIzZHR0dU1ta1dxVXYxZGluaDVWLVoxUTNLTjlzZk81dTR6T1JqSnRjRzdMUGRNVTExQnBweVhzUjBPV09aQTVqRTd6NThHMWJOb3BiLVlkd0NET2ZGWFl0dmFMQVd6WmNUYk0?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Times UnionMore",
-      "published_at": "2026-04-02T00:12:43Z",
-      "crawled_at": "2026-04-02T14:21:51.518889"
+      "crawled_at": "2026-04-03T14:02:38.460962"
     },
     {
       "title": "A photochargeable semiconductor for highly efficient dehydrogenative coupling of amines",
       "url": "https://news.google.com/read/CBMiX0FVX3lxTE10ZWtqS2RtSHhZeFhld2NEM21jR2dNWGgxNUR2S0xtMzdHUVkwcGRHVVFxNE5JMmlmLU9LV3BEUVYtemJYQmVUUGZFR2lMWVNndU9UUTVJWWRtdnFoaEJB?hl=en-US&gl=US&ceid=US%3Aen",
       "source": "Google News",
       "published_at": "2026-03-30T09:11:37Z",
-      "crawled_at": "2026-04-02T14:21:51.519076"
+      "crawled_at": "2026-04-03T14:02:38.461246"
+    },
+    {
+      "title": "How Taiwan came to dominate the global chip industry",
+      "url": "https://news.google.com/read/CBMikAFBVV95cUxNRDlFOUJoeUFTTEVQMzBTS2EwbHY0NVNVQTVlMUJGTmJvbDFBT2VnNEluRkFjeDZ2RTZQSWdnRmtXeUNGbVRzbk9qbGYteUxoV0tLWmRTcTgxak4tbHNuek5odVF2bTNfelc5RWJfOEg3R3lleFF6SHhTRVZIQWRCUnBkVUdsWW9lYWNQWDhSUFQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2026-04-01T09:50:43Z",
+      "crawled_at": "2026-04-03T14:02:38.461460"
+    },
+    {
+      "title": "Global helium scare rattles semiconductor industry",
+      "url": "https://news.google.com/read/CBMiqwFBVV95cUxQTURZVUtYOVVmTUpKX0ZvaGNPZkZmQlc3NTZHY2pYSjNoR3N2T2VwUkctQ0dvRks1eUFwTl9oT2RnTF9sc0dvVUIzZHR0dU1ta1dxVXYxZGluaDVWLVoxUTNLTjlzZk81dTR6T1JqSnRjRzdMUGRNVTExQnBweVhzUjBPV09aQTVqRTd6NThHMWJOb3BiLVlkd0NET2ZGWFl0dmFMQVd6WmNUYk0?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Times UnionMore",
+      "published_at": "2026-04-02T00:12:43Z",
+      "crawled_at": "2026-04-03T14:02:38.461605"
     },
     {
       "title": "The next era of semiconductor value creation",
       "url": "https://news.google.com/read/CBMirAFBVV95cUxPMGJSbnUxVHo4ZW50MGRiblFkcV9rUFY4ZzBOTWoyWTBub2k4QjVzZmNCWnFaNEdDSVo3WF8xYkF2TmVCaDNSeWlxS19idE9vdm83QlE1MlA2U0ZBcGd0YVdEc3ZoOUF1V1R2dWYyRFVpM3hISjdXWGZLNzFoeUZkZjFfek1yVDc3YVFBZ3dobXkybm5wd01mamF0NGpjbTN1SXNnOVdYbG1EQURQ?hl=en-US&gl=US&ceid=US%3Aen",
       "source": "Google News",
       "published_at": "2026-03-30T00:00:00Z",
-      "crawled_at": "2026-04-02T14:21:51.519254"
+      "crawled_at": "2026-04-03T14:02:38.461778"
     },
     {
       "title": "China's Localization Drive in Semiconductors Gains Impetus from Allied Chip Export Controls",
       "url": "https://news.google.com/read/CBMisgFBVV95cUxQNXNzbHRYUmVEM1dKejE1Zmtva3E1ZW9iSzNqREo0MjZFWnpDbXg3NmhxV3lDeGFXUlp2VjBTdU1LV0QyZmN1UjhHREpnUW9mRFpXQS1TR1dBRW03XzA1NVFpTWlTR1J4WjhrQXZpMG1Ia0hNb1M3VXBzeUctelFqbkN0blIxM3lwVXVVQWlFWGt6NGNfREpXZHg2QVlvYUFDTW94THFmd1BJQlgwMEpmb05B?hl=en-US&gl=US&ceid=US%3Aen",
       "source": "Google News",
       "published_at": "2026-03-24T07:00:00Z",
-      "crawled_at": "2026-04-02T14:21:51.519426"
+      "crawled_at": "2026-04-03T14:02:38.461946"
+    },
+    {
+      "title": "The RAN Semiconductor War: Ericsson vs Intel vs NVIDIA vs The Rest",
+      "url": "https://news.google.com/read/CBMifkFVX3lxTE9XR2pIUFA3ZHprRHNZM0l6cnpnR0tuNUtsNnVDU1lCTVVDMV9TX2d3Ulc1WG95YXc5UWxncFYwcFdtT3UzM2sxTDUxdjBiNVJqNDBsRVczYmJCTlFjSnJVSmFVZ3ZFMlYwbXFZcDJ5X08wUFRlakVXaldPSmRtdw?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Sebastian Barros NewsletterMore",
+      "published_at": "2026-04-03T13:54:32Z",
+      "crawled_at": "2026-04-03T14:02:38.462087"
+    },
+    {
+      "title": "Global semiconductor foundry market hit a record $320 billion in 2025 as TSMC pulled further ahead",
+      "url": "https://news.google.com/read/CBMisAFBVV95cUxOSms5bENBajE2ZWdKTXI0NmF0amEzTGtYa2owbWpDekNjM1IwS2JLblp1MkdsVU9tV2RiY09QNW1HNmZNUmxPRzZwbDh0R3VheExBV2lUQk1SOGdDdmUxRWNJSE85LUFHaWxPUHI2anY2Q2NDSjhvUGNBdjBaemh2S1hkSE5GV2x4ajYxRlVRZjIwbFlrWlJWMVBiNjU5cEZlR29BdUQ3UENFaWx0Qmd0NA?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2026-04-02T10:20:00Z",
+      "crawled_at": "2026-04-03T14:02:38.462258"
+    },
+    {
+      "title": "The Top AI Semiconductor Stocks to Buy Right Now",
+      "url": "https://news.google.com/read/CBMilgFBVV95cUxQeXZ5aEF1SnJtbmJyc0V3V3VIa0U5V3hKUG13d2dUV01MeWNObFVBWjVYZ2dGYzNXeTZ2Qnp1OFRMeU9QLTd3eHhIODJmdDR6NVg1QUFpSS0wdFFmT2p3cjNzblRvb0o0VEZhT1g5ZDdJMVo2RDlOck1ZeENmdWswLW8wX2sxZGZfdWdyU3NzXy1IYmg4d2c?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2026-04-03T13:40:04Z",
+      "crawled_at": "2026-04-03T14:02:38.462460"
+    },
+    {
+      "title": "Flowmeters in Semiconductor Manufacturing: Why Precision Flow Measurement Is Gaining Strategic Importance",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxQZzR6bDQzRzRiTGFfR0ZjLVpLQkdwbE1uSTl6VlltNnZxSk5QRWFJbWhFZXMyUXR1bjY2SFVMWndlc3dFZkRvSjZfdHE1WmRWNFdwVjc1VGpZZS0xcWNDMzZYRHBlei0yc2hfWXdGRGZ2VEtCb0N3c0RNT2xvWlkwdlhWS1hwbTJGLTFLUms0TzFRdVJ0VWZ1M0pwVUNtd0NpYnRVbzJDWXJZcENGWkdic1RHZnk2dw?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2026-04-03T10:48:37Z",
+      "crawled_at": "2026-04-03T14:02:38.462631"
+    },
+    {
+      "title": "Japanese semiconductor supplier to open second US location in Chandler",
+      "url": "https://news.google.com/read/CBMimgFBVV95cUxQUENvaXZtY1hkOVB4N0FOaVlvcVBHVVQ1RVI1RmxpNVUxUXRMQy10Y0RzLU4tcEVleVJ1ZVNOR29pNlVPNDNhYU1wV2hmaDZiX2tHMlA0aU5EeVhvaXU5SkRBRmE5N3BUV1ZGWVVoUjYyRmtBLVVaYW1zM2hmdm03YXZxTTB4Vm9wMjdQbjJ5c1hyT1lHWGpQM3VB?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "The Business JournalsMore",
+      "published_at": "2026-04-02T12:45:00Z",
+      "crawled_at": "2026-04-03T14:02:38.462768"
     },
     {
       "title": "Hormuz closure is quietly threatening Taiwan's semiconductor industry",
       "url": "https://news.google.com/read/CBMiowFBVV95cUxQbms5aTd5c2laV3VQWVdlZHV2WDJGc3FuVHFMckVmdUpna1psaENTQl9GMExSRk93Y0pLc19hMEVZWXVhc19fMkw0M1hDN1ZrUWpURFNGVzUzaTd3blZEUWJDalVycnhrbGxNZW1ITlJQQ0JrS3lsOUVieGFXTi1ZZlBFY0M4VDBtWVV3dWRDZ2wzRVpfZ2FXN09rVTh5UjRyWWxv?hl=en-US&gl=US&ceid=US%3Aen",
       "source": "Google News",
       "published_at": "2026-03-31T20:05:00Z",
-      "crawled_at": "2026-04-02T14:21:51.519641"
+      "crawled_at": "2026-04-03T14:02:38.462933"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Co (TSM) Rallied on Continued Robust Demand",
+      "url": "https://news.google.com/read/CBMiqgFBVV95cUxQdnF2SFExLWdTT3NtaHowYjE4QlMzb3ZIaEkxWFZQczNaZjB3djJYUmprdExPd2VRREp1NDNDeGE0RzMyclhpSnJQTjFVNndvM2tHUmZtZHk2blJEdTB6aWswLTRzUktfTFczbjZFSU0wR1FNSWdhYTEwaWxXVUlFMC1tOWFiVmYtOUxVbVVsMS0wWmt0RWhIeEx1UmJuQXkxZzdJd1R1ZjVyZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2026-04-03T13:09:57Z",
+      "crawled_at": "2026-04-03T14:02:38.463099"
     },
     {
       "title": "What caught your eye? Semiconductor capex, Datacentre satellites, Microwave radiometers",
       "url": "https://news.google.com/read/CBMi9gFBVV95cUxNU2pHZGtkcTd2UzZQdzdHQnlSRlhKRGZvMTZ1SWM5V3JfcWJ0TmNxcGx4MDJERjN5U3VTUXhPV292OVg4VERDN0llNmZMcWVwQ3ZOYnFQUWRNUmpqam9EYXdUbkxHbzNDOThlclIzLTl1RFJ5aGtKQlBTNWh1Q3o5Q28zWDZBZnNkZUJ0cndGYmdua3BodjYyWXg4SVVsenUteGhXNEliSjBXeEtCV0tBcDhWcGRsYVV3OUZoRW5sMGlIRGYtX000OHRsaFgwWmhBQVpuaHhoVnkxSnZPMEI0c0ZjYzFWWDJXTTFqSHFoY29FTWpoUkE?hl=en-US&gl=US&ceid=US%3Aen",
       "source": "Google News",
       "published_at": "2026-04-02T10:20:30Z",
-      "crawled_at": "2026-04-02T14:21:51.519808"
+      "crawled_at": "2026-04-03T14:02:38.463264"
     },
     {
-      "title": "NX Germany opens Dresden Branch -- Steps up support for the semiconductor and other growth industries --",
-      "url": "https://news.google.com/read/CBMid0FVX3lxTE5YT05Jckp3SFZiX0Rva2FMOXpBVXJtbEZwdEZrSjhWNW9WalJHZWV3b09mWGtfXzVnY2IzYm9SSzVGclF0d1FPd3IzZTRUSDluS0pqSmZKVUJZb2tualFkS1lpVnhHck12VGp0Qmk3V3VXLUI4MUV3?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2026-04-02T02:00:00Z",
-      "crawled_at": "2026-04-02T14:21:51.519978"
-    },
-    {
-      "title": "Semiconductor-based Quantum Pilot Line ‘SPINS’ led by imec with EU support",
-      "url": "https://news.google.com/read/CBMirgFBVV95cUxPdzNxNHZuNUE3dDdTX20yQ2tCekRBd1NqclQ2WXMzSE1ydWdHbXhQeDNNV0ZSaTBYR2xYVml6dVMxTXdPNVBKMUN0N3dTRW93QWxrd2k4UkRybGtSblVtc0t3Y0ZIWEdHMmozS29XU1RYNEFCZTBOdVUzYnM3em9GQkNxQzh2ZzlKc0R0ZnRZSWtFd3czMDRYd1o5TVBBczhDMkQ5ZDBSaklIS1RMeGc?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2026-04-02T08:35:23Z",
-      "crawled_at": "2026-04-02T14:21:51.520149"
-    },
-    {
-      "title": "Discrete Semiconductors Market Size, Share & Trends Analysis Report By Product",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxOQlRyX3RWYS1zNUNtaXNMNnYyNHh4MGlQX3FIR0QyNVM5ZWc0UW95c01RM2VTNkM1OU9xSkpDMHNORS12TkFvWERKNFhuOTFRR0tqTWc1QXNkeXBwYUhqZzJrT1VyRlFTMndnRDgxMGgzSXJZSUM2TDQteWpiRFlVcW9TWHBROUZrOVNjWWlHaFJWNF8tS3dwa3VCV0wtd05zRVFtb09SMlJ0NkRyNHBiU2FR?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2026-04-02T05:45:29Z",
-      "crawled_at": "2026-04-02T14:21:51.520314"
-    },
-    {
-      "title": "China’s No 3 foundry Nexchip files for Hong Kong listing to scale output",
-      "url": "https://news.google.com/read/CBMitgFBVV95cUxQdUx5QWV0cmJydEZ4VVlRa2ZMWXQ4R0ZnT0JYTGZ6V0x1UFZxMGFyMmhRcm13M2N0WUxweDNoRlMyWUZubkVuektjWFNqZlVVcHNZTW5MRGl5dmtFMGZDSUFLY0x4YmJJd3dIRUd3aDJLODk4cHhBNW1rUWdPdTY5WTNmRkVlQzdZcnU1dnk5dkR5N29HX0twNmtrOVFoa2kwWVozdXZnRC1XeERTM29zQ2Y2bklrQdIBtgFBVV95cUxQZUFHMktJejZRYVlKbnI2U3RuaklHZHBoNThUUzVNMGhjSEVxSi00V25DT19DdzB0RG5ETzVtWWx4VzNDbUkzTktVRVJsZ1R3cHY0bkdNbklRdEJTanlPU29mUURFcnd0NDhjSy1zQTkyLUxSLUhYVlRocW8yN3R2N2xtTktYY3M3S2FuMnYtVXRVZmFwY3VBUGUwMEZ6OHVCenRGcnFTYmV4VllldWV4MFltTGdMZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "South China Morning PostMore",
-      "published_at": "2026-04-01T12:00:12Z",
-      "crawled_at": "2026-04-02T14:21:51.520468"
-    },
-    {
-      "title": "Realtek Denied $1.5M In Fees For Semiconductor Patent Suit",
-      "url": "https://news.google.com/read/CBMingFBVV95cUxQa3pWR1dPaTk1ZHNHc1p4OUppTnRSUXdOQWJTYm9CMkRtdnJlMXZZaFkxb3pmakJsajROOVRBV2VSTWt1QWVFMlFuRnRyWThTTEtZUm8zTVd1M2lrRm5IY2Jid1Q2Ylp6MnFsYllsdzR4SVhfRE5tbGpRaVpQTFluLWZiMlZTSjZQYm1GemxhVjNQTkk4TGdJNTlKU2UzZ9IBVkFVX3lxTE5zQjJWcWpDR0ZCdno5aGdOUngxX0QzQjNEODJ4bHd3M0sxdHhJR1JCYUJwZ2JwVDBNVEZHZUVyX0daUUZ2cHp1Z0dib0hldkxxd0Z6eGJB?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2026-04-02T03:33:00Z",
-      "crawled_at": "2026-04-02T14:21:51.520650"
-    },
-    {
-      "title": "South Korea: Stockpiling of semiconductors drives exports",
-      "url": "https://news.google.com/read/CBMimAFBVV95cUxOcGRQRTBCNkI1SnoyVnN3Z2ZVR1JhbkNxelZJUk9TWTd1eDJpMHB6U19hWFp2TnQtZTlpWmI2Y0FFM20yVlRoRkJNMURSNEJvT29zVnhIUU5rMl94WGQwLVkwTmZsdm1pR0FwZXlkR0gzMHZsTDlMZGtYY1pURW10UHZsVjlPblYtSmJHbWt2OGtRXzE1QWJLcA?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2026-04-01T20:06:42Z",
-      "crawled_at": "2026-04-02T14:21:51.520818"
-    },
-    {
-      "title": "Investors Heavily Search Taiwan Semiconductor Manufacturing Company Ltd. (TSM): Here is What You Need to Know",
-      "url": "https://news.google.com/read/CBMirwFBVV95cUxPUzctX0FLZFg0emcyakFFM2VSVlpCYTFVQnNkLWU5VmtmSmpUbUcxRWo1SjVKZ3c2SXI0cEpoVC1iTWVWenNocTRpQVlHSEVlXzc5dmJsRWVMWlk1UXg4MHpTVGE3ZUdINVZ3QWljSGVmYjU5WDB3Y1pFRG8tM24yV29jaXRZU2FXZ0dpcXhYekM0cWptTnNyelJZVm9UN1JHLTlpbGo0WFJyMS1IWmI4?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2026-04-01T13:00:07Z",
-      "crawled_at": "2026-04-02T14:21:51.520986"
-    },
-    {
-      "title": "The AMD Foundation Joins Last Mile Education Fund's National Semiconductor Coalition Protecting America's Engineering Talent Pipeline",
-      "url": "https://news.google.com/read/CBMilgJBVV95cUxNd1V5Uk9VQUJkUFZXMmdTbHlGSVAtT1E5UjZhWnNzUk5WVC0tSXFsdmd5ekxER3lBMXByWWFmSDlfYnp3dnpBQVBPOTRZQjlhTDlrUndyY29lcDhVZ2hKT3FpWWI5WDNUblN2cG43WlVmMjV5RG9KdlhuYTNjeTZyVHlMZjZqYTZMWU9KWEhSck5aUzd5a2N3MlZ4M3pZNDRXR241NjlKSDV6V1B5dUJhekM1UDFFaEh6WHFucFFuY3BRTVZZaDNFdWFfaWEteWxUMTdMSDF0dk9tU1JvTFVQV0JuMU04TTBmYnlWMlJRdWQybWN2MzZEempldGw1UnhPNjc1em40WHY3XzBIamtnRXJ1ZEpjdw?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2026-03-31T15:00:00Z",
-      "crawled_at": "2026-04-02T14:21:51.521151"
-    },
-    {
-      "title": "Jefferson Community College gets $750,000 from Micron to launch Semiconductor workforce Training Program",
-      "url": "https://news.google.com/read/CBMilwJBVV95cUxQQ0QtLUVINEdDWTc0dDdGN0JZZXNHYnVKTUcwRnV5UXZFSHhjSHJxSC1KWFE3OGxGRjFIZDJDMTdIZ3NfMy1XeG5pOENiU05QM2JCWlgzQ3dJanZHTHFfOHF0M3cwd1pfaFVFa2VHSFZIUjIxa0JBVnJvZmdwdGFIWXJZQjE4MHI5VmNNcW00OGJGaHRibV82akFSTW9kd3pfbXdSS3ZfcmNBR3NCMHZsa2U2aTA2Ym5US19YLVBkZVA1aUxEdmY1N1VtSWZVcnhoUkRMTlIycUhHbElGQWdzdF9UVk1vTU5XRnhJWFliVXlZNTBPc3c3VmQxTXFiWGIzbHZzZExpXzhtNmZKTlZNUHNtN1hqd28?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2026-04-01T20:15:31Z",
-      "crawled_at": "2026-04-02T14:21:51.521317"
-    },
-    {
-      "title": "Semiconductor Microelectronics Market: Key Players Navigating Competitive Pressures and Opportunities",
-      "url": "https://news.google.com/read/CBMisgFBVV95cUxQWVpmcnlRTVNjOE5GLXN3dDdOaXZPSzkxM0NSLXhXQmNBMElDY1dDcEx4SWVYRzhuUUtIbHp6Z21DeVJ1Z3RnSW9fSGNudW9aME5rYkE5MXQzNWNlSlJES1FDbnV6QnplSmRlSGhadTRMTmd4YTB3NGxlRVg4dDlsZ2NrelROX0RNQjhoZS10TGFWWnRDZDZfUEhIc2hfTk1IQi1INTBXY2V3MVN1SS1vNnF3?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2026-04-01T14:34:16Z",
-      "crawled_at": "2026-04-02T14:21:51.521506"
-    },
-    {
-      "title": "Geopolitics are reshaping semiconductor supply chain risk in 2026",
-      "url": "https://news.google.com/read/CBMinAFBVV95cUxNaDlpS2ZtRXV5QjlZQ2VoLTl2S3p4d0VSS1J5RTVHWUt1TnFpbGRqYjU4SVhYLUVDU3YyOWVXX0VHZGdwc2ViQW5WNGU4TDFFZkZkUGlTaVRLV2lCMkw4UTVxbkg0dzkyVXppcmM0QTBZSHdjbmtFTEZfNHNJTmMzWkw0WlpSUHZ3N0Zya2Y2elZtR3h6RDladERTQmc?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2026-04-01T08:30:02Z",
-      "crawled_at": "2026-04-02T14:21:51.521685"
-    },
-    {
-      "title": "onsemi Unveils China Strategy, Why Are Global Semiconductor Giants \"Doubling Down\" on China?",
-      "url": "https://news.google.com/read/CBMi5AFBVV95cUxOekY5RWptbkhXZUVCUXRUWjI3QXAwTmVJRjIyQ25qaHNrQ3hkbS16eVBmOGYzeGl5VFRsMU0talh2X0lCWmNXaVdldVpBSzNGSVB3clB1eG9yUVVwVkVjYlBHT3d6VWJuZW52YWJZWDZ0RE5iQVRhczk3RmlSRVZuRENnS0twTkVFOHdVTThTM3dBZGdsLXR1VUN1TUJTWmx2d1RhU09qU0R5aXJIUXlyU0VVX19DN19RdThCSlIwRExGNXBwV2FSVnBiUkRkM0JIWVZINFRDeW9BWEtidFhHaTVWUWc?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2026-04-01T13:44:56Z",
-      "crawled_at": "2026-04-02T14:21:51.521857"
-    },
-    {
-      "title": "EFC recognised by Texas Instruments for semiconductor efforts",
-      "url": "https://news.google.com/read/CBMirgFBVV95cUxNYlNuTUFOVUJmNG9haUljTnlGb1g1dlF5VkhTeWd6ajJsTGNtLUx2bWctOE83VTQtbHBjU0R4M3pkM1E0MkQwTDhLeG1HczRSc1VhUjhhZnRDOXJ1a2VtTmU1OGlfY21uNkxPMTMtYkRyNnlCLXA2U3dadDZNeVhKdWpCcV9OX2JTQktJRE1ianZDcUZwYTJFWE1FdEVCcXVBdG5vVXdDZzU4ai1hWXc?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2026-04-01T07:31:55Z",
-      "crawled_at": "2026-04-02T14:21:51.522022"
-    },
-    {
-      "title": "5 Key Points from Our Q1 MEO: Three Economies, One Semiconductor Supercycle | Blog",
-      "url": "https://news.google.com/read/CBMipgFBVV95cUxPRHVncS1sNE5adG83SVJMOXNBaXNIX0plSFUtTG5rRVlEeXprem52eExrRTRldlE3VTY2b2tuankzSXRtTEZuWVIycHNfNXRwM242elBRYlpsVEhtZGprSEhMekFZb21reFlFRVltR2pSTWdWVl96UFdaNDU0XzV0azVnX3hhcEVZY0puOFlQMXBhMjExR3M0amcxSGo1RzFKenN3RGh3?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2026-04-01T08:47:07Z",
-      "crawled_at": "2026-04-02T14:21:51.522187"
-    },
-    {
-      "title": "Is Elon Musk Reshaping Semiconductor Supply Chains?",
-      "url": "https://news.google.com/read/CBMiiAFBVV95cUxPYlZQU3hBRWlIQnozaTBCWWlOMzVuNXR5UVhRNUtyUXNxWndhY05RYV9Xa1l4M1dCbFFRQTlQWWlQRFhUb0ZUSF9jb2xaNDROb1BqY0JKb2w3OEgwdmZVQnd2dXJJakdBMEJ3YkRhWFZNbTlqcVNDcXhmY1dwc3FKRG1vRV9ZQnpv?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2026-03-31T10:43:15Z",
-      "crawled_at": "2026-04-02T14:21:51.522354"
+      "title": "Modi inaugurates Kaynes semiconductor plant",
+      "url": "https://news.google.com/read/CBMieEFVX3lxTE1hWUw3TDZPTWEyZFpuaXo2R3E4blZnT1czRUltYnJ2QXBwbUVaZElGMDNfd29MS1BRQm9ZcDFqbHZ6UEJwV1UweHIzV2cyQy16YVZoWVFSTTRYZXU1cTJ4bm52TGhkZ205dlV5QjJESmlNdXNpcGpUaA?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Taipei TimesMore",
+      "published_at": "2026-04-02T16:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.463421"
     },
     {
       "title": "What Is Pax Silica?",
       "url": "https://news.google.com/read/CBMiYEFVX3lxTE1kYUpsSnlONG5aTXZ1eHZybVVRUTFXRDV6ei1oa3hSRkI4cEk2WmZxZE9xZlRWVmN6eE95SGJEWGpIRHNYY1Q0b0EtOU1vMFRTdlkwaWNWdVZmRnp6dzQ1MA?hl=en-US&gl=US&ceid=US%3Aen",
       "source": "Google News",
       "published_at": "2026-04-01T05:00:00Z",
-      "crawled_at": "2026-04-02T14:21:51.522552"
-    },
-    {
-      "title": "Electron Microscopy Shows ‘Mouse Bite’ Defects in Semiconductors",
-      "url": "https://news.google.com/read/CBMivgFBVV95cUxOdmF6NzFEaXg3bTdHeDVfUlBnanlwVzhGSmRCZDB2RGVZYTNVNFc1QTQwaEV0Tnp2WVZlUkRUdWdYZUFuTHNwREFJNDFKRm9RYlBxQW93TU5rS3loaTRkVnVmNWhSNzI5N1RCU0xPNVl6T29FX1V4enhrdFhCQ1Vpa1ZheU1MMTkxQlNSQUg0QmQ5ZE5UUnI5Y2l2WGwzcy1mT2w0VlFtRm02cktqSWsySkFlc1I3T2duWkhRUlpR?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2026-03-31T18:35:23Z",
-      "crawled_at": "2026-04-02T14:21:51.522726"
-    },
-    {
-      "title": "Intel Slides 5%, AMD Drops 3%: The Semiconductor Sector Is at a Crossroads",
-      "url": "https://news.google.com/read/CBMitAFBVV95cUxOeVJfUWI2Q2J6V1pzYnlpLXJrUk9FQ0xaZkNpbDdaRnV1a1p2cThmYnJmbnRpZFFjUGdHQ1Q5cUFmbE9aenRNTldvcV90aG5ORGR6MG5uUzczX1NwM3d4MkR2NDBYUTR5M21QUEdPNGt3WDgtRW1TQ0FJTUtqdDB3ZlBYS0EwQkh6N0c5OW5hUzBaeUlwdTM3UVVxTXJldy1SdmZXcWw4M2RGUXdMY3IzdU9jQXQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2026-03-30T17:39:20Z",
-      "crawled_at": "2026-04-02T14:21:51.522896"
-    },
-    {
-      "title": "Poland at the Center of the Global Semiconductor Race",
-      "url": "https://news.google.com/read/CBMihAFBVV95cUxQc2M2eEtpVmppNVhsRzloUjhZbW5RelR4cXozUVJMVVR4T0pKYWhYbVBiSkN5Z204aWVpcHBhRmF0MWU4VW5RODNmT05WVVlwdjZRMGlkbHhJUEtRcmVDZ1k3b3Azb3VLMVRTRWhuOG5FV01OWGhnWHp3NkpSc1EyYU12eWg?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "EE Times AsiaMore",
-      "published_at": "2026-04-01T08:40:50Z",
-      "crawled_at": "2026-04-02T14:21:51.523029"
-    },
-    {
-      "title": "ON Semiconductor Corp. stock outperforms competitors on strong trading day",
-      "url": "https://news.google.com/read/CBMizgFBVV95cUxNa2VNcU5wbzNUWWdrVGoyVVpRZTQ1RVgybGF4bnZrQnNfbmpxN21oeFJ0YjlTSnI5aTlWX250WDZWZXFVZlNBSF9PZTdiWk9QclNfY0hBMlZGNEhXRWJtcXVTNHFDeEJ6ZHlaYmdYdnZsT3p4aU9NYnJwNG5GaDgyWkhBVGp2b2EwSEFuWnhGRkEyX3RmVllsZWE4R1Z3SHkzWFdfTmpNQjU5X1o1WG02alYxUnYzdGdSNEIyd01kMkluQ0dRM0c4bnZmNkVyZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2026-03-31T20:30:00Z",
-      "crawled_at": "2026-04-02T14:21:51.523191"
-    },
-    {
-      "title": "CP-Based Lot Scheduling Solutions For a Semiconductor Manufacturing (Infineon, U. of Klagenfurt)",
-      "url": "https://news.google.com/read/CBMivgFBVV95cUxNSEYyQWJCenJ1amFVVFlXUUFLQm90VkVtQWNwX2FwaFh1WTBIdm5JNmFQa1N1SkgwUmFHa2Z0dzhLWk9kRDllZ2VjMmhDQXRJd1BJTl9OWjJPTUpHWUdCeG9IR05IOWJBMFp2eFc4TGd1UEJQRjlyZC1KZkNRZFltUWZXams4Qi1IM1NXYl84UURsMFNzN0Z5OV9YTnI2eUg0dGVFeDVDQ3FVQWl5VE1qRnFMNm9QQWpic3k5Ymd3?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2026-03-31T16:19:09Z",
-      "crawled_at": "2026-04-02T14:21:51.523355"
-    },
-    {
-      "title": "NEWS BRIEFS — Virtual Student Art Exhibit opens; Semiconductor Engine gets federal funding; Kissimmee seeking Recreation program submissions",
-      "url": "https://news.google.com/read/CBMivwFBVV95cUxPeFJJbjVkVW5WcElGYm9YSUdJX01CSDN3LXdNUFphZkY1U0hNTTdOT1ZuVHRjMzdyS1Vqa0cwa0NzRndqcm9LQTBqWnVJT3h5ak1vTE84cFJMZll3ZWxHRVdhdkhKc29kUVBwVXVJTF9LUWdSNDRUR0FsbzRUdWgzTnhmM25CR1h1QkRQNDZNR2thbWdNak9sM1E3S1BuZWZQVVBVcDNzQ3F4RE4yMTJIdGU1X25Hd2gtdGNkOGJxNA?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Osceola News GazetteMore",
-      "published_at": "2026-04-02T10:57:41Z",
-      "crawled_at": "2026-04-02T14:21:51.523517"
-    },
-    {
-      "title": "New light trap design supercharges atom-thin semiconductors",
-      "url": "https://news.google.com/read/CBMib0FVX3lxTE1WWDNaZkU2SHpRMGdzb25hOWtTc1NCU2R5OVVsSmFpVlktVzNkOTZRRTd5YnRFVjBJVzVJWlA4ZWhnWlVfaWFWN1BmajlnUU80a0pPdlhkRHpFc2V4SlRyUVZMVW5XN01kcXN0dmZnYw?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "ScienceDailyMore",
-      "published_at": "2026-03-24T07:27:05Z",
-      "crawled_at": "2026-04-02T14:21:51.523654"
-    },
-    {
-      "title": "Vietnam records foreign investment $14.2B in semiconductor, to further attract big tech - TNGlobal",
-      "url": "https://news.google.com/read/CBMivgFBVV95cUxPT0ZxUzVYUnNxTEFVcnNHXzhsNlVWRktwcmVrTmtqVlJFamZsdDZ1bXlUclRJZDczMTN4NnBnZVRmQmxqRWZnWkRuN2ozZ0xDQ1pTSUVDVXE1QXZvQnFTOG9MTEVhT2lxRkcwZWF2eFBvbjRjUFpNVWVqQ0d3a1JnTWtMZmM5R0k4Q092ZndRNEdTU0lUcWJUS284VGdSdW9CRmpqQU5idjF4bk04c0hIUF9iZElqVUZCc2pHNWxB?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2026-03-31T08:26:06Z",
-      "crawled_at": "2026-04-02T14:21:51.523820"
-    },
-    {
-      "title": "Niuxin Semiconductor Expands PCIe IP Portfolio Across Multiple Generations",
-      "url": "https://news.google.com/read/CBMinAFBVV95cUxQc0FyRkNWcll6a0FleXBsUVJuWGJnaHltLVhVSWp2TXBzQ0NHUFgxdWZJZEVfenRvQXFTb3VubWdVc3VCTllTQl9waldrQzhEV3hrR1AyMWlaNjF2eDRlMV9YTEpjOWJiRS1ybkpMTnZoVEFXOVdPc1JKMHVlWVhodHZndUZ6aWxnajNvTDhSd29GTFhiNEh5TzdwTmg?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2026-04-02T09:32:49Z",
-      "crawled_at": "2026-04-02T14:21:51.523992"
-    },
-    {
-      "title": "Global Semiconductor Sales Increase 3.7% Month-to-Month in January",
-      "url": "https://news.google.com/read/CBMingFBVV95cUxPemZYV3hwdkNvQUh3aU4ydHpHOG4xc2QzNjRoWVFreUxhMTJVRnpaelFUWjFkVjBZcFROdWI1M043WFZYNkg0MklHVjVqVkU3Wm5JRGtaNHhqYWNtVzNxWWZUTFp1SmZpcG43enhTZzhvTVVvVkxTdXEtal9ET1A5MWFyenhHb2F3OUJ1bU9lckhLOFM4b0gwTUtHRlVnUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2026-03-06T08:00:00Z",
-      "crawled_at": "2026-04-02T14:21:51.524158"
+      "crawled_at": "2026-04-03T14:02:38.463592"
     },
     {
       "title": "2024 semiconductor industry outlook",
       "url": "https://news.google.com/read/CBMinwFBVV95cUxPWEN4YnU5Q0NPUjgxYlJVLW9oUkl6NW9sdnJ2aV9fdXVLRU9lMVBPQTh1bVNFMTlERXFWR3FJY3BhalY1c2ZaSFdpc0ZURlJuSlBBakNsVUNmNXhMWl9zcDB0NzJVNUxXSks2UTFFQXYxcU90SjJYdTNaUlg5X2hLX2h5QkNJdGdteEk5UFdOb3UwM2J2MEFEbGRmQU0zLXc?hl=en-US&gl=US&ceid=US%3Aen",
       "source": "Google News",
       "published_at": "2026-03-28T17:11:21Z",
-      "crawled_at": "2026-04-02T14:21:51.524323"
+      "crawled_at": "2026-04-03T14:02:38.463764"
     },
     {
-      "title": "Uncovering Hidden Atomic Patterns in Semiconductors",
-      "url": "https://news.google.com/read/CBMilwFBVV95cUxPcjJKcmxHbUwxRXRONDVFMHM4Rzc0M2g0eW50Z29ldm9TLVlISzRKa2tlaWVtMEJDWEZSTU9BVnVRa3ZvRXJJckdoa05RUTZtTmNpcm9JSnVQdVl6Q0NrRkJUVXJBcFJFc1NQbVJIWXhVSFE3NmRLN1NiZ0R0al9BcUtjaEdMOXhlbWgyYXlfelFtWGw4WU4w?hl=en-US&gl=US&ceid=US%3Aen",
+      "title": "Cosmic is born: A new global player for semiconductor test solutions | Electronics360",
+      "url": "https://news.google.com/read/CBMiuwFBVV95cUxOcjBOZ0J5OHQzY2pxUFNoSTZCV1R0UG8zVTBRTzgxUXBsWUlYYzJsSjFOWDlYenhHRW9KY3Y1d1Utc0VONDZfbkJfYlBPSW5pMnBkWlROV3JTeVJyZnk5NWl2T2ZqVmVsR0d1NEZ0VzRzT1ZFNWR3bEJ4Nk53MFV3UEhNSzl6YjVMUXlrTlFSQUJjR3kwVGh6aEZCUEZOV3llaVNtTV9HM1ZleVZhUVI0TkpPblFPZnpITlBV?hl=en-US&gl=US&ceid=US%3Aen",
       "source": "Google News",
-      "published_at": "2026-03-26T16:33:04Z",
-      "crawled_at": "2026-04-02T14:21:51.524511"
+      "published_at": "2026-04-02T11:50:20Z",
+      "crawled_at": "2026-04-03T14:02:38.463930"
     },
     {
-      "title": "Triad Investment Management Acquires Shares of 12,586 NXP Semiconductors N.V. $NXPI",
-      "url": "https://news.google.com/read/CBMi1wFBVV95cUxQamdvRTVRdmpXV1pTSVRYbU5fNmFrOTFJQ3NFTUlyUU5MaTFralhoY0ptaEREc3dNM09LRUJnVmlKZE8taEMtWDljcWhGb1BHOGRRRGRVWHozS2F0b3A0aEFXbFVYWUhDQzR6MFdIWHg2dzZVZzlLQ0NhRzc1dU5rcE8zNGZjWXdyR1RNeEtoVHVxZmZoMUUwMEktRkVPU2MxMlBIMmJWR0ZQXzBCbE5yV1g4QnZQeEZQeGRQVVpyX2RDWFBSZm85TUlPU0NiWG5pX21fUXhxRQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "title": "Jefferson Community College gets $750000 from Micron to launch Semiconductor workforce Training Program",
+      "url": "https://news.google.com/read/CBMilwJBVV95cUxQQ0QtLUVINEdDWTc0dDdGN0JZZXNHYnVKTUcwRnV5UXZFSHhjSHJxSC1KWFE3OGxGRjFIZDJDMTdIZ3NfMy1XeG5pOENiU05QM2JCWlgzQ3dJanZHTHFfOHF0M3cwd1pfaFVFa2VHSFZIUjIxa0JBVnJvZmdwdGFIWXJZQjE4MHI5VmNNcW00OGJGaHRibV82akFSTW9kd3pfbXdSS3ZfcmNBR3NCMHZsa2U2aTA2Ym5US19YLVBkZVA1aUxEdmY1N1VtSWZVcnhoUkRMTlIycUhHbElGQWdzdF9UVk1vTU5XRnhJWFliVXlZNTBPc3c3VmQxTXFiWGIzbHZzZExpXzhtNmZKTlZNUHNtN1hqd28?hl=en-US&gl=US&ceid=US%3Aen",
       "source": "Google News",
-      "published_at": "2026-04-02T10:23:07Z",
-      "crawled_at": "2026-04-02T14:21:51.524674"
+      "published_at": "2026-04-01T20:15:31Z",
+      "crawled_at": "2026-04-03T14:02:38.464105"
     },
     {
-      "title": "A Tiny Silicon Valley Startup Envisions Computing Beyond the Semiconductor",
-      "url": "https://news.google.com/read/CBMitgFBVV95cUxQai1LWU9xanJ5SUhBYmUzY0o1WDN2bEFDV1JPNFdaVjBCMW1JR0FTaDRwaUJlemdVcWxkS1cxWVRPR3pmTGNoXzFWR1ZBekIycXgyZERpRXNDbGJPQWlNcHFGSkVNZDJtaDJSUGw0RUlXeWwtOHMzYUxIYmt4bTBuQkZOZDMzTGNUUTlhN1ZRWGNjS2dVWEYtWkJqWERIcUR3Zm9waGw2T1U4SG5VeWJWM0oxcTRmUQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "WSJMore",
-      "published_at": "2026-03-04T08:00:00Z",
-      "crawled_at": "2026-04-02T14:21:51.524807"
-    },
-    {
-      "title": "Iran war triggers helium shortage, hits semiconductor supply",
-      "url": "https://news.google.com/read/CBMiqgFBVV95cUxOYjlkVkZZR2FoRFFjN3JiUklvZmxPYUZOUk5nNkRjeHZYcUJleXdVQUFkS3F2X2M3SEx1TG9ZNXIta1lQSmc3aVlkUzRuTW81QlZzcGlhOUJqUDZYWmE1ZGdma0VOZ1k4dXIwVG11WEstUktwcFJ1NEZzcjRZQUtrYVUzU1doYWlSaTFxb240Mi11MEk5ZG0ybW9LUEh2NVZFd3pPUm5MTFdCQdIBqgFBVV95cUxQX21lZ0MwUjVPU3NWRFNiQ0wxVkZIUzlHdHhtNWFiVDVvUmhWTlhyYkdvQXotd1BaLVpvaGc0c0h3bURmUm5iX2tieS16eVEwaXU3b1ExdjR5QU9WNy03dUdUMWM4ZDZLd1ZSdWpFQlU2Q3ZLai1EanhhbFZoUnpHQnhYS2pHVkowQ3lweDFPaXBPenJwSVhWQW0zRmJNdVJiU2xCdU9DVzBKUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "title": "1 No-Brainer Semiconductor Stock to Buy With $1,000 Right Now",
+      "url": "https://news.google.com/read/CBMilwFBVV95cUxNR3pHT0syWmliWGNHRW9XdDdfcld5RzQweDRXaFd5YmR4OURjZDR2ckNhUXpjeVBFdUtRbHV4TjBpNzdzRnR2QzU3cXJaSno0cFFpMTgzODZlV0lfbWxEdG1uT0QzWThLVHF3Z29sbThjN3BDVHJ1LXdJcWRNTldrMnVEQ0c0c3duN2l4R3Zta2FhanN3LUdv?hl=en-US&gl=US&ceid=US%3Aen",
       "source": "Google News",
-      "published_at": "2026-03-18T07:00:00Z",
-      "crawled_at": "2026-04-02T14:21:51.524973"
+      "published_at": "2026-03-28T17:45:00Z",
+      "crawled_at": "2026-04-03T14:02:38.464296"
     },
     {
-      "title": "Exclusive: German semiconductor group Elmos exploring a sale, sources say",
-      "url": "https://news.google.com/read/CBMirAFBVV95cUxPbkN4eHIyT1dBQVJ0Mmk4cTBzX0VyZ3lsUnBDZ1pHdjlma01HUGoyTmI1M1hnSm1OaXlWWUlCbGkxdmdRQ1ZaS1pHRFlldjNJUkpsSWNvc0JTSlRUZlFJZnY2SUVQR0QxTkZhRHRtX3I5TzliRGYxZV90M0N6VWpQVXF1dXZHbV9HRnpGeFZLWDRXYjdZd3NmVV9ITGJoQjBONExQWUp0S1c1bWVD?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "ReutersMore",
-      "published_at": "2026-03-19T07:00:00Z",
-      "crawled_at": "2026-04-02T14:21:51.525109"
+      "title": "New light trap design supercharges atom-thin semiconductors",
+      "url": "https://news.google.com/read/CBMib0FVX3lxTE1WWDNaZkU2SHpRMGdzb25hOWtTc1NCU2R5OVVsSmFpVlktVzNkOTZRRTd5YnRFVjBJVzVJWlA4ZWhnWlVfaWFWN1BmajlnUU80a0pPdlhkRHpFc2V4SlRyUVZMVW5XN01kcXN0dmZnYw?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "ScienceDailyMore",
+      "published_at": "2026-03-24T07:27:05Z",
+      "crawled_at": "2026-04-03T14:02:38.464444"
     },
     {
-      "title": "The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored",
-      "url": "https://news.google.com/read/CBMikwFBVV95cUxOdjVSdTNvT2hxMUc4Nnp2eDZGT1c4VUxVU25yQ1ZwWTgtYVkzRjVEenZBNzlPdFNnYWdFSnRLMS11bUlleDE2RVJZNW9SdVVfbGpieWJWMFBUN19nWHl2LWxIXzk0Y1lXcXZCTXY1b2tnLUloeDduRHU2Z3NYM1Vyek1pM0RPZWlhTkdPcjFkRTY4Qjg?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "The New York TimesMore",
-      "published_at": "2026-02-24T08:00:00Z",
-      "crawled_at": "2026-04-02T14:21:51.525244"
+      "title": "Global Semiconductor Sales Increase 3.7% Month-to-Month in January",
+      "url": "https://news.google.com/read/CBMingFBVV95cUxPemZYV3hwdkNvQUh3aU4ydHpHOG4xc2QzNjRoWVFreUxhMTJVRnpaelFUWjFkVjBZcFROdWI1M043WFZYNkg0MklHVjVqVkU3Wm5JRGtaNHhqYWNtVzNxWWZUTFp1SmZpcG43enhTZzhvTVVvVkxTdXEtal9ET1A5MWFyenhHb2F3OUJ1bU9lckhLOFM4b0gwTUtHRlVnUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2026-03-06T08:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.464618"
+    },
+    {
+      "title": "Niuxin Semiconductor Expands PCIe IP Portfolio Across Multiple Generations",
+      "url": "https://news.google.com/read/CBMinAFBVV95cUxQc0FyRkNWcll6a0FleXBsUVJuWGJnaHltLVhVSWp2TXBzQ0NHUFgxdWZJZEVfenRvQXFTb3VubWdVc3VCTllTQl9waldrQzhEV3hrR1AyMWlaNjF2eDRlMV9YTEpjOWJiRS1ybkpMTnZoVEFXOVdPc1JKMHVlWVhodHZndUZ6aWxnajNvTDhSd29GTFhiNEh5TzdwTmg?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2026-04-02T09:32:49Z",
+      "crawled_at": "2026-04-03T14:02:38.464789"
+    },
+    {
+      "title": "Aberdeen Group plc Has $131.44 Million Stake in NXP Semiconductors N.V. $NXPI",
+      "url": "https://news.google.com/read/CBMizgFBVV95cUxPemVjUE9wb2hTXzdldkdHWUp6VFkzaktjaGRQNElmdGVIWkdiUkx0ZTZwSVVGcWxQUmtIUDFjbDg5bkJuRTZ6X0lqcmFxVFZyc1NRT3cycW4xMm5mY19GQ3JJNFVhRElxWmg1YW1TNXJSeEljX0luaWdiTTFsTVpWeGxSa0JLRkNvY2c2WUxURG9IWE5MYTZsV0NrZXpWTjVCbHlVV2M1cXlLTG5yUi1tVVR3LU9uWklvaVhKLU9Ic2EzaU9EMDV6NVg0eU5FZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2026-04-03T07:07:27Z",
+      "crawled_at": "2026-04-03T14:02:38.464954"
     },
     {
       "title": "The Iran War Is Also Now a Semiconductor Problem",
       "url": "https://news.google.com/read/CBMimwFBVV95cUxQTFNBLUVIazJjTzZrNnV3ZmxJSjdpbWtXVUN3NjZNMjN2UTdFVE5YN2ZSdXV4bk16T1QtckpNWGVGcWtya19CMHBXeGh1eXkxTHhVRktaSE1RX2lBa1NGTFFRVWtBLXVZaGRpMmo4X0Z6TGhEVHlkVDBYVFNDX0w5dFc3dFRmbWNoanpXNnZFU0NEeElQX09rNUxiZw?hl=en-US&gl=US&ceid=US%3Aen",
       "source": "Google News",
       "published_at": "2026-03-13T07:00:00Z",
-      "crawled_at": "2026-04-02T14:21:51.525409"
+      "crawled_at": "2026-04-03T14:02:38.465122"
     },
     {
-      "title": "Investigating NVIDIA's Standing In Semiconductors & Semiconductor Equipment Industry Compared To Comp",
-      "url": "https://news.google.com/read/CBMi6AFBVV95cUxQLS16SUxJUDlYOURRdnFuU1hjN0I1aUJDNi1EbjlaQ0JZdEkybHZaMmlVNTdGeEFiZVBtNnZuMU95aU1nZ1ExYW1oYWduZC1EeFcyRG5EX0IyZVVjUmtnem8wOVZKMGVrYVBPTVN6N3ZNZEtqb3hiOVVaeEx3X2cwaW01UzVWSDl3bElBYTBmQ2xMMTVsQnl2WEloOGVFQzU1RUZyYlpEenR4SVRMSXB6VFZlb3NxZUxvSHhndWR0NE1xQV9mSEtpN2tZWEJaNkJmaWRLSHRFNDg1NG01cGphRTZnMmZ4NENq?hl=en-US&gl=US&ceid=US%3Aen",
+      "title": "2 Semiconductor Stocks to Sell Before They Drop 32% and 43%, According to Wall Street Analysts (Hint: Not Nvidia)",
+      "url": "https://news.google.com/read/CBMimAFBVV95cUxONUVScE9RdFV0TkFIS3V2OXp0anRITVJVcFhxNWVxbkktQlNjTmc0bUlrZjR2ak1ZMmg5STJqMlVteEo5by0tTmRDNUpmRVRIRE8wbjdhSmJsa25WT0hfS0wxR1hBdXV1Rm5NeVl5X0MyREQtT0VKVFNmdEF0SF9LSVRYSTd5WUpUdElqNFZ5bXN0YUFxZUJzVg?hl=en-US&gl=US&ceid=US%3Aen",
       "source": "Google News",
-      "published_at": "2026-04-02T09:58:36Z",
-      "crawled_at": "2026-04-02T14:21:51.525597"
-    },
-    {
-      "title": "Small chips, big footprint: Why ICT needs to tackle semiconductors",
-      "url": "https://news.google.com/read/CBMiuwFBVV95cUxOYzVIS3FVOFRKQk8yd19SNTJiOTlLLS1VTS1RUTFzbFdSZEV4RGFhRlI2cWRDTk9yMXBobkF1NnFLdlZ0Uk9OMXJvQ0M3SnoyTEtyRGp4bDJROWRWMTBJMTJELXItTjJSMEp1RVk2RXItbDhEdXVLdGUyclQtVVp3aGFXa1BUUEJHOHNHY3NVYmstZnpyMFlxaFVVRlVvdGpyRms0aW5xb205OGVqY2dfMm5uYTh1djctRXJj?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2026-04-02T08:47:25Z",
-      "crawled_at": "2026-04-02T14:21:51.525757"
-    },
-    {
-      "title": "<IPO> Mainland Semiconductor Company Yao Xinwei Applies for Hong Kong IPO",
-      "url": "https://news.google.com/read/CBMilAFBVV95cUxOdmJuZU9mTVRoRUs5elRXUUtEZ2NoQTAtdGZjd0s0aXhOemhNcERVeHo1MzR3NTVxaDBmUHZVWjZOcmNhYWxHa1BqcVJzYkNQS1VRUW50ZWRNWllzLXlEeXhVMFluSE5EOUFkMWd0Tkhxdm40VUFzUnNtWUxJNl9WTDdvdWlOVy1MYVp5a1NJdk5KTUFX?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2026-04-01T00:00:00Z",
-      "crawled_at": "2026-04-02T14:21:51.525926"
-    },
-    {
-      "title": "Hassane El-Khoury: Immigrant Success Story, Semiconductor Visionary, and President and CEO of Onsemi",
-      "url": "https://news.google.com/read/CBMizgFBVV95cUxPaW8tanR1NzR1enctSERhbTlmcjlmTEQtUnF2V29QNEYyMFo2VVZqRnNTYXVWN0ZNWDBIMmtTRFRDbHY4dnI1d0dEbFl6bGJ6UkQ4TVBwT3FaanpGTnlueXNqNjF3WXhJTTBYVDFac1piRC13S0pGV0RqNmo0SER0OVUyRTU0dG9YZTN4TDl5eE0wTGxkQW15QUV0XzEtajFBa0NlYmRUY0hCSXFxQVF5Ulo0MjFCdjJqUl9uS0cwMkNYSVVFY2hHNHJCM0dYZw?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "BBN TimesMore",
-      "published_at": "2026-04-01T19:26:54Z",
-      "crawled_at": "2026-04-02T14:21:51.526063"
-    },
-    {
-      "title": "Nvidia invests in semiconductor company Marvell",
-      "url": "https://news.google.com/read/CBMijAFBVV95cUxQd2NoZ3lLN19rMnV4Rnc5Tjc4Uy1jMVdjbHBWalRYZDBEeUVvODBNNWlobE1PSjhoOXZBOGpxcndOWFNMbm5kVlc0d1F5Ykd5aDlTZ0dFTXZEOXVlQTh2ajdxV091S3ZIZ2ZiMTJHVGdodWJDLVFyTU9DVW4xbndYQUxNZDlFb1haelhSbw?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2026-04-02T10:54:59Z",
-      "crawled_at": "2026-04-02T14:21:51.526229"
-    },
-    {
-      "title": "IFC to Support RE-Powered Semiconductor Facility in Malaysia with $125 Mn Loan",
-      "url": "https://news.google.com/read/CBMiywFBVV95cUxQcThpbjF3TzlnX1lvMHF0NXlIUXg1X1hJZUNUM2RNM3lVN3B3clVmbG9EWGJtYnAzaU5vMEtfdG9hUWJCVTdzZDZabnloMUtRRzkyaWIxUVVuVDJobTUxVGVTTVFGU1pTbk5Xb0Nlcmh4bDBCaFZ2aHN4SXVfRlF6V1ExNGJxMUF1NU5kWXJhdzJwakJUU3JoZTJlak9GaDFSb2tKUENldW1STHJCdTJxYlBHdVpNSWxRa3JQRmhZc25uZThzQmVsTHZzVQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2026-03-31T07:11:14Z",
-      "crawled_at": "2026-04-02T14:21:51.526387"
-    },
-    {
-      "title": "Global Annual Semiconductor Sales Increase 25.6% to $791.7 Billion in 2025",
-      "url": "https://news.google.com/read/CBMipwFBVV95cUxORWc4TFNpSDl3U2NRaFJ6Skd3elVESmFEazBnR2JrdG5TZnBjRmtmM1ZRRG90MTVSbU9rMkZiSzRQWFo4NG9TT0llT1NHbktiU0ZOZHNFNnFsOHRGdWNLRk9MM0dTXzBzVGRrMk9Oc01kenlWb3dnQk9LczNVZHhHRGtMODlrVWlpSm90S3g0VjZsNjd5eTl0blI0eUd4T3EwWllBaU1tVQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2026-02-06T08:00:00Z",
-      "crawled_at": "2026-04-02T14:21:51.526583"
-    },
-    {
-      "title": "Samsung Electronics Union Swells with Semiconductor Workers",
-      "url": "https://news.google.com/read/CBMidEFVX3lxTE8zbGdKYklZTk5RSE9WdWR4TmlKdm1ZbDVJc3kxd3EwYUlfMmFBa3RqX1VFQjBYbExRQ3M5VVlkdDJhZUlFQllOdENrVVBOWXlJM1lEekJvcGhPekRRLVBQMFhyckREbHgzRE5jQVNDMG5NcGdi?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "BusinesskoreaMore",
-      "published_at": "2026-04-01T10:54:06Z",
-      "crawled_at": "2026-04-02T14:21:51.526719"
-    },
-    {
-      "title": "Semiconductor Etch Equipment Market to Reach USD 45.89 Billion by 2032, Says Stratview Research",
-      "url": "https://news.google.com/read/CBMinwFBVV95cUxNTHNNYks1TWppSDRZQnhTY0dYSkw3aTQ3UUpvYVRVVm1pNU9zLU13aDNRaDNWckVxYllDY0ZvWUJmb25sZ0NrcmNtZFlKSXpkVEFtbzBTM0dzOWdHdmhVbzNleFE1eEpYUXFZT1VqRFNOSmJKM3JKRFduak5XUHZhODdUekthcWNqdHFidjJCVlA3dzdPd214UFVTcEo3WVU?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2026-04-01T07:47:55Z",
-      "crawled_at": "2026-04-02T14:21:51.526882"
-    },
-    {
-      "title": "USAT to Invest MX$2.43 Billion in Yucatan Semiconductor Plant",
-      "url": "https://news.google.com/read/CBMiqwFBVV95cUxPeFRtcEZwMkM0dktESGlMNk15T1BoX0NnN3ZFb2c3N3B3ck5YVG1fcDlmZmxHYWlibTdhX1pOVzJhTi1jb3BiZTBwNjBPdnNFTG9aakJGVE9HUEhnbEpMZm0yMV94ckhKZmdpcGdDbzRYMjI0QmFjZUJDTTQwSnVMMWZ6dXo5bFRjbGdHcHAxcGJ2Rmc2MFk3b3h6WjB1OHdTRmlvVlZaaFJvdjQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Mexico Business NewsMore",
-      "published_at": "2026-04-01T17:43:36Z",
-      "crawled_at": "2026-04-02T14:21:51.527012"
-    },
-    {
-      "title": "Oregon's semiconductor sector shines in NSF visit",
-      "url": "https://news.google.com/read/CBMikAFBVV95cUxQdW5mSG1CMVpWRFJLWW9hN0RROE5jRlNLV3pkU0dPeFNNTVhKRGxJMXFFd09va1REaFpUbnNhdFVsaHJ4eXpmM2dfcjNWRlZUVHNOc2xHVmdSLUpJMlFHTkkzeHRoZWJUOHFHRzVJNXJGaUtsOF9SRHhjbVBlc2ttZ3RQdDJvaUNyOE9BQVNlUW0?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "OSU TodayMore",
-      "published_at": "2025-12-04T08:00:00Z",
-      "crawled_at": "2026-04-02T14:21:51.527145"
-    },
-    {
-      "title": "Semiconductor Traceability and Provenance Workshop",
-      "url": "https://news.google.com/read/CBMijAFBVV95cUxQRU1vWFVBeUp3dnVWMktndDNyZUJZN1VpMHZ4R2MzMDk4NE1YcGlzSlpNbFBhZFl4OXc0UU5CNWhiQkpoRWNqZkNUZmQxYjhKRW9WS01hakpuazh3ODU5UlNUNjlxNG5IVzJTYkcyWFJzVmVSQ0tsdko4c3U1aFRmbl9VZmJQRXdZMXhBNg?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2025-11-25T08:00:00Z",
-      "crawled_at": "2026-04-02T14:21:51.527305"
-    },
-    {
-      "title": "Scientists Create New Type of Semiconductor that Holds Superconducting Promise",
-      "url": "https://news.google.com/read/CBMiywFBVV95cUxPUXg4SUdYOTRZTndVZUc2amtpN2tCUFNkdUl3a2lUMlBfRzRjZnplVE5ySG5mZThNNm9UYWs0aHo1X015bTZqOHZja3FCUWlOQVBPbjN6RDI1eDF1R2poRldrbnQ5NHRaNjh0WFgtV2ZaOXhtMjU2U2NUWXN1VEt5ZWhLMTR4TXd5WXQ0MndsUDdXUF9qU242bUFNNmNpZHpfUzk1dnJMYzk3dHhwRUR5dlJPNm4wUVNIMEpqcHhOUGhVNGxJbWVSNDh3TQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2025-10-30T07:00:00Z",
-      "crawled_at": "2026-04-02T14:21:51.527490"
-    },
-    {
-      "title": "Lapse of Key Digital Trade Measure Undermines Economic Growth, Innovation",
-      "url": "https://news.google.com/read/CBMipwFBVV95cUxQYm1oVjk0bGVuNEF6cjRsOTFGbkRWQ1llc1g2V3lVckx0WjVGMTBfd3ppcnp5YXAxU0Faa0hpaTdIVGRReHp0ZGYxTVpNWEJFN1JiX1o4MDdyd3pWOUFRSVBYSzJjVE5kT1ZWVWRVOGRDa1BNcTBGR1p6a0xMVEFXRkU3WldkTUFMSzRReV9nQXVPY19tUWt0Wk5ZU182YkJGYzhpTlRSMA?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2026-04-01T19:02:27Z",
-      "crawled_at": "2026-04-02T14:21:51.527657"
-    },
-    {
-      "title": "Intrinsic intermolecular photoinduced charge separation in organic radical semiconductors",
-      "url": "https://news.google.com/read/CBMiX0FVX3lxTE5HbVFVMEJ3cjhGQk13QUhETmtoVFNtandKY29hWkNBSGduc0FRc0x5dV9xamhmME1yVlNhSXRDZG50SVRMY2NETDVhM3BscnVtU0o2eEtwRk95NGYzQTJB?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2025-09-30T07:00:00Z",
-      "crawled_at": "2026-04-02T14:21:51.527817"
-    },
-    {
-      "title": "A Sleeping Semiconductor Giant Awakes: India",
-      "url": "https://news.google.com/read/CBMieEFVX3lxTE0xRHFTMTNpejBHV2tIVUE5MHFyZjg4cVRGM0VRaHVlQ2YwZWtXekVIa3pnUlVlX0NCYzJtTnJqVWNVZ2FBU0R0b1JfX0ZiUnZpVVdKTU04UHQyOWhTbGIxTTZFbmY4STM4WHJaX1pCMkNUaW9HcXJjNg?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2025-11-12T08:00:00Z",
-      "crawled_at": "2026-04-02T14:21:51.527980"
-    },
-    {
-      "title": "NXP Semiconductors streamlines mission critical business processes with Microsoft Power Platform",
-      "url": "https://news.google.com/read/CBMihwFBVV95cUxNSTlkbU9lbFBrLURHbFJFeWZTV2FER2llUWc1MF9hRHFzNkhINUVYYUQycV9JLWd6Z3V5WE1VNmRzOEp4MlhCZmNOd1pnNU0zWWpkOHZtZjdyQVhiTC1TM2VtWmxqZFM5cklEWTV6bGNwN0lod2lwaW5TWU9FN0hfaWFSZjN5R28?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2025-10-09T07:00:00Z",
-      "crawled_at": "2026-04-02T14:21:51.528171"
+      "published_at": "2026-03-22T07:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.465303"
     },
     {
       "title": "Semiconductor Giants Mask KOSPI Profit Decline",
       "url": "https://news.google.com/read/CBMijgFBVV95cUxPNEVEa1NuaUlvWDYzUmdwdXZ4SThfVFVFQ0M4NkZCMlJTZktNbzF6akdvbnAtam1XWDBuZjJ0YWx0QWtMM1B6RFFPdlhvUTFGc28tWDJtT3VYVmJWaEhkMTVlZHZtSzUzSHkxZUUwcE5JNi1WcC1DYkZZX0gteGQ2TklKaHNOUThPT1FYdnBn?hl=en-US&gl=US&ceid=US%3Aen",
       "source": "Google News",
       "published_at": "2026-04-02T04:22:48Z",
-      "crawled_at": "2026-04-02T14:21:51.528337"
+      "crawled_at": "2026-04-03T14:02:38.465486"
     },
     {
-      "title": "Optimizing Semiconductor Defect Classification with Generative AI and Vision Foundation Models | NVIDIA Technical Blog",
-      "url": "https://news.google.com/read/CBMiyAFBVV95cUxPTVg1dGV0REp6VFczZUN3QXpoZS15dFliODhWTmFxX0xscWw5MnZYN05wMDRMRnlfSUxubjVIbWVoVW1aTTRGaVQ1YnluaGJYZHhsS3l5X05IaGQ4ejlPWVF4dmdERzd6RWxLZnZtLWprX2pUQ0RlM1VNYlNCZUhQWFIzYXh1UHpaUENlRWNFNmNTZWNWdlF6Tkx5WVdQakJDdm9NOThxbmpHYzBvTlpSNXNDUXg3OHFhZW9ZUE5zZGlwUHU2OEpPbQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "title": "Small chips, big footprint: Why ICT needs to tackle semiconductors",
+      "url": "https://news.google.com/read/CBMiuwFBVV95cUxOYzVIS3FVOFRKQk8yd19SNTJiOTlLLS1VTS1RUTFzbFdSZEV4RGFhRlI2cWRDTk9yMXBobkF1NnFLdlZ0Uk9OMXJvQ0M3SnoyTEtyRGp4bDJROWRWMTBJMTJELXItTjJSMEp1RVk2RXItbDhEdXVLdGUyclQtVVp3aGFXa1BUUEJHOHNHY3NVYmstZnpyMFlxaFVVRlVvdGpyRms0aW5xb205OGVqY2dfMm5uYTh1djctRXJj?hl=en-US&gl=US&ceid=US%3Aen",
       "source": "Google News",
-      "published_at": "2025-12-16T08:00:00Z",
-      "crawled_at": "2026-04-02T14:21:51.528527"
+      "published_at": "2026-04-02T08:47:25Z",
+      "crawled_at": "2026-04-03T14:02:38.465653"
     },
     {
-      "title": "IBM, University of Dayton announce research collaboration for next-generation semiconductor technologies",
-      "url": "https://news.google.com/read/CBMimAFBVV95cUxNTEIxWmhXQlZic2Nvb0pDWWNlMHZVQVNiY3ZiMDR0ZklDOTZnTklpVlh0S2sxQ3lVbnN3RmVJTnVLaV9ybGdoOEVXbHZMVVdSTGlSZWdUVUphWTJENlJNSDYtcHVTMkNERXhTek9HYnRLOEhNbWtvUkVLaFhGSzZOcm90MlkyVE1iZ3VNZFJ3RWRUVnQzSGdKaQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "title": "Iran war triggers helium shortage, hits semiconductor supply",
+      "url": "https://news.google.com/read/CBMiqgFBVV95cUxOYjlkVkZZR2FoRFFjN3JiUklvZmxPYUZOUk5nNkRjeHZYcUJleXdVQUFkS3F2X2M3SEx1TG9ZNXIta1lQSmc3aVlkUzRuTW81QlZzcGlhOUJqUDZYWmE1ZGdma0VOZ1k4dXIwVG11WEstUktwcFJ1NEZzcjRZQUtrYVUzU1doYWlSaTFxb240Mi11MEk5ZG0ybW9LUEh2NVZFd3pPUm5MTFdCQdIBqgFBVV95cUxQX21lZ0MwUjVPU3NWRFNiQ0wxVkZIUzlHdHhtNWFiVDVvUmhWTlhyYkdvQXotd1BaLVpvaGc0c0h3bURmUm5iX2tieS16eVEwaXU3b1ExdjR5QU9WNy03dUdUMWM4ZDZLd1ZSdWpFQlU2Q3ZLai1EanhhbFZoUnpHQnhYS2pHVkowQ3lweDFPaXBPenJwSVhWQW0zRmJNdVJiU2xCdU9DVzBKUQ?hl=en-US&gl=US&ceid=US%3Aen",
       "source": "Google News",
-      "published_at": "2025-11-19T08:00:00Z",
-      "crawled_at": "2026-04-02T14:21:51.528692"
+      "published_at": "2026-03-18T07:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.465821"
     },
     {
-      "title": "Spinel-type sulfide semiconductors achieve room-temperature light emission across violet to orange spectrum",
-      "url": "https://news.google.com/read/CBMikAFBVV95cUxPd1pEVGJSN0tyMTdOZTh6VEhxYUJZRzlYQVBqWi16R1paMjk2dkJSUkZfRE9WRWdXeF9ocVJyRGNvOUZRRmVnbWFQQk9nMnRaNmU2ano3b2pfVk5YblRHMTRPZXp0NjFpSTRZWWRiTzRDREY5RjFDR2xuZUV1WVZOOHZnZ0lQRkxDY0VFWGdXUjI?hl=en-US&gl=US&ceid=US%3Aen",
+      "title": "Can Korea protect its memory semiconductor dominance?",
+      "url": "https://news.google.com/read/CBMiyAFBVV95cUxNejk0UlRoRHJ0RFRLUm42bGpXcU1SUzZ3UktjX3hkMkNnODBobzhGcEM4Q0RXdk9XN0NqMy1vTkpjVkxzbHp5TjBTbjJrM2d4NjhNOXNvSjVnRjMzd3o4WVRZNGNENFprLVVUeWtSaTNiZndZY2FZZ3ozekRzWEsxQ1hsTXBRVDBOblQ4VEo4aE9UcHZQNUxlU0RZTExZSk1CU3VwbzZIMlBROGVGeWZKbzdoZ2RFczh4SDFLX3B6VWFRZWZXQXBmag?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Korea JoongAng DailyMore",
+      "published_at": "2026-04-02T15:01:00Z",
+      "crawled_at": "2026-04-03T14:02:38.465960"
+    },
+    {
+      "title": "Nvidia invests in semiconductor company Marvell",
+      "url": "https://news.google.com/read/CBMijAFBVV95cUxQd2NoZ3lLN19rMnV4Rnc5Tjc4Uy1jMVdjbHBWalRYZDBEeUVvODBNNWlobE1PSjhoOXZBOGpxcndOWFNMbm5kVlc0d1F5Ykd5aDlTZ0dFTXZEOXVlQTh2ajdxV091S3ZIZ2ZiMTJHVGdodWJDLVFyTU9DVW4xbndYQUxNZDlFb1haelhSbw?hl=en-US&gl=US&ceid=US%3Aen",
       "source": "Google News",
-      "published_at": "2025-10-03T07:00:00Z",
-      "crawled_at": "2026-04-02T14:21:51.528854"
+      "published_at": "2026-04-02T10:54:59Z",
+      "crawled_at": "2026-04-03T14:02:38.466125"
+    },
+    {
+      "title": "Here's What to Expect From NXP Semiconductors' Next Earnings Report",
+      "url": "https://news.google.com/read/CBMi0AFBVV95cUxPME94aHBrLWUzazJITm16UVhEVGRtQW5FS0EyYkVKUmEtWnE1ZVhrd2pCOGo2Q3dlbWU3NjdLNjJfN1hGbWRGaVJGNEp3TmVVZV9YSU40X2ZOWmpCMWxEbjA5RlY0Wm95blc3VTdOVnJzZkxCZ3BicWZXR1VDRnhPWlR5RWdUeXFqdExGZlNqQVVDMHpFaktSMHRMZ0JKd2NFMXl0N1ZJaTMtNHBrVGZNY1VFT2U3RXJ2WlctOVo0TkRYamZYV1FCN3JMbnhodWRq?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "FinancialContentMore",
+      "published_at": "2026-04-02T15:31:00Z",
+      "crawled_at": "2026-04-03T14:02:38.466261"
+    },
+    {
+      "title": "Chips Act spurs semiconductor investments in Europe",
+      "url": "https://news.google.com/read/CBMinAFBVV95cUxQMTV0Y2pWUmYzNTFLa2JkMm5mVHVCb21VVzBtXzV3SUZ5ZnliNG8wNGxuRjZRTGFQR1RTdDJSNk1vbEFhVHlVbU0wSnpTREl1bTR1cEhya2JiWXZGVHBsblZBaFlMdUJXUmN2MXplal83NGRDRmtHYTJwUnJQeXVKelg0bHdFZ1NSYzY4VktISEd5Tzk5OVlFVnNiNzc?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Science|BusinessMore",
+      "published_at": "2026-03-24T04:43:22Z",
+      "crawled_at": "2026-04-03T14:02:38.466420"
+    },
+    {
+      "title": "U of A opens newly expanded semiconductor lab",
+      "url": "https://news.google.com/read/CBMiggFBVV95cUxNYTdyRi1ma05NNkZxMmt0SUpaT2NaVmN6THg4VzdFYnlaRUdJdWM3czRCM0xlUVpLU3lKN1pvV1RBMFc2RGxwUFBXeE9qN2J5MG9fdm1iNDY3Tjk3dWJUaFJLd1RyalBDRE12ZzlrUlRaZ1VFQ1JfSExwMUVzR1lhS0Rn?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2026-02-18T08:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.466598"
+    },
+    {
+      "title": "The Burn and the Choke: Why Semiconductor Controls Will Outlast China's Rare Earth Weapon",
+      "url": "https://news.google.com/read/CBMivwFBVV95cUxOT25ialdCb3pXdDBFZjZ5R0FxRnBzTWd5c2dGTHgzSHk5d19VZFE4V1NDdGlITmNlSncwZEItSUxMdFJNLS1yMGFuaEkwejZXWVRiV3lKVm9yTEhZc0l5Wm4zaEtzUXltc0lpdy03NTRMcHpyX1VhNGx5YUNSRklpdEMxRHRDaGxHR3ZkVG1LVkV1Z3MyUkQyQk5mbktCTzdQV0dBSjFHaVJnbUNsNDloWGdTSENUc3pOR184VVpZZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2026-01-05T08:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.466764"
+    },
+    {
+      "title": "In-Depth Analysis: Micron Technology Versus Competitors In Semiconductors & Semiconductor Equipment I",
+      "url": "https://news.google.com/read/CBMi6AFBVV95cUxQaVd6cFhMNTFPZFJ4SVg1YzZLd3BWakZ0TnBKbThFYzQ5TGtMSkozUzAyZlI0b1Q3N0VVbVRpbHlZSkh1d2RYbzF4Y1FIaUkxM2ZDbFpDT3kzZVhacWZvQXp3dlFnTXJBVzFoazZtT0tFaE1RWVIzb3RmeE5iY1MtaHg4RVBvM24yZnBRSm9EUF82aW01dmdWR1BXQVVMOEdHNVRJUlMwbmNJZ2ZVbzNuTUdrVHRwMHZNTUlLS240bEJuN2Y1RHdna2ZWc2NMbjN0ZXNwLUxkaHE0VVVUMUJFRVN1UnRqU0Mt?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2026-04-03T09:58:35Z",
+      "crawled_at": "2026-04-03T14:02:38.466926"
+    },
+    {
+      "title": "Semiconductor Traceability and Provenance Workshop",
+      "url": "https://news.google.com/read/CBMijAFBVV95cUxQRU1vWFVBeUp3dnVWMktndDNyZUJZN1VpMHZ4R2MzMDk4NE1YcGlzSlpNbFBhZFl4OXc0UU5CNWhiQkpoRWNqZkNUZmQxYjhKRW9WS01hakpuazh3ODU5UlNUNjlxNG5IVzJTYkcyWFJzVmVSQ0tsdko4c3U1aFRmbl9VZmJQRXdZMXhBNg?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2025-11-25T08:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.467092"
+    },
+    {
+      "title": "Tower Semiconductor Jumps 5.74% Amid Robust Earnings and Highest Trading Volume",
+      "url": "https://news.google.com/read/CBMiXkFVX3lxTE9UUTFRUUgxNzBkY3A0MlFDdWJHYktyUjN1S01uN1hRZk1yeTY2bzR6ZUV3ZGdrRmkxdGpaczd6b0d0c1pLMXYzcXRCUk5iZDJSV05qaUNVS2k5NjZjMGfSAWNBVV95cUxOTVY2WGRGcG14U200OTN4MzExaWNaYV92VE5rNnUxekgzS210NFdjb244eVFIMDgxN1l5NC1iM2hfaWhwTFp0Tmg1OTRzeFY2MVpUb1pReV9UcDlXS0R4Y01adXc?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2026-04-02T07:43:00Z",
+      "crawled_at": "2026-04-03T14:02:38.467253"
+    },
+    {
+      "title": "Semiconductor Market Nears $1 Trillion Milestone",
+      "url": "https://news.google.com/read/CBMidEFVX3lxTE5ERUdVMXN1MDlRb1g0dmRzQ05UdjQtSVhiU3d0TkdseUlHcVV4aVR5bUR3RGZLUDk2Yk9xUjRCdDYyS25NZjQ3ek1lbUhQN0I4MzJqTS02aVpWSzk1bURBTmNUYnRaRFRnZVc5ZHJXeGpabFg1?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "BusinesskoreaMore",
+      "published_at": "2026-04-03T11:45:43Z",
+      "crawled_at": "2026-04-03T14:02:38.467415"
+    },
+    {
+      "title": "AI is a lab diamond's best friend for semiconductors",
+      "url": "https://news.google.com/read/CBMikwFBVV95cUxPenhSWHJJS2xhUFBnLVQyWWVIVWsxbWpBZ2ZUeFVUMFZBY1UyV18tTWhzNEJFZXItX2s1Rk9KVHdCVW80SjNELU11ZjVWZmpBR0dGWU5VQlpKSWlXNm40MUhYOWdkREREV0tPSGhzeDY1eGJMOUJQZXRCQ0lUbkpxYXpHazFKS0hxMjZIUXA5X29KNWs?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2026-02-20T08:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.467592"
+    },
+    {
+      "title": "Scientists Create New Type of Semiconductor that Holds Superconducting Promise",
+      "url": "https://news.google.com/read/CBMiywFBVV95cUxPUXg4SUdYOTRZTndVZUc2amtpN2tCUFNkdUl3a2lUMlBfRzRjZnplVE5ySG5mZThNNm9UYWs0aHo1X015bTZqOHZja3FCUWlOQVBPbjN6RDI1eDF1R2poRldrbnQ5NHRaNjh0WFgtV2ZaOXhtMjU2U2NUWXN1VEt5ZWhLMTR4TXd5WXQ0MndsUDdXUF9qU242bUFNNmNpZHpfUzk1dnJMYzk3dHhwRUR5dlJPNm4wUVNIMEpqcHhOUGhVNGxJbWVSNDh3TQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2025-10-30T07:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.467759"
+    },
+    {
+      "title": "Lapse of Key Digital Trade Measure Undermines Economic Growth, Innovation",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxQYm1oVjk0bGVuNEF6cjRsOTFGbkRWQ1llc1g2V3lVckx0WjVGMTBfd3ppcnp5YXAxU0Faa0hpaTdIVGRReHp0ZGYxTVpNWEJFN1JiX1o4MDdyd3pWOUFRSVBYSzJjVE5kT1ZWVWRVOGRDa1BNcTBGR1p6a0xMVEFXRkU3WldkTUFMSzRReV9nQXVPY19tUWt0Wk5ZU182YkJGYzhpTlRSMA?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2026-04-01T19:02:27Z",
+      "crawled_at": "2026-04-03T14:02:38.467933"
+    },
+    {
+      "title": "Award-winning memory chip expert leaves US for job at Chinese semiconductor firm",
+      "url": "https://news.google.com/read/CBMi3AFBVV95cUxQdGhucHNHYkhiMjlrbTJBTWZsNHZTc3d4amFsNmsyTUdnZ2Q3UWpWQ3NEVjJpX2tkUngwemx0Yk5zZXVEUk5HRHhfZlJ3UWI1R1YtVHd0dXppVDhXTU9uU0R5VU9DODBKRUcwMXlaUUhIR253RFA1VmliU2lHdU1kNUtBVENsSUZHU3VmVHcweE5UTFh6MGdmVU9xVWYxbVM5eDZjb3VEZzZuemVCLTJQWkd3RkVmT25lTmxwSDNIbTdEVVZGR3pUakdGVUdzUUVxdExaUWJnQWhIc1Zv0gHcAUFVX3lxTFBPZDVtbnl2REJ5Zm1TVEZPZWhhZ0VsdDlZTTB6YV9oRG1fdkt3MFBueGI0QlhXM20yc0Z6ZkNNdmtGVExiUDBJeEpGWVVqS0dUV21jYV9SQ3N2VXJPSTdsZFVXcWxiVlcxcTk0c1NodmR2OHFQM0lMcjdVcXFtY3lZQmZITVlSMTc4Qkh0cXJ4RlFpTHhVZk5uekF0X3ZnSnFNTVMwWXRhWFJuQXl6U3R2RWhUMUZMZUJQajdYdVFCTU5oTV9Ob3dFN0stNFBzWkZfTDZBYW1Ha1VRWFA?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "South China Morning PostMore",
+      "published_at": "2026-03-11T07:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.468073"
+    },
+    {
+      "title": "NXP Semiconductors streamlines mission critical business processes with Microsoft Power Platform",
+      "url": "https://news.google.com/read/CBMihwFBVV95cUxNSTlkbU9lbFBrLURHbFJFeWZTV2FER2llUWc1MF9hRHFzNkhINUVYYUQycV9JLWd6Z3V5WE1VNmRzOEp4MlhCZmNOd1pnNU0zWWpkOHZtZjdyQVhiTC1TM2VtWmxqZFM5cklEWTV6bGNwN0lod2lwaW5TWU9FN0hfaWFSZjN5R28?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2025-10-09T07:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.468244"
+    },
+    {
+      "title": "Exclusive: China's No. 2 chipmaker readies 7 nm production as Beijing ramps up self-sufficiency drive",
+      "url": "https://news.google.com/read/CBMizAFBVV95cUxOMnZWb0k0NE5VSEYtVjRYTC1CRHNXb1BZdVB5REI1b3dWU2FaSnFsdU0tNnFyek94b2F1NFNwck9ZS2QxM2JlbFppR3ZHcldMQjBGaFJyb0djSHBKcVBTQjZ2LVRLT1lwa2tIamgxbTYxLTQ0TGJuc3JvLUVmdW50TF9XY2NKVmVDVVYtQWxDQ2tqQmNiZF91VVFodjRzNkNpU0VkZlRGSExRQkNQWldMckxqYXVqSkl5ZmhLai1nWlp5NFNYdzFCVzVOcXE?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "ReutersMore",
+      "published_at": "2026-03-16T07:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.468409"
+    },
+    {
+      "title": "The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored",
+      "url": "https://news.google.com/read/CBMikwFBVV95cUxOdjVSdTNvT2hxMUc4Nnp2eDZGT1c4VUxVU25yQ1ZwWTgtYVkzRjVEenZBNzlPdFNnYWdFSnRLMS11bUlleDE2RVJZNW9SdVVfbGpieWJWMFBUN19nWHl2LWxIXzk0Y1lXcXZCTXY1b2tnLUloeDduRHU2Z3NYM1Vyek1pM0RPZWlhTkdPcjFkRTY4Qjg?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "The New York TimesMore",
+      "published_at": "2026-02-24T08:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.468545"
+    },
+    {
+      "title": "Tech downturn as semiconductor stocks drag down market, financials show mixed signals",
+      "url": "https://news.google.com/read/CBMi1wFBVV95cUxQZWM2QU1nZ2owNENka0xRclRramtwWl9qNi1BLXAxWktwX1B2UXpzcEJoNWx4Qm9yaVFZRGV6amtpdXBOVnFld18tUkV2a2pvdHZGQkY0eFhtZkVCZUNhVjc1MFgxUWlydUZIOVVnTW5aOEtDQ0diczF1aTV6dThYdnB0ZHpNU3A3bThtSndkOEtrU3lkbG1NUWg0VXh0MXJMdjhLeHhBRExIQTA3ZzllZ2hhUTJXLXNWU0x1aFEySkxiSFl5Qko3aFNYMEthcmhqT2JjMXpLWdIB3AFBVV95cUxQcXA0Tm51Ty1FbHJFZ2RXdDVMbHBBNUVtQjd0RXZvamF1SkxpdGdZaWtPTVN0cWQ5d0dHejRlTDQwelY5VWRiOGI3dFF5WER3NTFISXNzRGdYaVhvS1NYNlVfY2dUOW1OQV9kTzVFa0pfZ1RSVTJlc3plc3lQNzVlMkdNSV9PcGIyVENCWXV4RXNlVmt3cUdZbkxRcFFTWTN4d2NlaVF5cm80UmJVbEVHa2hMWDlIRF9aWHhhc0x6US1mRlpzN05FS0djSy1RSlNTR0kyVVFDT19fYnJU?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2026-04-02T14:46:05Z",
+      "crawled_at": "2026-04-03T14:02:38.468713"
+    },
+    {
+      "title": "Building quantum computers with leading-edge semiconductor fab",
+      "url": "https://news.google.com/read/CBMiVEFVX3lxTE9qbDVLbS1WYnFrdzVqc3c0bTVuSTB4aGE1ekY5V3JPVUd4TVN0Q2JSZDQ3VVpOTzRaLXVhb2dNT290eVFBcUVBTllDRUdYbFUwczdPQg?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2025-11-12T08:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.468875"
+    },
+    {
+      "title": "Korea’s CubeSat Deploys to Test Space Semiconductors",
+      "url": "https://news.google.com/read/CBMidEFVX3lxTE12c0ttRVphUVg4M2lpYnN6NWZacXlQdlpvQTJBVjJSZ0NKYnhpRkI3NjRfZEQ0QXg3SWt1aks2c3NPXzZpM2pBQThUUEpxVVpLSENkQk5uc3ZydjNsRGppOENkOU5zX2d6ZkhpOXR1NElWcUN0?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "BusinesskoreaMore",
+      "published_at": "2026-04-03T13:11:02Z",
+      "crawled_at": "2026-04-03T14:02:38.469008"
     },
     {
       "title": "Global Semiconductor Sales Increase 21.7% Year-to-Year in August",
       "url": "https://news.google.com/read/CBMimwFBVV95cUxPZGJILXN1YjAxV0VGYUpjNVFqUC16QlhuR3JwMUdObDZxeEFDSzlVQjZaYU5fSmJQZXlnWFRrRTRONXR5M1d0Yl9mQ1dWeVUzWjRWQWIzS3k3RnB4ZXh3LWNqTEpJdkpjcUtMMDNpVklKOW84a2VmOVlseTNBQWMzbDU0d0JUeWNJNXh3aTNCNThEb1Vvc2s0V3ZtWQ?hl=en-US&gl=US&ceid=US%3Aen",
       "source": "Google News",
       "published_at": "2025-10-03T07:00:00Z",
-      "crawled_at": "2026-04-02T14:21:51.529014"
-    },
-    {
-      "title": "Up to $7.5M to fund semiconductor innovation at Penn State",
-      "url": "https://news.google.com/read/CBMijAFBVV95cUxOcEUxR29VRDVLaXdnSmY3RFFXa1JkSnZLRFIzX1VaTm9pd0JqREtqRU9vSEZBLXl0bF8zRmYzQ091M0ZDclRLOU5xOHRJMnZzaXNxWnBBSnFvamxoVkM1d2NlSHFnTGdEVlI4TlktTk5HZFBDS3R4d2hpdXk1bEtYd1Y3aHlkNTBsSjlmag?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2025-10-03T07:00:00Z",
-      "crawled_at": "2026-04-02T14:21:51.529175"
+      "crawled_at": "2026-04-03T14:02:38.469171"
     },
     {
       "title": "Semiconductors at the Core of Automotive Innovation: Volkswagen Group Highlights Procurement Strategy and Rivian Alliance at the IAA",
       "url": "https://news.google.com/read/CBMilwJBVV95cUxOaXRLSU0zcm5hWkJsX1liNDZ5V2ZBWVZoTUl2NFZiUTRHVHZwaGd4R2FyUDV6MHNfTGxBenM3MUl4ZVNPdDAzZ2pSNjhsYTI1cnFMMk1qZGdVQWhHdk1SbW5DbnNQQ0pscWVrTDM5LUZNb0NsaklEREYtR3lmVWlVUmR2a0tEMHFjR09WcEplUHAyU2p4VWFzNjJ4OVFLRGYzdktwUThOX2tEamE3T2dsLW1FbFNCaVJRTExqVElVeXJqXzJaa0FWTjY3WHpWWTZyQkczMGtvNFhOZk1qb3ZhODB6MEo3SVUteFRPeE1zUTBPRVY2SF9wTDlaX2l4OHlvdkc1YWJSQkJ3cE9BSVg0QlhwV3g3eWM?hl=en-US&gl=US&ceid=US%3Aen",
       "source": "Google News",
       "published_at": "2025-09-10T07:00:00Z",
-      "crawled_at": "2026-04-02T14:21:51.529338"
+      "crawled_at": "2026-04-03T14:02:38.469361"
     },
     {
-      "title": "U of I hands-on, industry-sponsored semiconductor training powers Idaho's future",
-      "url": "https://news.google.com/read/CBMijAFBVV95cUxQX1BETXY2YzdGU0RDQ2RYUlBQQnVCd3lzekVRenMtYmp5S2U1SngxUGQ2ZVRkcU9BaGtZRnZNdUd1Vlc1Z1IxZURDOUdPcW1TaFc4aHZXaUYtdGZiU3JtRENyU3ZPM2JOTXJYOXJMTHZhZHJNNGxka3pheDVrYTNTcVpreUdYam1zZnRGSQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "title": "Semiconductors: The tiny chips powering the global economy",
+      "url": "https://news.google.com/read/CBMixAFBVV95cUxQLVYwZlJudXk3Y1ZTUk1OYXd1NnIyTTBueTlqRUc3eG5wRkJwY3hwaHpKQlEwdWRGVHZzRzdVWE5hQlgxbW9mR1ZIZzFJZi1NdFZGUHhjN1luQ2c4VTFURFpRYVJoR2lPeXhuUXB1RUl4NUFWcUZFTHFJVVFWRURua2puc2NiYlNTS0ZPdWJneDlORER0d0RVRUNoQ0NYeERWRjd3S0dVbHVvZnRycDB5UEVoa0ZQdEo1bjlrRnVVbEcxckJF?hl=en-US&gl=US&ceid=US%3Aen",
       "source": "Google News",
-      "published_at": "2025-08-22T07:00:00Z",
-      "crawled_at": "2026-04-02T14:21:51.529523"
-    },
-    {
-      "title": "How Does Semiconductor Trade Work?",
-      "url": "https://news.google.com/read/CBMihgFBVV95cUxQUjZvb200bGpyMlM4alZDeHFIay11ZzJJUWdyc28xNjhMby13c2FkYlo3VE1ZQVBSbFV3OTBJWm9EWnBOa015TXRWck8zbHhSemdQbGlyVFRobmhUM21BOVhNc0lueFBCSnp3RHlfZEZTcTZKQVpGNTVSaFdqbFdWcGFqU2o1UQ?hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Google News",
-      "published_at": "2025-07-25T07:00:00Z",
-      "crawled_at": "2026-04-02T14:21:51.529687"
+      "published_at": "2025-12-24T08:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.469527"
     },
     {
       "title": "UC San Diego Awarded NSF Grant to Launch Semiconductor Workforce Development Pilot",
       "url": "https://news.google.com/read/CBMisAFBVV95cUxPTGdUY3gzV3RIYU5ZR1NEODVEaUMzVmpZaFh6N2pBZGdOUFBmSlY0NGh3UzViWDN5cEpZbmd5NjlaTXQ1cXd2N3ZLblJoQkJPY01oeTF6TkhobUZ1bVVZUWVDTFRVS0U1cGZzbThLVE1NaHpvSWtfZWVveHhKb0dBWTV5WmVaN2dKMmN6SnpiVFczbEtvdE5CQ3FYM241TUkyY0dKNjNpSUVkZll4VWRNRg?hl=en-US&gl=US&ceid=US%3Aen",
       "source": "UC San Diego TodayMore",
       "published_at": "2025-09-09T07:00:00Z",
-      "crawled_at": "2026-04-02T14:21:51.529822"
+      "crawled_at": "2026-04-03T14:02:38.469660"
+    },
+    {
+      "title": "Optimizing Semiconductor Defect Classification with Generative AI and Vision Foundation Models | NVIDIA Technical Blog",
+      "url": "https://news.google.com/read/CBMiyAFBVV95cUxPTVg1dGV0REp6VFczZUN3QXpoZS15dFliODhWTmFxX0xscWw5MnZYN05wMDRMRnlfSUxubjVIbWVoVW1aTTRGaVQ1YnluaGJYZHhsS3l5X05IaGQ4ejlPWVF4dmdERzd6RWxLZnZtLWprX2pUQ0RlM1VNYlNCZUhQWFIzYXh1UHpaUENlRWNFNmNTZWNWdlF6Tkx5WVdQakJDdm9NOThxbmpHYzBvTlpSNXNDUXg3OHFhZW9ZUE5zZGlwUHU2OEpPbQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2025-12-16T08:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.469830"
+    },
+    {
+      "title": "Growing Colorado's Semiconductor and Advanced Industry Ecosystems: Five New Market Study Grants Awarded Statewide",
+      "url": "https://news.google.com/read/CBMiwAFBVV95cUxNRTYwZ1MzNzJQTGQxbmFGaVRhbHJ0MnRtSzllUmRaZnBjM2hpVmpXeHVuanpGdW1Ya0Q4Y2o4Q1hVX1puZkJEN0VDTGRxQVFIb3l5YW1oSjlnMnlXSmxzTmZHSXp2TnVNSERVeFFfYmpGQlBob215a29mV2h1NDJaUjZlWGloZDk2Y24tSUNpT2lZa0ZlY1pTNC1nMDBKMVI3a1hIZ28xQ0RmeGVURUlaZzBURjd6bmxDNG9oY2hQcV8?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2025-07-22T07:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.469994"
+    },
+    {
+      "title": "LA Semiconductor's Pocatello plant up for sale through court-approved process",
+      "url": "https://news.google.com/read/CBMilwJBVV95cUxQeWNlZ0ZrQ20xQVhoTzhNZ09vUERTMy1NNXVyN0pEeElkVi1tTmJ6WGk5ZHdwM1JFMUtEdFJOTVhrd0JLQnJjN1RYaGg5ZmhXRGpRT1F4NVI5N2NQUWtOTWJfYkFzd2xydjFqUEh1X3VPTFJOMFI4MFB4bjh3MHlCS1JBSUJsQU5XdkpsckRZa2IwTWFkb1AyYWxsaWlldHJFSWhzYm5odEdiMTJVLS1tZk5pOTRvSDNjLV9MVkJDQ2Q4UFZ5QXl4RWlyNTFQSXRqMWF2Wm1EMUx4QlFFeVlMQ2k5cWJyeW9idDZpdHlwdjRkNEZEM3Q2ZFBvTVB2YUlFZXBaYzFWUkNoMWNZb0x0a0plbGRNN3fSAZwCQVVfeXFMUHBzSVZDdUpTVVBTZUo3cUxGaGh3U2JDZTI1SU1GR0JGS0RxSUNoZnhBOGgwUnU4eVJjemV2QkVXNGVIQ0dyTzJhWWRlSnVaeHhIR1I1dU1vOEtmcmh3QURlUFNlRWhhYXJCc0lYa3QwQklLRXRCY1AwU3BfTEdMZWRlT0hfazVpTlppcy1rRUZYbkc5QlZLOHAyN24zeXJpZ1A2M2dKeGlELVZLdjMxLWN5N1dvODA1aHE5b0U2VS03NTlqUDBIVTRueG52OENrSlRaclV4Z2w3UXBHUE9aQmhZQllUOHd5b1dndmNlT1Z0dElTYU85Zm1KaFdOUjVSOVRzZTlqdEJQaHA3WVBZZ25hYk5Qc1l0R1dhMTA?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Idaho State JournalMore",
+      "published_at": "2025-09-17T07:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.470130"
+    },
+    {
+      "title": "The signal from semiconductors",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxQeW1mYllSZjhoVWttUGVfWjVXekQxUTdRY2c5Rm1faXRnQmRoSl9xb3lxSEZqMkpKcklqaF91NEFTM2NhakltQUU2VVlvSHZKT0tEMTNIU3B3N3FVRjBYc1VrRHZPVURvZk9kNnFaSDZKZElvMk5pRzFra2xlRWZRV2c4TVk?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Financial TimesMore",
+      "published_at": "2025-08-19T07:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.470263"
+    },
+    {
+      "title": "IBM, University of Dayton announce research collaboration for next-generation semiconductor technologies",
+      "url": "https://news.google.com/read/CBMimAFBVV95cUxNTEIxWmhXQlZic2Nvb0pDWWNlMHZVQVNiY3ZiMDR0ZklDOTZnTklpVlh0S2sxQ3lVbnN3RmVJTnVLaV9ybGdoOEVXbHZMVVdSTGlSZWdUVUphWTJENlJNSDYtcHVTMkNERXhTek9HYnRLOEhNbWtvUkVLaFhGSzZOcm90MlkyVE1iZ3VNZFJ3RWRUVnQzSGdKaQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2025-11-19T08:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.470450"
+    },
+    {
+      "title": "One-third (32%) of projected US$1 trillion semiconductor supply could be at risk within a decade unless industry adapts to climate change",
+      "url": "https://news.google.com/read/CBMinwFBVV95cUxPeFZqTUtOSWNhTTdzWnVYNW5pc0Ixc290My1FWTdKMVA5cVFNWW52SVBWZzJ0d093Z19ucHRvbmVwNHpud19ORDcxaHBfLThiSVpGeEdxUmNjaVNwazVzY0dxR095R0M2TFdVaExZSUw0dzNkSTh6WWZndW9ncGlHQ1paZDgtbUZUbjB4Y3JkVk1SOTZ4eFlkdFNjVzR6ZmM?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2025-07-08T07:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.470644"
+    },
+    {
+      "title": "Spotlight on Japan: Legal Trends in the Semiconductor Industry in the Japanese and U.S. Markets",
+      "url": "https://news.google.com/read/CBMi7gFBVV95cUxPOW4za2ZoTnhZeEduY3hiODB6VTFLNWo2YzNaR09Lbkk0cTBxck8wZ2xOTUxWbE4tUDNodDdteXEtclowcmpPSTdla1RRNDUwVW5pSzVDSE5sQ1k3bHBfaHdOUHBmU3ZERWYzX0Y1TldqZDZZeXZFNkwzRG5CTXBjQmV4WFY5SFhxTHN3cml6MW04MEVrUXB1TU9iRTBXbFp4a0d6QjlZeXJ2NVlBSDhWaF9NdFJKZkpQNHhpeGotcXN5QUc3UUk5b1VRV3pZZmtuNldzOE9reHdTMVdSV204NXNXSzcycmM3Y282Q1FB?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2025-07-08T07:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.470808"
+    },
+    {
+      "title": "What are semiconductors and why is Trump planning 100% tariffs?",
+      "url": "https://news.google.com/read/CBMiWkFVX3lxTE93blhJUmJ1aG1FRmFWcmJlRmtpM2xNX3BmbmRtRGZsUjBQTmd2Y2g1YVoxaFNMTHJqLXo2WWczODJGcmpMU3MzQXNhX2VlQzFoa2MyczlTOU1Ydw?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2025-08-07T07:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.470974"
+    },
+    {
+      "title": "$20M Semiconductor Research Facility Coming to Stony Brook",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxOUXNPZGZVb2VhVGdvWkFJV1c4elh2SXY1LTcxN21zSVduMVVwLTZLck9CbnFJdXN2NmdPMm9Fc1lSOHJzZGtueDMtMDZhSG1FbjJaODVVX3h1UlVCbksxY2lPOHQ2dXZLcmVhQTBGYjN6cnY4RlU4dTduMlUwOWRwMFp1M21mYk5WN2pIVHUxdTJpS0dBaHFIYm8yMkJFdGd2MU9LRGpWWTNuNnRUZHc3VVdHMUlIVW1Ha2tTQmNhNDF5TkU?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "SBU NewsMore",
+      "published_at": "2025-07-17T07:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.471105"
+    },
+    {
+      "title": "Frontiers in Nitride Semiconductors Research",
+      "url": "https://news.google.com/read/CBMiswFBVV95cUxNNnV4MUs4UTZLdmRoaGxIYV8zRFQ4TkMxa01mR2YtdFBBWUU2QndadGI3YXF1bTJGYkhVWUFrLUx2Y3NYcEhjUEJnR1lERVlzbzdGZDRNWUppc1R0eXlFTWNtQTZZNkNkZ1M2RkpaNUJOdDJnLTR6REJUaUpMdU5RNVNPY2YxbmtsMHBTb2RpWll3NE0yMmZaTDlydGVNUGYxREg0SVVBc2lMUHMxcXI1LVVqWQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2026-02-28T08:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.471269"
+    },
+    {
+      "title": "Closing in on superconducting semiconductors",
+      "url": "https://news.google.com/read/CBMieEFVX3lxTE1odllnMVlmUDdCeWIzekZ3UGphbVRoZUozRl9rYkppcUpDR1VJNWRpVVVJOG9FbHRIXzRZdVdEZUpLWHJqZVZqcWlCT1ZsUFRYRkhOdUJMNUthNTFmS0JUb2xyX0FYRUNLWVYxdFVXRUpjN3hxUzl0Rg?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "MIT NewsMore",
+      "published_at": "2025-06-17T07:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.471429"
+    },
+    {
+      "title": "Shortage of semiconductor workers could impact climate firms",
+      "url": "https://news.google.com/read/CBMijgFBVV95cUxOMUliUlN5dEF2RmlPbjVKelR2eV9HejI4TDNBT0JMcnNCU0ZHSWhpb1NUVTZJRGNmQnZ3Mkg5Z2tCQTRZc19KZ2RmNlJocVB5bHZrSW02cVFlOEtueFlHbVl3LW0zdTZUNWRoNzVHcUtyM1kyQ0V2LU5HVUYzcjdQTmtXQS1IMEt6dXdNUjhB?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Harvard Business SchoolMore",
+      "published_at": "2026-02-24T08:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.471562"
+    },
+    {
+      "title": "Reprogramming the future: The specialized semiconductors reshaping the global supply chain",
+      "url": "https://news.google.com/read/CBMi8gFBVV95cUxPYU1lbEl4VF9EOG01QXk2eFpsSHNGdXRYYlBBWVppTWdUVUlvX3BsM3B5d0J3a2lUVktVTW9TSWFEbW56bnBweFRQOVdYempOVFVmVVp1cjNSQ3NTMG5MYXJzSC1JdmxwcHJKTGI0MUx4eFg4TjVpd3JveWh3NURHYm40ZjVINS1Ja0FxVVZmZTVHNFRtV0JTZzRNOXVFdGRrYzU2NHJOb19iVW1nUlJCU0NRaUNlZjNxU1d2b0NidzFWeVluN0x4RTNuaTViM2ZJMTU2NFhVcGdMUlowQ0Z5QVFYSnNjekthV3l0YW96M3lwQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2025-06-11T07:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.471723"
+    },
+    {
+      "title": "Cornell showcases semiconductor leadership at 2025 SUPREME annual review | Cornell Chronicle",
+      "url": "https://news.google.com/read/CBMirwFBVV95cUxPU1dveUkzY2NEdW9BOXpoQ0VMdnVOcjBMcjZZTU40aUJQUHp6eGxsaVkyZ2t2SHFXUU9lT3JTQXNQQy1vMFVHQURzdGtGSTA4Tk8yaXdya2ZOQzhrYnZFX1pTWW41RGpSTVlscDNtM1pTRHdUWTZINlA5cFVOUlFYNkN1ZVNPcGd4b3ZVVjV3T3JaV1U3VmVDYzlZcGpkcE5tWTFIQlg2Vjh2NVR2RmQ0?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2025-08-27T07:00:00Z",
+      "crawled_at": "2026-04-03T14:02:38.471883"
+    },
+    {
+      "title": "Claude Code leak highlights blind spot in memory demand, 'more semiconductors needed'",
+      "url": "https://news.google.com/read/CBMixgFBVV95cUxPX1hYN1ZqREJ4NENFVzFMbWxmX3I2OVI2MGhnVjBBamxSYllJMDg4aWZXRWJ6aW83WFV0LUhXOW9qOWZPY2ZnWGZaLTJaLUNHNkxoV0JUSTkzS3BfOFJGWGNKblB2bW1LdzdnYTRLQWY4d3FadFNpUF9vQ1hERThCaTR5cXpXMU9Dd2JucmV1dTZDaE9PaXpLZXZRNWNDRHd6cFluQk02RUxyb3RPVjdBZEhSd0NZaE5LVjRVU3B5eTRTMC1FUnc?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Google News",
+      "published_at": "2026-04-02T22:30:00Z",
+      "crawled_at": "2026-04-03T14:02:38.472048"
     }
   ]
 }
