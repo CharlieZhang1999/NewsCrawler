@@ -1,314 +1,328 @@
 {
-  "last_updated": "2026-06-24T15:33:04.015005",
-  "total_articles": 44,
-  "articles_today": 44,
+  "last_updated": "2026-06-25T15:39:16.258591",
+  "total_articles": 46,
+  "articles_today": 46,
   "articles": [
+    {
+      "title": "We're witnessing a structural shift in the memory industry, says BofA's Vivek Arya",
+      "url": "https://www.cnbc.com/video/2026/06/25/were-witnessing-a-structural-shift-in-the-memory-industry-says-bofas-vivek-arya.html",
+      "source": "CNBC",
+      "crawled_at": "2026-06-25T15:39:15.170100",
+      "published_time": "2 hours ago"
+    },
+    {
+      "title": "Micron is up 10% after blockbuster earnings, but has pulled back from highs",
+      "url": "https://www.cnbc.com/2026/06/25/micron-stock-3q-earnings-memory.html",
+      "source": "CNBC",
+      "crawled_at": "2026-06-25T15:39:15.170291",
+      "published_time": "an hour ago"
+    },
+    {
+      "title": "AI capex under-investment is a bigger risk than saturation: Dan Newman",
+      "url": "https://www.cnbc.com/video/2026/06/25/daniel-newman.html",
+      "source": "CNBC",
+      "crawled_at": "2026-06-25T15:39:15.170478",
+      "published_time": "Thu, Jun 25th 2026"
+    },
+    {
+      "title": "SK Hynix surges 12% after Micron earnings; blockbuster Nasdaq listing",
+      "url": "https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html",
+      "source": "CNBC",
+      "crawled_at": "2026-06-25T15:39:15.170589",
+      "published_time": "Thu, Jun 25th 2026"
+    },
+    {
+      "title": "Qualcomm CEO: We're very confident in the forecast we are providing",
+      "url": "https://www.cnbc.com/video/2026/06/24/qualcomm-ceo-were-very-confident-in-the-forecast-we-are-providing.html",
+      "source": "CNBC",
+      "crawled_at": "2026-06-25T15:39:15.170693",
+      "published_time": "Wed, Jun 24th 2026"
+    },
+    {
+      "title": "Broadcom stock needs a win. The new OpenAI co-designed Jalapeno chip might do the trick",
+      "url": "https://www.cnbc.com/2026/06/24/broadcom-stock-needs-a-win-the-new-openai-co-designed-jalapeno-chip-might-do-the-trick.html",
+      "source": "CNBC",
+      "crawled_at": "2026-06-25T15:39:15.170829",
+      "published_time": "Wed, Jun 24th 2026"
+    },
+    {
+      "title": "Cerebras CEO Feldman says margin forecast was 'misunderstood' as stock plummets after earnings",
+      "url": "https://www.cnbc.com/video/2026/06/24/cerebras-ceo-andrew-feldman-gross-margin-story-is-misunderstood.html",
+      "source": "CNBC",
+      "crawled_at": "2026-06-25T15:39:15.170950",
+      "published_time": "Wed, Jun 24th 2026"
+    },
     {
       "title": "OpenAI President Greg Brockman on new chip: This is a real performance improvement",
       "url": "https://www.cnbc.com/video/2026/06/24/openai-president-greg-brockman-on-new-chip-this-is-a-real-performance-improvement.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.551740",
-      "published_time": "29 min ago"
+      "crawled_at": "2026-06-25T15:39:15.171057",
+      "published_time": "Wed, Jun 24th 2026"
     },
     {
       "title": "Early Cerebras investor Steve Vassallo on first earnings report since IPO",
       "url": "https://www.cnbc.com/video/2026/06/24/early-cerebras-investor-steve-vassallo-on-first-earnings-report-since-ipo.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.551896",
-      "published_time": "an hour ago"
+      "crawled_at": "2026-06-25T15:39:15.171163",
+      "published_time": "Wed, Jun 24th 2026"
     },
     {
       "title": "Supply for memory is going to be even tighter in 2027, says Cantor Fitzgerald's CJ Muse",
       "url": "https://www.cnbc.com/video/2026/06/24/supply-for-memory-is-going-to-be-even-tighter-in-2027-says-cantor-fitzgeralds-cj-muse.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.552021",
-      "published_time": "2 hours ago"
+      "crawled_at": "2026-06-25T15:39:15.171264",
+      "published_time": "Wed, Jun 24th 2026"
     },
     {
       "title": "OpenAI unveils its first chip as part of Broadcom deal called Jalapeño",
       "url": "https://www.cnbc.com/2026/06/24/openai-and-broadcom-reveal-jalapeno-first-ai-chip-in-partnership.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.552139",
-      "published_time": "40 min ago"
+      "crawled_at": "2026-06-25T15:39:15.171400",
+      "published_time": "Wed, Jun 24th 2026"
     },
     {
       "title": "Baird's Ross Mayfield on memory chip shortage: It's still a sellers market today",
       "url": "https://www.cnbc.com/video/2026/06/24/bairds-ross-mayfield-on-memory-chip-shortage-its-still-a-sellers-market-today.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.552258",
-      "published_time": "4 hours ago"
+      "crawled_at": "2026-06-25T15:39:15.171505",
+      "published_time": "Wed, Jun 24th 2026"
     },
     {
       "title": "South Korea’s biggest chipmaker SK Hynix plans $29 billion Nasdaq listing",
       "url": "https://www.cnbc.com/2026/06/24/sk-hynix-nasdaq-adr-listing-south-korea.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.552416",
-      "published_time": "33 min ago"
+      "crawled_at": "2026-06-25T15:39:15.171607",
+      "published_time": "Thu, Jun 25th 2026"
     },
     {
       "title": "U.S. big tech benefits from positive regulatory risk under Trump: CIO",
       "url": "https://www.cnbc.com/video/2026/06/24/us-big-tech-benefits-from-positive-regulatory-risk-under-trump-cio.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.552542",
+      "crawled_at": "2026-06-25T15:39:15.171714",
       "published_time": "Wed, Jun 24th 2026"
     },
     {
       "title": "The consensus view of fading the AI trade will be 'woefully wrong': Fund manager",
       "url": "https://www.cnbc.com/video/2026/06/24/focus-on-growth-and-profitability-amid-the-current-market-volatility.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.552625",
+      "crawled_at": "2026-06-25T15:39:15.171816",
       "published_time": "Wed, Jun 24th 2026"
     },
     {
       "title": "RBC's Calvasina says she's been watching profit taking in semiconductors as a market risk for a while",
       "url": "https://www.cnbc.com/video/2026/06/23/rbcs-calvasina-says-shes-been-watching-profit-taking-in-semis-as-a-market-risk-for-a-while.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.552705",
+      "crawled_at": "2026-06-25T15:39:15.171916",
       "published_time": "Tue, Jun 23rd 2026"
     },
     {
       "title": "'Fast Money' traders talks the pullback in semiconductor stocks",
       "url": "https://www.cnbc.com/video/2026/06/23/fast-money-traders-talks-the-pullback-in-semiconductor-stocks.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.552788",
+      "crawled_at": "2026-06-25T15:39:15.172015",
       "published_time": "Tue, Jun 23rd 2026"
     },
     {
       "title": "Cerebras falls 10% after chipmaker forecasts shrinking margin in debut earnings report",
       "url": "https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.552873",
+      "crawled_at": "2026-06-25T15:39:15.172120",
       "published_time": "Tue, Jun 23rd 2026"
     },
     {
       "title": "These 2 stocks are on our radar — here's what it will take for us to buy",
       "url": "https://www.cnbc.com/2026/06/23/these-2-stocks-are-on-our-radar-heres-what-it-will-take-to-buy-.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.552980",
+      "crawled_at": "2026-06-25T15:39:15.172251",
       "published_time": "Tue, Jun 23rd 2026"
     },
     {
       "title": "These 2 stocks could be big winners from the next generation of AI chips",
       "url": "https://www.cnbc.com/2026/06/22/these-2-stocks-could-be-big-winners-from-the-next-generation-of-ai-chips.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.553085",
+      "crawled_at": "2026-06-25T15:39:15.172405",
       "published_time": "Mon, Jun 22nd 2026"
     },
     {
       "title": "The hottest areas of the AI trade will be in the memory market, says Constellation's Ray Wang",
       "url": "https://www.cnbc.com/video/2026/06/22/the-hottest-areas-of-the-ai-trade-will-be-in-the-memory-market-says-constellations-ray-wang.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.553166",
+      "crawled_at": "2026-06-25T15:39:15.172509",
       "published_time": "Mon, Jun 22nd 2026"
     },
     {
       "title": "AI buildout gives tech investors new reasons to watch bond market",
       "url": "https://www.cnbc.com/2026/06/20/ai-buildout-giving-tech-investors-new-reasons-to-watch-bond-market.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.553245",
+      "crawled_at": "2026-06-25T15:39:15.172609",
       "published_time": "Sat, Jun 20th 2026"
     },
     {
       "title": "Qualcomm CEO Cristiano Amon on the new world of AI agents",
       "url": "https://www.cnbc.com/2026/06/19/tech-download-qualcomm-ai-agents-amon.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.553324",
+      "crawled_at": "2026-06-25T15:39:15.172709",
       "published_time": "Fri, Jun 19th 2026"
     },
     {
       "title": "Jim Cramer says next week's economic data will drive the markets",
       "url": "https://www.cnbc.com/2026/06/18/jim-cramer-economic-data-drive-markets.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.553426",
+      "crawled_at": "2026-06-25T15:39:15.172810",
       "published_time": "Thu, Jun 18th 2026"
     },
     {
       "title": "Fairlead's Katie Stockton talks the technical indicators around memory stocks",
       "url": "https://www.cnbc.com/video/2026/06/18/fairleads-katie-stockton-talks-the-technical-indicators-around-memory-stocks.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.553506",
+      "crawled_at": "2026-06-25T15:39:15.172912",
       "published_time": "Thu, Jun 18th 2026"
     },
     {
       "title": "Apple raising prices is a 'very positive indication' when it comes to chip demand: D.A. Davidson's Luria",
       "url": "https://www.cnbc.com/video/2026/06/18/apple-raising-prices-is-a-very-positive-indication-when-it-comes-to-chip-demand-da-davidsons-luria.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.553585",
+      "crawled_at": "2026-06-25T15:39:15.173015",
       "published_time": "Thu, Jun 18th 2026"
     },
     {
       "title": "Intel's stock levels mean investors believe its foundry business will succeed: Bernstein's Rasgon",
       "url": "https://www.cnbc.com/video/2026/06/18/intels-stock-levels-mean-investors-believe-its-foundry-business-will-succeed-bernsteins-rasgon.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.553662",
+      "crawled_at": "2026-06-25T15:39:15.173141",
       "published_time": "Thu, Jun 18th 2026"
     },
     {
       "title": "Question if Intel deserves AMD-level valuation, says Wedbush Securities' Matt Bryson",
       "url": "https://www.cnbc.com/video/2026/06/18/question-if-intel-deserves-amd-level-valuation-says-wedbush-securities-matt-bryson.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.553737",
+      "crawled_at": "2026-06-25T15:39:15.173241",
       "published_time": "Thu, Jun 18th 2026"
     },
     {
       "title": "Jim Cramer’s No. 1 stock pick just got another reason to rally",
       "url": "https://www.cnbc.com/2026/06/18/jim-cramers-no-1-stock-pick-just-got-another-reason-to-rally.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.553846",
+      "crawled_at": "2026-06-25T15:39:15.173391",
       "published_time": "Thu, Jun 18th 2026"
     },
     {
       "title": "Apple's planned price hikes show memory chips have more room to run, says Gene Munster",
       "url": "https://www.cnbc.com/video/2026/06/18/apples-planned-price-hikes-show-memory-chips-have-more-room-to-run-says-gene-munster.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.553924",
+      "crawled_at": "2026-06-25T15:39:15.173495",
       "published_time": "Thu, Jun 18th 2026"
     },
     {
       "title": "Intel gains 10% after Trump says firm will partner with Apple on U.S. chips",
       "url": "https://www.cnbc.com/2026/06/18/trump-intel-apple-chip-design-deal.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.554001",
+      "crawled_at": "2026-06-25T15:39:15.173594",
       "published_time": "Thu, Jun 18th 2026"
     },
     {
       "title": "Jim Cramer says this chipmaker is still a buy after soaring more than 200% this year",
       "url": "https://www.cnbc.com/2026/06/17/jim-cramer-intel.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.554081",
+      "crawled_at": "2026-06-25T15:39:15.173695",
       "published_time": "Thu, Jun 18th 2026"
     },
     {
       "title": "WSJ: Apple CEO Tim Cook says tech giant to raise prices due to memory chip prices",
       "url": "https://www.cnbc.com/video/2026/06/17/wsj-apple-ceo-tim-cook-says-tech-giant-to-raise-prices-due-to-memory-chip-prices.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.554160",
+      "crawled_at": "2026-06-25T15:39:15.173795",
       "published_time": "Wed, Jun 17th 2026"
     },
     {
       "title": "Our monthly update on all 35 portfolio stocks, including Cramer's favorite name",
       "url": "https://www.cnbc.com/2026/06/17/heres-our-monthly-update-on-all-35-portfolio-stocks-including-cramers-favorite-name-to-buy.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.554263",
+      "crawled_at": "2026-06-25T15:39:15.173930",
       "published_time": "Wed, Jun 17th 2026"
     },
     {
       "title": "Policy alignment is the key to investing in the Chinese markets: Gavekal Capital",
       "url": "https://www.cnbc.com/video/2026/06/17/policy-alignment-is-key-to-investing-in-the-chinese-markets-gavekal.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.554340",
+      "crawled_at": "2026-06-25T15:39:15.174031",
       "published_time": "Wed, Jun 17th 2026"
     },
     {
-      "title": "Intel begins production of most-advanced chip, inching closer to possible Apple deal",
-      "url": "https://www.cnbc.com/2026/06/16/intel-begins-production-of-18a-p-inches-closer-to-possible-apple-deal.html",
+      "title": "Micron earnings, the newest meme stock and more: Morning Squawk",
+      "url": "https://www.cnbc.com/2026/06/25/5-things-to-know-before-the-stock-market-opens.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.554429",
-      "published_time": "Tue, Jun 16th 2026"
+      "crawled_at": "2026-06-25T15:39:15.684025",
+      "published_time": "3 hours ago"
     },
     {
-      "title": "Wall Street's biggest memory stock bear on if the sector still has room to run",
-      "url": "https://www.cnbc.com/video/2026/06/16/wall-streets-biggest-memory-stock-bear-talks-if-the-sector-still-has-room-to-run.html",
+      "title": "Micron is tech's new margin king as memory crisis pushes company past Nvidia and Meta",
+      "url": "https://www.cnbc.com/2026/06/24/micron-is-techs-margin-king-memory-crisis-pushes-it-past-nvidia-meta.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.554508",
-      "published_time": "Tue, Jun 16th 2026"
+      "crawled_at": "2026-06-25T15:39:15.684903",
+      "published_time": "Wed, Jun 24th 2026"
     },
     {
-      "title": "Qualcomm CEO says AI agents will replace apps as company works on 40 new AI devices",
-      "url": "https://www.cnbc.com/2026/06/16/qualcomm-ceo-ai-devices-agents.html",
+      "title": "Micron stock jumps 15% as soaring prices from AI boom lead to quadrupling of revenue",
+      "url": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.554584",
-      "published_time": "Tue, Jun 16th 2026"
+      "crawled_at": "2026-06-25T15:39:15.685135",
+      "published_time": "Wed, Jun 24th 2026"
     },
     {
-      "title": "Nvidia plans to raise at least $20 billion in its first debt sale since start of AI boom",
-      "url": "https://www.cnbc.com/2026/06/15/nvidia-plans-to-raise-about-20-billion-first-debt-sale-in-ai-boom.html",
+      "title": "Qualcomm stock pops after chipmaker almost doubles guide for 2029 non-handset revenue",
+      "url": "https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.554659",
-      "published_time": "Mon, Jun 15th 2026"
+      "crawled_at": "2026-06-25T15:39:15.685247",
+      "published_time": "Wed, Jun 24th 2026"
     },
     {
-      "title": "Jim Cramer calls this chipmaker his No. 1 stock — and sees 63% upside ahead",
-      "url": "https://www.cnbc.com/2026/06/12/cramer-calls-this-chipmaker-his-no-1-stock-and-sees-63percent-upside-ahead.html",
+      "title": "Nvidia's Huang: Black market data centers made of smuggled parts a 'dead end'",
+      "url": "https://www.cnbc.com/2026/06/24/nvidia-huang-data-center-smuggled-chips.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.554760",
-      "published_time": "Fri, Jun 12th 2026"
-    },
-    {
-      "title": "Intel soars on double upgrade from BofA. What Jim Cramer says investors must do",
-      "url": "https://www.cnbc.com/2026/06/11/intel-soars-on-double-upgrade-from-bofa-heres-what-jim-cramer-says-investors-must-do.html",
-      "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.554862",
-      "published_time": "Thu, Jun 11th 2026"
-    },
-    {
-      "title": "Jim Cramer says investors have 'lost their appetite for danger' as defensive stocks take the lead",
-      "url": "https://www.cnbc.com/2026/06/10/jim-cramer-investors-lost-appetite-danger-defensive-stocks-take-lead.html",
-      "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.554938",
-      "published_time": "Wed, Jun 10th 2026"
+      "crawled_at": "2026-06-25T15:39:15.685644",
+      "published_time": "Wed, Jun 24th 2026"
     },
     {
       "title": "Qualcomm inks deal for AI startup Modular to bolster software stack",
       "url": "https://www.cnbc.com/2026/06/24/qualcomm-ai-chip-modular-software.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.738131",
-      "published_time": "37 min ago"
+      "crawled_at": "2026-06-25T15:39:15.686281",
+      "published_time": "Wed, Jun 24th 2026"
     },
     {
       "title": "The global chip rout, Cerebras earnings and more: Morning Squawk",
       "url": "https://www.cnbc.com/2026/06/24/5-things-to-know-before-the-stock-market-opens.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.738315",
-      "published_time": "3 hours ago"
-    },
-    {
-      "title": "AI memory startup focused on cutting token costs raises $98 million",
-      "url": "https://www.cnbc.com/2026/06/23/ai-memory-startup-focused-on-cutting-token-costs-raises-98-million.html",
-      "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.739417",
-      "published_time": "Tue, Jun 23rd 2026"
-    },
-    {
-      "title": "Big bonuses for South Korea's chip workers puts central bank on inflation alert",
-      "url": "https://www.cnbc.com/2026/06/20/south-korea-tech-samsung-sk-hynix-bonus-bank-of-korea.html",
-      "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.740680",
-      "published_time": "Sat, Jun 20th 2026"
-    },
-    {
-      "title": "Memory crisis hits such extremes that 'even Apple can't be safe'",
-      "url": "https://www.cnbc.com/2026/06/19/memory-crisis-hits-such-extremes-that-even-apple-cant-be-safe-.html",
-      "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:03.740769",
-      "published_time": "Fri, Jun 19th 2026"
+      "crawled_at": "2026-06-25T15:39:15.686486",
+      "published_time": "Wed, Jun 24th 2026"
     },
     {
       "title": "Jim Cramer says he can't sell Eli Lilly despite its massive run up. Here's why",
       "url": "https://www.cnbc.com/2026/06/08/jim-cramer-says-he-cant-sell-eli-lilly-despite-its-massive-run-up-heres-why.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:04.012441",
+      "crawled_at": "2026-06-25T15:39:16.255832",
       "published_time": "Mon, Jun 8th 2026"
     },
     {
       "title": "GLP-1 pioneers Novo and Lilly compete on pills, prepare to pitch seniors",
       "url": "https://www.cnbc.com/2026/06/08/novo-nordisk-eli-lilly-obesity-pills-medicare-coverage.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:04.012547",
+      "crawled_at": "2026-06-25T15:39:16.255959",
       "published_time": "Tue, Jun 9th 2026"
     },
     {
       "title": "Eli Lilly's top dealmaker says don't be surprised to see more M&A",
       "url": "https://www.cnbc.com/2026/06/03/eli-lilly-to-use-glp-1-windfall-to-fund-ma-and-diversify-pipeline.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:04.013247",
+      "crawled_at": "2026-06-25T15:39:16.256888",
       "published_time": "Wed, Jun 3rd 2026"
     },
     {
       "title": "CVS to restore coverage of Zepbound, add Eli Lilly's obesity pill to drug plans",
       "url": "https://www.cnbc.com/2026/05/28/cvs-covers-zepbound-adds-eli-lilly-foundayo.html",
       "source": "CNBC",
-      "crawled_at": "2026-06-24T15:33:04.013795",
+      "crawled_at": "2026-06-25T15:39:16.257572",
       "published_time": "Thu, May 28th 2026"
     }
   ]
