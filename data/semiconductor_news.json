@@ -1,280 +1,287 @@
 {
-  "last_updated": "2026-10-29T18:48:51.577639",
-  "total_articles": 39,
-  "articles_today": 39,
+  "last_updated": "2026-10-30T18:26:03.298958",
+  "total_articles": 40,
+  "articles_today": 40,
   "articles": [
+    {
+      "title": "The Tech Download: The big questions remaining after Anthropic’s blockbuster IPO prospectus",
+      "url": "https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html",
+      "source": "CNBC",
+      "crawled_at": "2026-10-30T18:26:02.911889",
+      "published_time": "6 hours ago"
+    },
+    {
+      "title": "Intel faces a 'multi-quarter' issue balancing PC weakness with AI data-center gains: Vivek Arya",
+      "url": "https://www.cnbc.com/video/2026/10/30/intel-faces-a-multi-quarter-issue-balancing-pc-weakness-with-ai-data-center-gains-vivek-arya.html",
+      "source": "CNBC",
+      "crawled_at": "2026-10-30T18:26:02.912274",
+      "published_time": "Fri, Oct 30th 2026"
+    },
+    {
+      "title": "Intel stock heads for worst day in more than 50 years, wiping $12 billion off government's stake",
+      "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+      "source": "CNBC",
+      "crawled_at": "2026-10-30T18:26:02.912403",
+      "published_time": "2 hours ago"
+    },
+    {
+      "title": "Indian AI firm seeks to raise $3 billion debt to buy Nvidia chips: report",
+      "url": "https://www.cnbc.com/2026/10/30/nvidia-india-ai-chips-computing.html",
+      "source": "CNBC",
+      "crawled_at": "2026-10-30T18:26:02.912510",
+      "published_time": "Fri, Oct 30th 2026"
+    },
+    {
+      "title": "AI remains a must-own trade, but single-stock bets are risky: CIO",
+      "url": "https://www.cnbc.com/video/2026/10/30/ai-remains-a-must-own-trade-but-single-stock-bets-are-risky-cio.html",
+      "source": "CNBC",
+      "crawled_at": "2026-10-30T18:26:02.912631",
+      "published_time": "Fri, Oct 30th 2026"
+    },
+    {
+      "title": "Jim Cramer says Wall Street is punishing the wrong tech stocks",
+      "url": "https://www.cnbc.com/2026/10/29/jim-cramer-earnings-guilt-by-association.html",
+      "source": "CNBC",
+      "crawled_at": "2026-10-30T18:26:02.912742",
+      "published_time": "Thu, Oct 29th 2026"
+    },
+    {
+      "title": "Bernstein's Stacy Rasgon: Intel's guide is 'extremely weak'",
+      "url": "https://www.cnbc.com/video/2026/10/29/bernsteins-stacy-rasgon-intels-guide-is-extremely-weak.html",
+      "source": "CNBC",
+      "crawled_at": "2026-10-30T18:26:02.912843",
+      "published_time": "Thu, Oct 29th 2026"
+    },
+    {
+      "title": "Intel earnings show the company is 'still PC dependent', says Benchmark's Cody Acree",
+      "url": "https://www.cnbc.com/video/2026/10/29/intel-earnings-show-the-company-is-still-pc-dependent-says-benchmarks-cody-acree.html",
+      "source": "CNBC",
+      "crawled_at": "2026-10-30T18:26:02.912943",
+      "published_time": "Thu, Oct 29th 2026"
+    },
+    {
+      "title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
+      "url": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
+      "source": "CNBC",
+      "crawled_at": "2026-10-30T18:26:02.913047",
+      "published_time": "Thu, Oct 29th 2026"
+    },
     {
       "title": "Samsung Electronics posts record third-quarter profit",
       "url": "https://www.cnbc.com/video/2026/10/29/samsung-electronics-posts-record-third-quarter-profit.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.064044",
+      "crawled_at": "2026-10-30T18:26:02.913151",
       "published_time": "Thu, Oct 29th 2026"
     },
     {
       "title": "Jim Cramer sees major implications from SK Hynix's home-run quarter",
       "url": "https://www.cnbc.com/2026/10/28/cramer-sk-hynix-ai-chip-stocks.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.064169",
+      "crawled_at": "2026-10-30T18:26:02.913277",
       "published_time": "Wed, Oct 28th 2026"
     },
     {
       "title": "Chip shortage and AI demand justify bullish view, says Wolfe's Chris Caso",
       "url": "https://www.cnbc.com/video/2026/10/28/chip-shortage-and-ai-demand-justify-bullish-view-says-wolfes-chris-caso.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.064315",
+      "crawled_at": "2026-10-30T18:26:02.913387",
       "published_time": "Wed, Oct 28th 2026"
     },
     {
       "title": "Google alters its cloud playbook, enlisting partners to sell more AI chips",
       "url": "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.064415",
+      "crawled_at": "2026-10-30T18:26:02.913483",
       "published_time": "Wed, Oct 28th 2026"
     },
     {
       "title": "SK Hynix posts record quarter, analyst says stock looks 'ridiculously cheap'",
       "url": "https://www.cnbc.com/video/2026/10/28/sk-hynix-posts-record-quarter-analyst-says-stock-ridiculously-cheap.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.064499",
+      "crawled_at": "2026-10-30T18:26:02.913581",
       "published_time": "Wed, Oct 28th 2026"
     },
     {
       "title": "Why MI Materials' CEO thinks the chip packaging market is a good place to be",
       "url": "https://www.cnbc.com/video/2026/10/28/why-mi-materials-ceo-thinks-chip-packaging-is-a-good-place-to-be.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.064597",
+      "crawled_at": "2026-10-30T18:26:02.913678",
       "published_time": "Wed, Oct 28th 2026"
     },
     {
       "title": "AI chip boom won't last forever as price competition intensifies: PM",
       "url": "https://www.cnbc.com/video/2026/10/28/ai-chip-boom-wont-last-forever-as-price-competition-intensifies-pm.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.064687",
+      "crawled_at": "2026-10-30T18:26:02.913772",
       "published_time": "Wed, Oct 28th 2026"
     },
     {
       "title": "SK Hynix's share price is undervalued, prefer U.S. ADRs over local listing",
       "url": "https://www.cnbc.com/video/2026/10/28/sk-hynixs-share-price-is-undervalued-prefer-u-s-adrs-over-local-listing-analyst.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.064778",
+      "crawled_at": "2026-10-30T18:26:02.913867",
       "published_time": "Tue, Oct 27th 2026"
     },
     {
       "title": "NXP Semiconductors shares slide despite beating on revenue and earnings",
       "url": "https://www.cnbc.com/video/2026/10/27/nxp-semiconductors-shares-slide-despite-beating-on-revenue-and-earnings.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.064864",
+      "crawled_at": "2026-10-30T18:26:02.913961",
       "published_time": "Tue, Oct 27th 2026"
     },
     {
       "title": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
       "url": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.064953",
+      "crawled_at": "2026-10-30T18:26:02.914065",
       "published_time": "Tue, Oct 27th 2026"
     },
     {
       "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
       "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.065040",
+      "crawled_at": "2026-10-30T18:26:02.914160",
       "published_time": "Mon, Oct 26th 2026"
     },
     {
       "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
       "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.065128",
+      "crawled_at": "2026-10-30T18:26:02.914282",
       "published_time": "Sat, Oct 24th 2026"
     },
     {
       "title": "Turmoil hits AI buildout as neoclouds face pressure and credit risks mount",
       "url": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.065218",
+      "crawled_at": "2026-10-30T18:26:02.914390",
       "published_time": "Sat, Oct 24th 2026"
     },
     {
       "title": "What we want to see when this data center stock reports earnings next week",
       "url": "https://www.cnbc.com/investingclub/2026/10/23/what-we-want-to-see-when-this-data-center-stock-reports-earnings-next-week.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.065344",
+      "crawled_at": "2026-10-30T18:26:02.914512",
       "published_time": "Fri, Oct 23rd 2026"
     },
     {
       "title": "Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud distress",
       "url": "https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.065433",
+      "crawled_at": "2026-10-30T18:26:02.914618",
       "published_time": "Fri, Oct 23rd 2026"
     },
     {
       "title": "Western Digital beats on revenue and earnings, raises dividend 17%",
       "url": "https://www.cnbc.com/video/2026/10/22/western-digital-beats-on-revenue-and-earnings-raises-dividend-17percent.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.065518",
+      "crawled_at": "2026-10-30T18:26:02.914716",
       "published_time": "Thu, Oct 22nd 2026"
     },
     {
       "title": "Jensen Huang sees no sign of 2029 memory glut: 'You can always use more'",
       "url": "https://www.cnbc.com/2026/10/22/jensen-huang-nvidia-memory-selloff-shortage.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.065606",
+      "crawled_at": "2026-10-30T18:26:02.914812",
       "published_time": "Thu, Oct 22nd 2026"
     },
     {
       "title": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts'",
       "url": "https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.065693",
+      "crawled_at": "2026-10-30T18:26:02.914907",
       "published_time": "Thu, Oct 22nd 2026"
     },
     {
       "title": "A good company is not always a good investment: VMS Group",
       "url": "https://www.cnbc.com/video/2026/10/22/a-good-company-is-not-always-a-good-investment-vms-group-founder.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.065782",
+      "crawled_at": "2026-10-30T18:26:02.915002",
       "published_time": "Thu, Oct 29th 2026"
     },
     {
       "title": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
       "url": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.065861",
+      "crawled_at": "2026-10-30T18:26:02.915087",
       "published_time": "Fri, Oct 23rd 2026"
     },
     {
       "title": "IBM shares pop in extended trading on Q3 beat",
       "url": "https://www.cnbc.com/video/2026/10/21/ibm-shares-pop-in-extended-trading-on-q3-beat.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.065947",
+      "crawled_at": "2026-10-30T18:26:02.915183",
       "published_time": "Wed, Oct 21st 2026"
     },
     {
       "title": "Intel hits construction milestone at delayed Ohio chip fab",
       "url": "https://www.cnbc.com/2026/10/21/intel-hits-construction-milestone-at-delayed-ohio-chip-fab-.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.066033",
+      "crawled_at": "2026-10-30T18:26:02.915298",
       "published_time": "Wed, Oct 21st 2026"
     },
     {
       "title": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal",
       "url": "https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.066118",
+      "crawled_at": "2026-10-30T18:26:02.915397",
       "published_time": "Tue, Oct 20th 2026"
     },
     {
       "title": "Qualcomm to conduct performance-focused layoffs, internal memo shows: Reuters",
       "url": "https://www.cnbc.com/2026/10/20/qualcomm-performance-focused-layoffs-reuters.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.066204",
+      "crawled_at": "2026-10-30T18:26:02.915490",
       "published_time": "Tue, Oct 20th 2026"
     },
     {
       "title": "Cramer: Don't chase the AI rebound just yet. Here's what needs to happen first",
       "url": "https://www.cnbc.com/2026/10/19/jim-cramer-dont-chase-ai-rebound-yet.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.066291",
+      "crawled_at": "2026-10-30T18:26:02.915585",
       "published_time": "Mon, Oct 19th 2026"
     },
     {
-      "title": "Jim Cramer says the recent AI sell-off echoes a lesson from the 1987 market crash",
-      "url": "https://www.cnbc.com/2026/10/19/cramer-recent-ai-sell-off-echoes-lesson-1987-crash.html",
+      "title": "Trump tech allies Musk, Zuckerberg swap 'AI' for 'super intelligence' on earnings calls",
+      "url": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.066391",
-      "published_time": "Mon, Oct 19th 2026"
-    },
-    {
-      "title": "I want to own Micron, Nvidia, Broadcom at these prices: Trivariate's Parker",
-      "url": "https://www.cnbc.com/video/2026/10/19/i-want-to-own-micron-nvidia-broadcom-at-these-prices-trivariates-parker.html",
-      "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.066479",
-      "published_time": "Mon, Oct 19th 2026"
-    },
-    {
-      "title": "Jim Cramer says the rebound in AI chip stocks may have more room to run",
-      "url": "https://www.cnbc.com/investingclub/2026/10/19/jim-cramer-says-the-rebound-in-ai-chip-stocks-may-have-more-room-to-run.html",
-      "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.066591",
-      "published_time": "Mon, Oct 19th 2026"
-    },
-    {
-      "title": "Market is 'massively overreacting' to AI peak earnings concerns",
-      "url": "https://www.cnbc.com/video/2026/10/19/market-is-massively-overreacting-to-ai-peak-earnings-concerns.html",
-      "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.066682",
-      "published_time": "Mon, Oct 19th 2026"
-    },
-    {
-      "title": "South Korea minister sees chip boom lasting through 2027",
-      "url": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
-      "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.066768",
-      "published_time": "Sun, Oct 18th 2026"
-    },
-    {
-      "title": "AI stocks plunge. Inflation heats up. Where we're still finding opportunities",
-      "url": "https://www.cnbc.com/investingclub/2026/10/17/ai-stocks-plunge-inflation-heats-up-where-were-still-finding-opportunities.html",
-      "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.066879",
-      "published_time": "Sat, Oct 17th 2026"
-    },
-    {
-      "title": "Nvidia's Jensen Huang came to London with big checks — and a blunt message",
-      "url": "https://www.cnbc.com/2026/10/16/nvidia-jensen-huang-london.html",
-      "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.066967",
-      "published_time": "Fri, Oct 16th 2026"
-    },
-    {
-      "title": "Here's our monthly update on our 32 stocks, including 2 more names to buy",
-      "url": "https://www.cnbc.com/investingclub/2026/10/15/heres-our-monthly-update-on-our-32-stocks-including-2-more-names-to-buy.html",
-      "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.067077",
-      "published_time": "Mon, Oct 19th 2026"
+      "crawled_at": "2026-10-30T18:26:03.118833",
+      "published_time": "3 hours ago"
     },
     {
       "title": "Nvidia responds to report tying Jensen Huang to alleged Chinese spy",
       "url": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.268767",
-      "published_time": "2 hours ago"
+      "crawled_at": "2026-10-30T18:26:03.120652",
+      "published_time": "Thu, Oct 29th 2026"
     },
     {
       "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
       "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.269862",
+      "crawled_at": "2026-10-30T18:26:03.121551",
       "published_time": "Thu, Oct 29th 2026"
     },
     {
       "title": "Eli Lilly blows past estimates, hikes sales outlook on resilient GLP-1 demand",
       "url": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.574038",
-      "published_time": "2 hours ago"
+      "crawled_at": "2026-10-30T18:26:03.295095",
+      "published_time": "Thu, Oct 29th 2026"
     },
     {
       "title": "Cramer: Starbucks tells me Chipotle takeover won't happen and that's good for the stock",
       "url": "https://www.cnbc.com/investingclub/2026/10/12/cramer-starbucks-tells-me-chipotle-takeover-wont-happen-and-thats-good-for-the-stock.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.575453",
+      "crawled_at": "2026-10-30T18:26:03.296821",
       "published_time": "Mon, Oct 12th 2026"
     },
     {
       "title": "Jim Cramer week ahead: Bank earnings, ASML and TSMC",
       "url": "https://www.cnbc.com/2026/10/09/jim-cramer-week-ahead-bank-earnings-ai-chips.html",
       "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.575552",
+      "crawled_at": "2026-10-30T18:26:03.296932",
       "published_time": "Fri, Oct 9th 2026"
-    },
-    {
-      "title": "Why Lilly and Novo are betting on amylin to power new obesity drugs after GLP-1s",
-      "url": "https://www.cnbc.com/2026/10/02/lilly-novo-amylin-obesity-drugs.html",
-      "source": "CNBC",
-      "crawled_at": "2026-10-29T18:48:51.576573",
-      "published_time": "Fri, Oct 2nd 2026"
     }
   ]
 }
