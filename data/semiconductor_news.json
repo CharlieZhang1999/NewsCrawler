@@ -1,336 +1,287 @@
 {
-  "last_updated": "2026-11-19T21:12:42.918007",
-  "total_articles": 47,
-  "articles_today": 47,
+  "last_updated": "2026-11-20T20:56:43.658334",
+  "total_articles": 40,
+  "articles_today": 40,
   "articles": [
     {
-      "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+      "title": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says",
+      "url": "https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html",
+      "source": "CNBC",
+      "crawled_at": "2026-11-20T20:56:42.558368",
+      "published_time": "an hour ago"
+    },
+    {
+      "title": "Nvidia stock plunges 12%, rides longest weekly losing streak since 2008 financial crisis",
+      "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+      "source": "CNBC",
+      "crawled_at": "2026-11-20T20:56:42.558704",
+      "published_time": "an hour ago"
+    },
+    {
+      "title": "Trump says he still has confidence in Lutnick",
+      "url": "https://www.cnbc.com/2026/11/20/trump-lutnick-commerce-china-ai.html",
+      "source": "CNBC",
+      "crawled_at": "2026-11-20T20:56:42.558793",
+      "published_time": "5 min ago"
+    },
+    {
+      "title": "Rep. John Moolenaar: Nvidia, AMD chip sales to China need scrutiny",
+      "url": "https://www.cnbc.com/video/2026/11/20/rep-john-moolenaar-nvidia-amd-chip-sales-to-china-need-scrutiny.html",
+      "source": "CNBC",
+      "crawled_at": "2026-11-20T20:56:42.558869",
+      "published_time": "Fri, Nov 20th 2026"
+    },
+    {
+      "title": "Anthropic charmed Wall Street. But one big uncertainty hangs over the business",
+      "url": "https://www.cnbc.com/2026/11/20/tech-download-anthropic-compute-access.html",
+      "source": "CNBC",
+      "crawled_at": "2026-11-20T20:56:42.558976",
+      "published_time": "Fri, Nov 20th 2026"
+    },
+    {
+      "title": "Anthropic stock falls 12% in first full day of trading amid AI sell-off",
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
+      "source": "CNBC",
+      "crawled_at": "2026-11-20T20:56:42.559060",
+      "published_time": "2 hours ago"
+    },
+    {
+      "title": "MS’ Stephen Byrd: 'We won't be short equipment, we will be short compute'",
+      "url": "https://www.cnbc.com/video/2026/11/20/stephen-byrd-chunk-1.html",
+      "source": "CNBC",
+      "crawled_at": "2026-11-20T20:56:42.559136",
+      "published_time": "Thu, Nov 19th 2026"
+    },
+    {
+      "title": "Market risks remain despite show of unity at the China-U.S.-Russia summit",
+      "url": "https://www.cnbc.com/video/2026/11/20/market-risks-china-us-russia-trilateral-summit-nvidia-amd.html",
+      "source": "CNBC",
+      "crawled_at": "2026-11-20T20:56:42.559209",
+      "published_time": "Thu, Nov 19th 2026"
+    },
+    {
+      "title": "SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks",
+      "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+      "source": "CNBC",
+      "crawled_at": "2026-11-20T20:56:42.559285",
+      "published_time": "Fri, Nov 20th 2026"
+    },
+    {
+      "title": "Commerce approved sales of more than 879,000 AI chips to China, Rep. Mast says",
       "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.373459",
-      "published_time": "4 min ago"
+      "crawled_at": "2026-11-20T20:56:42.559358",
+      "published_time": "Thu, Nov 19th 2026"
     },
     {
       "title": "Jensen Huang's — and Nvidia's — legal exposure balloons",
       "url": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.373600",
-      "published_time": "2 hours ago"
+      "crawled_at": "2026-11-20T20:56:42.559431",
+      "published_time": "Thu, Nov 19th 2026"
     },
     {
       "title": "Brad Gerstner on Nvidia scandal: It's increasingly clear to me there may not be a violation of law",
       "url": "https://www.cnbc.com/video/2026/11/19/brad-gerstner-on-nvidia-scandal-its-increasingly-clear-to-me-there-may-not-be-a-violation-of-law.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.373712",
+      "crawled_at": "2026-11-20T20:56:42.559505",
       "published_time": "Thu, Nov 19th 2026"
     },
     {
       "title": "Huang's exit at Nvidia could hasten China shift to Huawei chips: The Asia Group",
       "url": "https://www.cnbc.com/video/2026/11/19/huangs-fall-shuts-us-chip-door-to-china-handing-huawei-the-market.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.373786",
+      "crawled_at": "2026-11-20T20:56:42.559579",
       "published_time": "Wed, Nov 18th 2026"
     },
     {
       "title": "Intel signs first external customer for advanced 18A chips",
       "url": "https://www.cnbc.com/2026/11/18/intel-first-18a-foundry-customer.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.373858",
+      "crawled_at": "2026-11-20T20:56:42.559653",
       "published_time": "Wed, Nov 18th 2026"
     },
     {
       "title": "Huang has agreed to appear before Senate banking committee, Chairman Scott says",
       "url": "https://www.cnbc.com/2026/11/18/jensen-huang-nvidia-tim-scott-congress.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.373937",
+      "crawled_at": "2026-11-20T20:56:42.559725",
       "published_time": "Wed, Nov 18th 2026"
     },
     {
       "title": "Nvidia's growth outlook survives Jensen Huang succession questions, says BofA's Vivek Arya",
       "url": "https://www.cnbc.com/video/2026/11/18/nvidias-growth-outlook-survives-jensen-huang-succession-questions-says-bofas-vivek-arya.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.374013",
+      "crawled_at": "2026-11-20T20:56:42.559798",
       "published_time": "Wed, Nov 18th 2026"
     },
     {
       "title": "China's military said to be seeking Nvidia's advanced chips for AI capabilities",
       "url": "https://www.cnbc.com/2026/11/18/nvidia-chips-china-military-ai.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.374087",
+      "crawled_at": "2026-11-20T20:56:42.559870",
       "published_time": "Wed, Nov 18th 2026"
     },
     {
       "title": "Cantor Fitzgerald's Nvidia business interests targeted in Dems' Lutnick probe",
       "url": "https://www.cnbc.com/2026/11/18/nvidia-lutnick-china-ai-megaspeed-cantor-fitzgerald.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.374200",
+      "crawled_at": "2026-11-20T20:56:42.559961",
       "published_time": "Wed, Nov 18th 2026"
     },
     {
       "title": "Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren",
       "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.374278",
+      "crawled_at": "2026-11-20T20:56:42.560050",
       "published_time": "Wed, Nov 18th 2026"
     },
     {
       "title": "Arm's Rene Haas leads Nvidia CEO race, but company ties could be a hurdle",
       "url": "https://www.cnbc.com/video/2026/11/18/arms-rene-haas-leads-nvidia-ceo-race-but-company-ties-could-be-hurdle.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.374353",
+      "crawled_at": "2026-11-20T20:56:42.560129",
       "published_time": "Tue, Nov 17th 2026"
     },
     {
       "title": "Nvidia takes step forward with stronger sales outlook. Our thoughts on the stock",
       "url": "https://www.cnbc.com/investingclub/2026/11/17/nvidia-takes-positive-step-forward-with-stronger-sales-outlook-heres-our-thoughts-on-the-stock.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.374451",
+      "crawled_at": "2026-11-20T20:56:42.560228",
       "published_time": "Tue, Nov 17th 2026"
     },
     {
       "title": "Watch Jim Cramer's full interview with Nvidia Interim CEO Colette Kress",
       "url": "https://www.cnbc.com/video/2026/11/17/watch-jim-cramers-full-interview-with-nvidia-interim-ceo-colette-kress.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.374526",
+      "crawled_at": "2026-11-20T20:56:42.560301",
       "published_time": "Tue, Nov 17th 2026"
     },
     {
       "title": "Evercore ISI's Daryanani: Neoclouds are capacity and financing constrained, not demand constrained",
       "url": "https://www.cnbc.com/video/2026/11/17/evercore-isis-daryanani-neoclouds-are-capacity-and-financing-constrained-not-demand-constrained.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.374599",
+      "crawled_at": "2026-11-20T20:56:42.560390",
       "published_time": "Tue, Nov 17th 2026"
     },
     {
       "title": "Nvidia board will likely stick to decision regarding Jensen Huang, says StoneX's Cody Acree",
       "url": "https://www.cnbc.com/video/2026/11/17/nvidia-board-will-likely-stick-to-decision-regarding-jensen-huang-says-stonexs-cody-acree.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.374671",
+      "crawled_at": "2026-11-20T20:56:42.560463",
       "published_time": "Tue, Nov 17th 2026"
     },
     {
       "title": "SEC investigation an 'expected outcome' for Nvidia, says Deepwater's Gene Munster",
       "url": "https://www.cnbc.com/video/2026/11/17/sec-investigation-an-expected-outcome-for-nvidia-says-deepwaters-gene-munster.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.374742",
+      "crawled_at": "2026-11-20T20:56:42.560535",
       "published_time": "Tue, Nov 17th 2026"
     },
     {
       "title": "Jensen Huang scandal fuels bipartisan push to block AI chip sales to China",
       "url": "https://www.cnbc.com/2026/11/17/congress-ai-china-jensen-huang-chips.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.374813",
+      "crawled_at": "2026-11-20T20:56:42.560607",
       "published_time": "Wed, Nov 18th 2026"
     },
     {
       "title": "Nvidia beats on Q3 revenue and earnings, stock pops slightly on results",
       "url": "https://www.cnbc.com/video/2026/11/17/nvidia-beats-on-q3-revenue-and-earnings-stock-pops-slightly-on-results.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.374883",
+      "crawled_at": "2026-11-20T20:56:42.560679",
       "published_time": "Tue, Nov 17th 2026"
     },
     {
       "title": "SEC is probing Nvidia amid Jensen Huang departure, according to the Wall Street Journal",
       "url": "https://www.cnbc.com/video/2026/11/17/sec-is-probing-nvidia-amid-jensen-huang-departure-according-to-the-wall-street-journal.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.374954",
+      "crawled_at": "2026-11-20T20:56:42.560749",
       "published_time": "Tue, Nov 17th 2026"
     },
     {
       "title": "Former federal prosecutor Katie Sweeten explains what's at stake in the government's Megaspeed probe",
       "url": "https://www.cnbc.com/video/2026/11/17/former-federal-prosecutor-katie-sweeten-explains-whats-at-stake-in-the-governments-megaspeed-probe.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.375027",
+      "crawled_at": "2026-11-20T20:56:42.560819",
       "published_time": "Tue, Nov 17th 2026"
     },
     {
       "title": "Dept. of Commerce, Dept. of Justice release joint statement on investigation into Megaspeed",
       "url": "https://www.cnbc.com/video/2026/11/17/dept-of-commerce-dept-of-justice-release-joint-statement-on-investigation-into-megaspeed.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.375109",
+      "crawled_at": "2026-11-20T20:56:42.560890",
       "published_time": "Tue, Nov 17th 2026"
     },
     {
       "title": "Jensen Huang, Nvidia lawyer slated to appear before House panels in December",
       "url": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-house-committee.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.375187",
+      "crawled_at": "2026-11-20T20:56:42.560976",
       "published_time": "Tue, Nov 17th 2026"
     },
     {
       "title": "Nvidia closes lower ahead of earnings as company reels from Huang resignation",
       "url": "https://www.cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.375264",
+      "crawled_at": "2026-11-20T20:56:42.561053",
       "published_time": "Tue, Nov 17th 2026"
     },
     {
       "title": "Huang's departure may dampen appetite for financing AI: NFG Partners",
       "url": "https://www.cnbc.com/video/2026/11/17/huangs-departure-may-dampen-appetite-for-financing-ai-nfg-partners.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.375338",
+      "crawled_at": "2026-11-20T20:56:42.561126",
       "published_time": "Tue, Nov 17th 2026"
     },
     {
       "title": "Nvidia warns chip buyers of legal risks tied to China AI access: Sources",
       "url": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.375410",
+      "crawled_at": "2026-11-20T20:56:42.561197",
       "published_time": "Wed, Nov 18th 2026"
     },
     {
       "title": "Thai Vice Min: Prepared for higher tariffs from U.S. and restriction on chips",
       "url": "https://www.cnbc.com/video/2026/11/17/thai-vice-min-prepared-for-higher-tariffs-from-us-and-restriction-on-chips.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.375483",
+      "crawled_at": "2026-11-20T20:56:42.561267",
       "published_time": "Tue, Nov 17th 2026"
     },
     {
-      "title": "U.S. 'basically won the AI race' as China faces tighter chip curbs: KraneShares",
-      "url": "https://www.cnbc.com/video/2026/11/17/us-has-basically-won-ai-race-as-china-faces-chip-curbs-kraneshares.html",
+      "title": "Cramer: Nvidia turmoil overshadows Anthropic IPO",
+      "url": "https://www.cnbc.com/2026/11/19/nvidia-anthropic-ipo-ai-trade.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.375554",
-      "published_time": "Mon, Nov 16th 2026"
-    },
-    {
-      "title": "Anthropic IPO could be a referendum on AI, says CIO",
-      "url": "https://www.cnbc.com/video/2026/11/17/anthropic-ipo-could-be-a-referendum-on-ai-says-cio.html",
-      "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.375626",
-      "published_time": "Mon, Nov 16th 2026"
-    },
-    {
-      "title": "Nvidia's distraction could create opportunities for chip rivals: Strategist",
-      "url": "https://www.cnbc.com/video/2026/11/17/nvidias-distraction-could-create-opportunities-for-chip-rivals.html",
-      "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.375696",
-      "published_time": "Mon, Nov 16th 2026"
-    },
-    {
-      "title": "Fairlead's Katie Stockton on if technical indicators are showing more downside ahead for Nvidia",
-      "url": "https://www.cnbc.com/video/2026/11/16/fairleads-katie-stockton-on-if-technical-indicators-are-showing-more-downside-ahead-for-nvidia.html",
-      "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.375768",
-      "published_time": "Mon, Nov 16th 2026"
-    },
-    {
-      "title": "U.S. is absolutely slowing China down in AI chip race, says China Beige Book CEO",
-      "url": "https://www.cnbc.com/video/2026/11/16/us-is-absolutely-slowing-china-down-in-ai-chip-race-says-china-beige-book-ceo.html",
-      "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.375840",
-      "published_time": "Mon, Nov 16th 2026"
-    },
-    {
-      "title": "As Huang won Trump’s favor, the president’s accounts traded up to $97.5M in Nvidia",
-      "url": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
-      "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.375911",
-      "published_time": "Tue, Nov 17th 2026"
-    },
-    {
-      "title": "Altimeter's Brad Gerstner aims to invest $5 billion in Anthropic IPO",
-      "url": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
-      "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.375981",
-      "published_time": "Tue, Nov 17th 2026"
-    },
-    {
-      "title": "Nvidia board not considering bringing Jensen Huang back as CEO: Source",
-      "url": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
-      "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.376052",
-      "published_time": "Mon, Nov 16th 2026"
-    },
-    {
-      "title": "Trump says he's OK with Jensen Huang returning as Nvidia CEO",
-      "url": "https://www.cnbc.com/2026/11/16/trump-lutnick-nvidia-national-security-jensen-huant.html",
-      "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.376136",
-      "published_time": "Mon, Nov 16th 2026"
+      "crawled_at": "2026-11-20T20:56:43.080404",
+      "published_time": "Thu, Nov 19th 2026"
     },
     {
       "title": "Trump bought Nvidia, Palantir, SpaceX as federal deals, White House ties grew",
       "url": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.663740",
-      "published_time": "an hour ago"
+      "crawled_at": "2026-11-20T20:56:43.080757",
+      "published_time": "Thu, Nov 19th 2026"
     },
     {
-      "title": "AMD dives on short-seller report of alleged China exposure",
+      "title": "AMD dives on short seller report of alleged China exposure",
       "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.663990",
-      "published_time": "3 hours ago"
+      "crawled_at": "2026-11-20T20:56:43.080983",
+      "published_time": "Thu, Nov 19th 2026"
     },
     {
       "title": "Amazon app warns New York of higher costs if Mamdani delivery law passes",
       "url": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.664081",
-      "published_time": "26 min ago"
-    },
-    {
-      "title": "Cramer says Nvidia has a new problem — and it has nothing to do with earnings",
-      "url": "https://www.cnbc.com/2026/11/18/nvidia-cramer-anthropic-ipo-ceo.html",
-      "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.664675",
+      "crawled_at": "2026-11-20T20:56:43.081096",
       "published_time": "Thu, Nov 19th 2026"
-    },
-    {
-      "title": "Nvidia interim CEO Kress addresses employees after Jensen Huang’s exit",
-      "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
-      "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.664921",
-      "published_time": "Thu, Nov 19th 2026"
-    },
-    {
-      "title": "Nvidia's numbers and Anthropic anticipation drive Nasdaq futures up",
-      "url": "https://www.cnbc.com/2026/11/18/nvidias-numbers-and-anthropic-anticipation-drive-nasdaq-futures-up.html",
-      "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.665504",
-      "published_time": "Wed, Nov 18th 2026"
-    },
-    {
-      "title": "Nvidia’s Kress faces divided workforce as some employees push for Huang’s return",
-      "url": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
-      "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.665667",
-      "published_time": "Wed, Nov 18th 2026"
-    },
-    {
-      "title": "New U.S. chip curbs put Southeast Asia's data center boom at risk",
-      "url": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html",
-      "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.665895",
-      "published_time": "Wed, Nov 18th 2026"
-    },
-    {
-      "title": "Nvidia earnings beat, but analysts question who and what comes next",
-      "url": "https://www.cnbc.com/2026/11/18/nvidia-earnings-market-analysis.html",
-      "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.666060",
-      "published_time": "Wed, Nov 18th 2026"
-    },
-    {
-      "title": "With Jensen Huang gone, Colette Kress shows Nvidia is still at the center of AI",
-      "url": "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html",
-      "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.666178",
-      "published_time": "Tue, Nov 17th 2026"
     },
     {
       "title": "Eli Lilly’s obesity pill eases sleep apnea in late-stage trial",
       "url": "https://www.cnbc.com/2026/11/09/eli-lilly-foundayo-sleep-apnea-trial.html",
       "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.915381",
+      "crawled_at": "2026-11-20T20:56:43.655762",
       "published_time": "Mon, Nov 9th 2026"
-    },
-    {
-      "title": "Eli Lilly blows past estimates, hikes sales outlook on resilient GLP-1 demand",
-      "url": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
-      "source": "CNBC",
-      "crawled_at": "2026-11-19T21:12:42.917100",
-      "published_time": "Thu, Oct 29th 2026"
     }
   ]
 }
